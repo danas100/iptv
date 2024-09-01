@@ -1,0 +1,1297 @@
+#EXTM3U generation-date="2024.09.01 18:01:41 MSK"
+#EXTINF:0 tvg-id="IL: Channel 11" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/428.png"  timeshift="6", IL: Channel 11
+http://3.troya.one:34000/ch428/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIL6Uy7SVYH0LvA9iIj0cxNn0-FqFVMideRkbX9G9xOg
+#EXTINF:0 tvg-id="IL: Channel 12" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/429.png"  timeshift="6", IL: Channel 12
+http://3.troya.one:34000/ch429/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKO1_keE5YLkyXYzadIBPNqU-7hPGZD67wFkU_CogNipx
+#EXTINF:0 tvg-id="IL: Channel 13" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/430.png"  timeshift="6", IL: Channel 13
+http://3.troya.one:34000/ch430/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAeZmgQaLYhlyvrX_FQ9Zc2XPpOEQo8dJ4e5r9Mq1Bcs
+#EXTINF:0 tvg-id="IL: Channel 14" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1119.png"  timeshift="6", IL: Channel 14
+http://3.troya.one:34000/ch1119/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPoOBWOGLGn98NAtvKIbSW-MI-q71PGzjOeOf5UNZN9t
+#EXTINF:0 tvg-id="IL: i24 News" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2824.png"  timeshift="0", IL: i24 News
+http://3.troya.one:34000/ch2824/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDV139WExJUylalfSyjG9x7TbwHgGG3aBzgVXh6K1Scz
+#EXTINF:0 tvg-id="IL: Nat Geo HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1126.png"  timeshift="6", IL: Nat Geo HD
+http://3.troya.one:34000/ch1126/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFcUYiRmtxzMflaj2-W0_RVJF3uKvcGAzleI-voLqt3w
+#EXTINF:0 tvg-id="IL: Nat Geo Wild" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1138.png"  timeshift="6", IL: Nat Geo Wild
+http://3.troya.one:34000/ch1138/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKP6q4tz1U_b_n8YzMg0a8F_ch0IJiW90AediR3CYYExm
+#EXTINF:0 tvg-id="IL: Discovery Channel HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1120.png"  timeshift="6", IL: Discovery Channel HD
+http://3.troya.one:34000/ch1120/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPuoD3G-0kOE-hnIr8i3QNWLdhBts5Wbz6eKzW-Cos8J
+#EXTINF:0 tvg-id="IL: History HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1143.png"  timeshift="6", IL: History HD
+http://3.troya.one:34000/ch1143/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFiU9HOVLbq_oOYLt7eZkj7Spxq1dCcq8n_BO80Zi0q1
+#EXTINF:0 tvg-id="IL: Animal Planet HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2624.png"  timeshift="6", IL: Animal Planet HD
+http://3.troya.one:34000/ch2624/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLyKRj4ec00jDrIuPXX3f8NYnXJBjCVDwkvMhNrsM3Yc
+#EXTINF:0 tvg-id="IL: Aruch Sdarot Hahodiot" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2934.png"  timeshift="6", IL: Aruch Sdarot Hahodiot
+http://3.troya.one:34000/ch2934/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLIDlfNQZMAMqGrntW9_aDoWPgtjxADIao_gL4NebMoQ
+#EXTINF:0 tvg-id="IL: Aruch Sdarot Hahodiot 2" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2935.png"  timeshift="6", IL: Aruch Sdarot Hahodiot 2
+http://3.troya.one:34000/ch2935/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKD-PiwYJmlLdMUhLBUnR0CmVP943bIOlaKrmmmMpRGiz
+#EXTINF:0 tvg-id="IL: Big" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2032.png"  timeshift="7", IL: Big
+http://3.troya.one:34000/ch2032/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGz-BgR8DnKAhgCajhMFZn_O8pwjnlFytrEUUCcPo_qh
+#EXTINF:0 tvg-id="Il: Bollywood HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2616.png"  timeshift="0", Il: Bollywood HD
+http://3.troya.one:34000/ch2616/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPOvcL5Pb_DKcIMNEOc8lKz6dwBZa_rZo1_-Z8z3oreM
+#EXTINF:0 tvg-id="IL: Channel 24" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1142.png"  timeshift="6", IL: Channel 24
+http://3.troya.one:34000/ch1142/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCa0aQg591Yq8msdagUwTUFbx0pBZF7wCA6izrogIM94
+#EXTINF:0 tvg-id="IL: Cellcom Israel" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2499.png"  timeshift="6", IL: Cellcom Israel
+http://3.troya.one:34000/ch2499/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFIbPbp9UXfORJiBNxD16WAl_15-VERuyNBbpHmH_jBi
+#EXTINF:0 tvg-id="IL: Cellcom Sratim" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2495.png"  timeshift="6", IL: Cellcom Sratim
+http://3.troya.one:34000/ch2495/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHyLydwKejFGSK3LHYbeBmbgWEU9HnO4qlEE2nZPvywS
+#EXTINF:0 tvg-id="IL: Cellcom HBO HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2639.png"  timeshift="6", IL: Cellcom HBO HD
+http://3.troya.one:34000/ch2639/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAGJ1o5yvTBh9Bjp0djToDn7VmAaz78Da2K2Nz2Nh90J
+#EXTINF:0 tvg-id="IL: Cellcom Doco HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2640.png"  timeshift="6", IL: Cellcom Doco HD
+http://3.troya.one:34000/ch2640/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKL6JVsr_h-o-d5kwfu6P-1k6kJiE9wFKGeZTXjiRg0Q1
+#EXTINF:0 tvg-id="IL: CBS Reality" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2628.png"  timeshift="6", IL: CBS Reality
+http://3.troya.one:34000/ch2628/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKA8hR8e5-r_EHXjE1AeybJa7iCJpYsWy3_0Ip1eb9Qqa
+#EXTINF:0 tvg-id="IL: E!" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1122.png"  timeshift="6", IL: E!
+http://3.troya.one:34000/ch1122/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOJVyFdPkHkNYfeKrnkrtCv0v9GBnxJuyatMW_dJ2IHX
+#EXTINF:0 tvg-id="IL: Ego Total" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2498.png"  timeshift="3", IL: Ego Total
+http://3.troya.one:34000/ch2498/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGwuJI_MFOliJ2PhCHkuw5HWKdc-0CkQXhsatTz28Xmp
+#EXTINF:0 tvg-id="IL: Eurosport 1 HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2496.png"  timeshift="6", IL: Eurosport 1 HD
+http://3.troya.one:34000/ch2496/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFpndF5W5O5dIYMkoM36KOUMwS5dTc_RATwxgerYUKqG
+#EXTINF:0 tvg-id="IL: Eurosport 2 HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2497.png"  timeshift="6", IL: Eurosport 2 HD
+http://3.troya.one:34000/ch2497/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOhCv1wCUhdEVoEH1koC-qE5NnSkFyIE1Sv6zeY1UDRX
+#EXTINF:0 tvg-id="IL: Extreme Sports" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2615.png"  timeshift="6", IL: Extreme Sports
+http://3.troya.one:34000/ch2615/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKG-6tR2IL7haew4jdzh4bnGcvwlMbJY5jLljKah7-kQx
+#EXTINF:0 tvg-id="IL: Edge Sport HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2629.png"  timeshift="6", IL: Edge Sport HD
+http://3.troya.one:34000/ch2629/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKALVnnMZpxM8ENEUJjJ4Mu_7CZxLrSbXAE4o392kynM8
+#EXTINF:0 tvg-id="IL: Erez Nehederet HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2544.png"  timeshift="6", IL: Erez Nehederet HD
+http://3.troya.one:34000/ch2544/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIvKDpl-qR6tos4hOhbmrr4eZfuLFwgZSE7hdgEpw3kA
+#EXTINF:0 tvg-id="IL: Free Tv Drama HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2539.png"  timeshift="6", IL: Free Tv Drama HD
+http://3.troya.one:34000/ch2539/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPA3t6HQBDPGg5GoICTJ0DOuteLcAn1hm4mmjIHMGugZ
+#EXTINF:0 tvg-id="IL: Free Tv Comedy HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2540.png"  timeshift="6", IL: Free Tv Comedy HD
+http://3.troya.one:34000/ch2540/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDpuTJlb7kDTBxsZifLLSQ1La9NPc7RgvyVzHVocaauM
+#EXTINF:0 tvg-id="IL: Free Tv Lifestyle HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2541.png"  timeshift="6", IL: Free Tv Lifestyle HD
+http://3.troya.one:34000/ch2541/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHt9imQjg_KDZaAbpzsVrCTfGEM8A-dkgmvva059Vbzn
+#EXTINF:0 tvg-id="IL: Free Tv Cooking HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2542.png"  timeshift="6", IL: Free Tv Cooking HD
+http://3.troya.one:34000/ch2542/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFIqABQFX2HhPZkD4JCFlFJvNT7kkdPKmkrPeCwqFLeC
+#EXTINF:0 tvg-id="IL: Free Tv Doco HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2543.png"  timeshift="6", IL: Free Tv Doco HD
+http://3.troya.one:34000/ch2543/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKjs9TeZB9Rq1aU1EIDFJrRF_NN7vmlENUBPthm9JSaq
+#EXTINF:0 tvg-id="IL: Free Tv Hatuna HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1183.png"  timeshift="0", IL: Free Tv Hatuna HD
+http://3.troya.one:34000/ch1183/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHgEyW0OWGxO4362RgjBW5KaHB2UvVzBT5YjSKHTPOho
+#EXTINF:0 tvg-id="IL: Free Tv Karaoke HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2086.png"  timeshift="0", IL: Free Tv Karaoke HD
+http://3.troya.one:34000/ch2086/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHZX3iVDgUI6vDIwy9bm1km3fV8sVKn0Ak_69K9VOYS6
+#EXTINF:0 tvg-id="IL: Free Tv Kohav Haba HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2087.png"  timeshift="0", IL: Free Tv Kohav Haba HD
+http://3.troya.one:34000/ch2087/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKteC_oN9ZHfIJJASat-zhIIxp-tTvRQkqlDRh29u0_k
+#EXTINF:0 tvg-id="IL: Free Series Global HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2533.png"  timeshift="6", IL: Free Series Global HD
+http://3.troya.one:34000/ch2533/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKD3UBbk7WoSB04wEtpOjnRf4ulgbqOTaTF8DkBAIUn2B
+#EXTINF:0 tvg-id="IL: Free Movies Action HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2537.png"  timeshift="6", IL: Free Movies Action HD
+http://3.troya.one:34000/ch2537/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIX4fM1ETyy9V3Suzhf7sdPATpmj2BTyUoZHwIihiaG4
+#EXTINF:0 tvg-id="IL: Free Movies Comedy HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1193.png"  timeshift="6", IL: Free Movies Comedy HD
+http://3.troya.one:34000/ch1193/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNEjy34KSsxSfjdX9XyXeON_WOu_mf3ylNw-nkyb1jB7
+#EXTINF:0 tvg-id="IL: Free Movies Drama HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2534.png"  timeshift="6", IL: Free Movies Drama HD
+http://3.troya.one:34000/ch2534/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKA6YHn2LDbqooUDyqTZZKDLN9CQoZhwJiKe0YiubK184
+#EXTINF:0 tvg-id="IL: Free Movies Horror HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2535.png"  timeshift="6", IL: Free Movies Horror HD
+http://3.troya.one:34000/ch2535/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOIhRk0ybHvJa3-FrlesVWsWtwARaDyFaAcHNJL_AYkC
+#EXTINF:0 tvg-id="IL: Free Movies Romantic HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2536.png"  timeshift="6", IL: Free Movies Romantic HD
+http://3.troya.one:34000/ch2536/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPs6FRthzJvsGXktdfmHgH5BizPXXV-yRREpHIXZoDnk
+#EXTINF:0 tvg-id="IL: Free Israeli Movies HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2538.png"  timeshift="6", IL: Free Israeli Movies HD
+http://3.troya.one:34000/ch2538/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJWtg1upIfbn7awk54FjXGFuGIQkH3t7GPGUAGDlR7w1
+#EXTINF:0 tvg-id="IL: Free Movies Family HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2617.png"  timeshift="6", IL: Free Movies Family HD
+http://3.troya.one:34000/ch2617/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFmB7Xab80mXAF6ur-dcwbw-Km1XQuH5eQ-jknrqw_f3
+#EXTINF:0 tvg-id="IL: Food Channel HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1124.png"  timeshift="6", IL: Food Channel HD
+http://3.troya.one:34000/ch1124/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKL7L4ZQeYyjRwh5Rd3ds1u2CmlouI90ZyLjROgn4G2PC
+#EXTINF:0 tvg-id="IL: Foody HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2630.png"  timeshift="6", IL: Foody HD
+http://3.troya.one:34000/ch2630/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKG6FklVnjmuiLrLt3JdsuEiXIgh4wQlK77qj7_uXVzMy
+#EXTINF:0 tvg-id="IL: Fomo" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2627.png"  timeshift="6", IL: Fomo
+http://3.troya.one:34000/ch2627/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKP9RyqBTz581mRKBJwxMY-DS31Zy31vRg0ENTKB4p6tU
+#EXTINF:0 tvg-id="IL: Fashion" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2642.png"  timeshift="0", IL: Fashion
+http://3.troya.one:34000/ch2642/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJozXttqZ0Kkvla5JmSlKQj1lWYsotPY_UvwD42w-5m3
+#EXTINF:0 tvg-id="IL: Good Life TV HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1141.png"  timeshift="6", IL: Good Life TV HD
+http://3.troya.one:34000/ch1141/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLX1pgLAA4PVH_0lPxzR1-QRCM1FJ63A_i1_84l9iBJF
+#EXTINF:0 tvg-id="IL: Health Channel HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1176.png"  timeshift="6", IL: Health Channel HD
+http://3.troya.one:34000/ch1176/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPjHWrROLjHfjNMXUFqLJis2Awi40-hr0pFIEoAwcEGP
+#EXTINF:0 tvg-id="IL: Humor Channel" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1178.png"  timeshift="6", IL: Humor Channel
+http://3.troya.one:34000/ch1178/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCtx1m8L8_3XtJceP0fDirYq7H0uq3zlIPMVG_AdJRp2
+#EXTINF:0 tvg-id="IL: HOT Cinema 1 HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1161.png"  timeshift="6", IL: HOT Cinema 1 HD
+http://3.troya.one:34000/ch1161/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLIoXK9exYl5fsmdK_d683Ws3u9WcL--Avw8jC0jN-1e
+#EXTINF:0 tvg-id="IL: HOT Cinema 2 HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1172.png"  timeshift="6", IL: HOT Cinema 2 HD
+http://3.troya.one:34000/ch1172/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKImB8n7UOQwubl8NfJraXEuj4xBV2_7Sj3jiYvzc01AJ
+#EXTINF:0 tvg-id="IL: HOT Cinema 3 HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1140.png"  timeshift="6", IL: HOT Cinema 3 HD
+http://3.troya.one:34000/ch1140/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGJZ-5bt25_k704Dxkdv7-k77jdeCJj0eRZRcbin7IqT
+#EXTINF:0 tvg-id="IL: HOT Cinema 4 HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1192.png"  timeshift="6", IL: HOT Cinema 4 HD
+http://3.troya.one:34000/ch1192/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIXULCX6M_ox_87a2s7nVXWsnmpL1Ez-w4OZd7H1K6Fj
+#EXTINF:0 tvg-id="IL: HOT Cinema Israeli HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1133.png"  timeshift="6", IL: HOT Cinema Israeli HD
+http://3.troya.one:34000/ch1133/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHlgya-yH7gnIzXGGBW8K1WO-WB_RhFUkBmx6vHguul5
+#EXTINF:0 tvg-id="IL: HOT Cinema Family HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1153.png"  timeshift="6", IL: HOT Cinema Family HD
+http://3.troya.one:34000/ch1153/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOkm_udESpHg5iZRTflZkfaklMc7xSEcLHIUmcOJVN7o
+#EXTINF:0 tvg-id="IL: HOT Zone HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1139.png"  timeshift="6", IL: HOT Zone HD
+http://3.troya.one:34000/ch1139/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKM2OeeMdlhEWkYm4XmUIGEfWTcQF2Kn58flmCKkje0c0
+#EXTINF:0 tvg-id="IL: HOT 3 HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1147.png"  timeshift="6", IL: HOT 3 HD
+http://3.troya.one:34000/ch1147/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJpx8gBCZY-IrnQzne01KDsbdoopL2GZS0JPwpxaE1yG
+#EXTINF:0 tvg-id="IL: HOT 8 HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1144.png"  timeshift="6", IL: HOT 8 HD
+http://3.troya.one:34000/ch1144/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHfwJ-JdjlBtFMJkA28J-kjpsFHk6Z_-lh9_zYT2vRQR
+#EXTINF:0 tvg-id="IL: HOT Bidur HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1163.png"  timeshift="6", IL: HOT Bidur HD
+http://3.troya.one:34000/ch1163/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCD2xa9EGdTvns9NIEPevJMUHe0RzASilR_8SOEaEfAv
+#EXTINF:0 tvg-id="IL: HOT Comedy Central HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1174.png"  timeshift="6", IL: HOT Comedy Central HD
+http://3.troya.one:34000/ch1174/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBpzTYJVQP3Dti3t-ms322vazeE_oW0Hv3E_ag8jjWWj
+#EXTINF:0 tvg-id="IL: HOT Real HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1173.png"  timeshift="6", IL: HOT Real HD
+http://3.troya.one:34000/ch1173/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFPffpSNxAA1__sj-yFage9MhrtFElJoZFG2R3YcL_bo
+#EXTINF:0 tvg-id="IL: HOT Senior HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2613.png"  timeshift="6", IL: HOT Senior HD
+http://3.troya.one:34000/ch2613/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOVtfbymSUEUoZHVU9f69lsOUAt5GcFNnVznhgQQh-_l
+#EXTINF:0 tvg-id="IL: HOT HBO HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1175.png"  timeshift="6", IL: HOT HBO HD
+http://3.troya.one:34000/ch1175/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEdLfLdHN51e-FxsrndX8pdDzhRD2bpdoBb6AchT0BfA
+#EXTINF:0 tvg-id="IL: Home Plus" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2631.png"  timeshift="6", IL: Home Plus
+http://3.troya.one:34000/ch2631/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJDazsbuMbyAUr8STrYaXnxQq1HQc3vGq-XQE0rkYkaY
+#EXTINF:0 tvg-id="IL: Kan Chinuchit 23" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1171.png"  timeshift="6", IL: Kan Chinuchit 23
+http://3.troya.one:34000/ch1171/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJgCcJlh2Dc5RvjnbSgQIfNGFMmkGYS8GdguoW_CulUK
+#EXTINF:0 tvg-id="IL: Love Island" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2004.png"  timeshift="3", IL: Love Island
+http://3.troya.one:34000/ch2004/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEIwI3k76Kl-AyGmdGk2G8cWluJMfT0Qc78y6V5sq6G7
+#EXTINF:0 tvg-id="IL: MTV HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2623.png"  timeshift="6", IL: MTV HD
+http://3.troya.one:34000/ch2623/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGWW9uQm6VJVQPv6l3-oTiq1UIgxlyitUbCZMtMvR6PD
+#EXTINF:0 tvg-id="IL: Makan 33 HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1181.png"  timeshift="6", IL: Makan 33 HD
+http://3.troya.one:34000/ch1181/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHoxGjEeKBOmc1A3u4HUEOb0k9nCNyKdDFFEoEOAtEB8
+#EXTINF:0 tvg-id="IL: ONE Doco" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1195.png"  timeshift="6", IL: ONE Doco
+http://3.troya.one:34000/ch1195/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEDuHWfJZTgGJr61Nn589GXB63aOl7UPwKV99b40aF7m
+#EXTINF:0 tvg-id="IL: ONE 1 HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1186.png"  timeshift="6", IL: ONE 1 HD
+http://3.troya.one:34000/ch1186/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHKQ3XmdxbYv7rt5FSeVqAnP7FTaBwHycmjtYW5VkLRb
+#EXTINF:0 tvg-id="IL: ONE 2 HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1145.png"  timeshift="6", IL: ONE 2 HD
+http://3.troya.one:34000/ch1145/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNysFSpjdi4JI9WpOIBRi4iKAhCWwVGin2UWDt9ZrE4n
+#EXTINF:0 tvg-id="IL: Partner Sratim" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2609.png"  timeshift="6", IL: Partner Sratim
+http://3.troya.one:34000/ch2609/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCCB4X26aY9hW7-MfOhHEoS7ExyAAXih19P9D2-fRfCB
+#EXTINF:0 tvg-id="IL: Partner Sdarot" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2610.png"  timeshift="6", IL: Partner Sdarot
+http://3.troya.one:34000/ch2610/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPEt0ZKeSYyVAWFA_pjwuzRz1GOAo_ksBN8MFk5CYJ6v
+#EXTINF:0 tvg-id="IL: Reality HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1182.png"  timeshift="6", IL: Reality HD
+http://3.troya.one:34000/ch1182/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEySxRjvdyobnXLM2qth8gGO08J6EEJ6gRLNp5Px-QMv
+#EXTINF:0 tvg-id="IL: Sport 1 FHD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1128.png"  timeshift="6", IL: Sport 1 FHD
+http://3.troya.one:34000/ch1128/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGOJ0Gzj2fOw5JpodWr4VvTydOSd6AXyyVlA0FeyBxcg
+#EXTINF:0 tvg-id="IL: Sport 2 FHD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1129.png"  timeshift="6", IL: Sport 2 FHD
+http://3.troya.one:34000/ch1129/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCStc11OKrUF438iHSxWg6iv6hIA1Ik4g-7fojBV0CEg
+#EXTINF:0 tvg-id="IL: Sport 3 FHD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1130.png"  timeshift="6", IL: Sport 3 FHD
+http://3.troya.one:34000/ch1130/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFhboYZOwLw_qe3fFFOhec_ZABY_e7FO9ZyCUxr-FEmk
+#EXTINF:0 tvg-id="IL: Sport 4 FHD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1131.png"  timeshift="6", IL: Sport 4 FHD
+http://3.troya.one:34000/ch1131/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKvKQvYBNwwHYNbwICFVOQoYglPBQajTHvA_6IWa3Jhg
+#EXTINF:0 tvg-id="IL: Sport 5" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1132.png"  timeshift="6", IL: Sport 5
+http://3.troya.one:34000/ch1132/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDjKCneeQBrONArGhHH7_2cLV4aMYywyrvud8IR2ELlA
+#EXTINF:0 tvg-id="IL: Sport 5 4K" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2211.png"  timeshift="0", IL: Sport 5 4K
+http://3.troya.one:34000/ch2211/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGPhiEFJchxbog8AaqqomFzhOueU_AufXLjvrJFp6k7t
+#EXTINF:0 tvg-id="IL: Sport 5 Livе" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1155.png"  timeshift="6", IL: Sport 5 Livе
+http://3.troya.one:34000/ch1155/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPTlIoGN3LXcG1v5nl1903WdCpKtJ1Q7QI4dg_wly7PB
+#EXTINF:0 tvg-id="IL: Sport 5 Plus" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1134.png"  timeshift="6", IL: Sport 5 Plus
+http://3.troya.one:34000/ch1134/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHddmoaiYaktIacpN-LhZCHTYOI8epLiocrgqv59S0sw
+#EXTINF:0 tvg-id="IL: Sport 5 Gold" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1135.png"  timeshift="6", IL: Sport 5 Gold
+http://3.troya.one:34000/ch1135/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKH_Fqg0_lldBFy3KPEw6PxQ5WJcVl7tu2kENub5IuzZ4
+#EXTINF:0 tvg-id="IL: Sport 5 Stars" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1156.png"  timeshift="6", IL: Sport 5 Stars
+http://3.troya.one:34000/ch1156/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKI2zk-7le-3tKMZt_4OsxvsEiCbQcmpesr_hxInHj4sS
+#EXTINF:0 tvg-id="IL: Sport TO GO 1" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2618.png"  timeshift="0", IL: Sport TO GO 1
+http://3.troya.one:34000/ch2618/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDeLVlD29FSBKQ-23ChYnSKGhCkAmEdVTJq1e4mEGrrP
+#EXTINF:0 tvg-id="IL: Sport TO GO 2" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2619.png"  timeshift="0", IL: Sport TO GO 2
+http://3.troya.one:34000/ch2619/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFu7fBj0yyBn3UCXcfU8Wyip80_DcfnvU8qtmtGnSpQF
+#EXTINF:0 tvg-id="IL: Savri HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2545.png"  timeshift="6", IL: Savri HD
+http://3.troya.one:34000/ch2545/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKB3Mywo6MFXkzHv6SKTRkhhNZWupoZ-VBUf_iKL2eGwV
+#EXTINF:0 tvg-id="IL: Star Channel" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1167.png"  timeshift="6", IL: Star Channel
+http://3.troya.one:34000/ch1167/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHqSiUc0-wFEIm1hDZ7QWs4xE4lEYy2RdDmS1J_e-htj
+#EXTINF:0 tvg-id="IL: Travel Channel HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1136.png"  timeshift="6", IL: Travel Channel HD
+http://3.troya.one:34000/ch1136/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKO1ZyRZSuDc9Gbpcv5gh_t6VxKO4pe3yfGKdu-jgmmCN
+#EXTINF:0 tvg-id="IL: Turkish Drama Plus" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2028.png"  timeshift="6", IL: Turkish Drama Plus
+http://3.troya.one:34000/ch2028/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKM6GbG1KzncwFWVNvRqi8cdXHlPP0NJiZum8nckuaInH
+#EXTINF:0 tvg-id="IL: Turkish Drama 2" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2029.png"  timeshift="6", IL: Turkish Drama 2
+http://3.troya.one:34000/ch2029/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMUsIgINnBsZpD3Lut3i59ZnLnO5RxkB7eTVK10w3YPi
+#EXTINF:0 tvg-id="IL: Turkish Drama 3" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2611.png"  timeshift="6", IL: Turkish Drama 3
+http://3.troya.one:34000/ch2611/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMYz9sI-mHjfFbrP1Cv6qACUMyQzxWj7DkOGO3JR0jCe
+#EXTINF:0 tvg-id="IL: TLC HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2632.png"  timeshift="6", IL: TLC HD
+http://3.troya.one:34000/ch2632/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLGaLfDGzOhu_utMs7w49rpc3u1PehPDDd2pujaa3Uwp
+#EXTINF:0 tvg-id="IL: Viva" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1189.png"  timeshift="6", IL: Viva
+http://3.troya.one:34000/ch1189/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCYs5REIreaAAZaCOOhtG2fKKuPcEnD2jAOgYwr9fNCJ
+#EXTINF:0 tvg-id="IL: Viva+" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1190.png"  timeshift="6", IL: Viva+
+http://3.troya.one:34000/ch1190/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMdICGsS_CHP_XoE0Z0_ZwXaZK3YZ06mk3msccfZSnTD
+#EXTINF:0 tvg-id="IL: Viva Vintage" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1146.png"  timeshift="6", IL: Viva Vintage
+http://3.troya.one:34000/ch1146/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHuA5mpzs238QRNlEirZxIAX27qv52MdUOPUd0fJAOkU
+#EXTINF:0 tvg-id="IL: Viva Premium HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1188.png"  timeshift="6", IL: Viva Premium HD
+http://3.troya.one:34000/ch1188/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFe5a7T48TWLQvH8ggRKCmQ_AaTaweXk28sXj_4YVtc-
+#EXTINF:0 tvg-id="IL: Vamos HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2641.png"  timeshift="6", IL: Vamos HD
+http://3.troya.one:34000/ch2641/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHum58jXedBQHIE4CXCHZK41O6zY2RpkKF5Uoz4UNcJc
+#EXTINF:0 tvg-id="IL: YES Movies Action HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1148.png"  timeshift="6", IL: YES Movies Action HD
+http://3.troya.one:34000/ch1148/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAdYqHDr46a4vMOihnA3P0TxbF_zff0dDqTlCtx9zfCx
+#EXTINF:0 tvg-id="IL: YES Movies Comedy HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1149.png"  timeshift="6", IL: YES Movies Comedy HD
+http://3.troya.one:34000/ch1149/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHiJJGyk1B_Htx3AqWe0HR48jF51jiIFe3TtgM6mwJjl
+#EXTINF:0 tvg-id="IL: YES Movies Drama HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1150.png"  timeshift="6", IL: YES Movies Drama HD
+http://3.troya.one:34000/ch1150/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGkkVvy913wOQfBLOFSg0LoByvLDZU09Lf9m9vyantWE
+#EXTINF:0 tvg-id="IL: YES TV Comedy HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1159.png"  timeshift="6", IL: YES TV Comedy HD
+http://3.troya.one:34000/ch1159/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIFwCu26s-XeOjtwwerhdtkWvZPaCb76dZdlpb_muwer
+#EXTINF:0 tvg-id="IL: YES TV Action HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1158.png"  timeshift="6", IL: YES TV Action HD
+http://3.troya.one:34000/ch1158/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFTwF89DH4gnLRPeFGPOjbuK8AouhN02v3WURz2Ar1V_
+#EXTINF:0 tvg-id="IL: YES TV Drama HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1160.png"  timeshift="6", IL: YES TV Drama HD
+http://3.troya.one:34000/ch1160/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGvgCQbR51GkztMvmwsv8ARnoZi-ksfk3eBpQMlTSKt5
+#EXTINF:0 tvg-id="IL: YES Docu HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1137.png"  timeshift="6", IL: YES Docu HD
+http://3.troya.one:34000/ch1137/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLRX0dn9UJKq_EDd79TVnkyBDRBmWLFcbZzmt4vPbfxc
+#EXTINF:0 tvg-id="IL: YES Israeli Cinema HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/2030.png"  timeshift="6", IL: YES Israeli Cinema HD
+http://3.troya.one:34000/ch2030/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCzFr4NzkfgpRkYpaUsLdoq1186lknTidXHHHJYqyDJQ
+#EXTINF:0 tvg-id="IL: Yam Tihoni HD" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1191.png"  timeshift="6", IL: Yam Tihoni HD
+http://3.troya.one:34000/ch1191/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLn1iHMQ_-PqAqxW8mojtvBCdGc5LZAymSRYZ_9jwRHa
+#EXTINF:0 tvg-id="IL: Yam Tihoni 2" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1164.png"  timeshift="6", IL: Yam Tihoni 2
+http://3.troya.one:34000/ch1164/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMnwPacaNL8NVhtXWUoJkitLhRRTTBHYxeQQt2wZPubq
+#EXTINF:0 tvg-id="IL: Yam Tihoni Plus" group-title="1. Israel" tvg-logo="http://troya.one/images/chIcons/1152.png"  timeshift="6", IL: Yam Tihoni Plus
+http://3.troya.one:34000/ch1152/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKH3o9YW2QtLv3UK8ZKtcu_TC7kvB1Yx9b_2QF80y_jUx
+#EXTINF:0 tvg-id="Insight UHD" group-title="6. UHD" tvg-logo="http://troya.one/images/chIcons/512.png"  timeshift="0", Insight UHD
+http://3.troya.one:34000/ch512/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBLcPUSRSmebGhnraS9VSInOX4-DkCsjOnDKrkxr2mnW
+#EXTINF:0 tvg-id="КХЛ Prime HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/138.png"  timeshift="3", КХЛ Prime HD
+http://3.troya.one:34000/ch138/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKH9v5QNch3Kocs7CqSeaiHtOjD9mTyjdrhot0E2m2nAp
+#EXTINF:0 tvg-id="КХЛ HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/34.png"  timeshift="3", КХЛ HD
+http://3.troya.one:34000/ch034/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKElUGFumZjl7h0txnYwQYIy6LDJkp-dXpppEtR4N4AWB
+#EXTINF:0 tvg-id="БОКС ТВ" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/37.png"  timeshift="3", БОКС ТВ
+http://3.troya.one:34000/ch037/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOI08Jbw-3KdheKJ4ys3ttF3XL_MDXiTzvBGVj7gxAVl
+#EXTINF:0 tvg-id="Eurosport 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/39.png"  timeshift="3", Eurosport 1 HD
+http://3.troya.one:34000/ch039/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMOqvq7dYiUap94nDuQxnZjreAnyvUOUxR4uzuqU0KuP
+#EXTINF:0 tvg-id="Eurosport 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/71.png"  timeshift="3", Eurosport 2 HD
+http://3.troya.one:34000/ch071/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLv1tul95aiVoDhvmeuyO7zJ-q8-XgMDb8G_JW-DC2lR
+#EXTINF:0 tvg-id="Точка отрыва" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/48.png"  timeshift="3", Точка отрыва
+http://3.troya.one:34000/ch048/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJwkxhNF7Pyy4dZZWL_s0aciG1cRubm6aV_-poWG7o4F
+#EXTINF:0 tvg-id="МАТЧ! БОЕЦ" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/36.png"  timeshift="3", МАТЧ! БОЕЦ
+http://3.troya.one:34000/ch036/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDx4vph69X6k9QKYS3E1-tk3IysrNVwHrWSt3xCxl2aN
+#EXTINF:0 tvg-id="Матч! FHD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/57.png"  timeshift="3", Матч! FHD
+http://3.troya.one:34000/ch057/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJjp-ud2SqmDUZm039KwiD6EaDzYFOmQ66Hyk2_x4L3j
+#EXTINF:0 tvg-id="Матч! HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/609.png"  timeshift="0", Матч! HD
+http://3.troya.one:34000/ch609/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMYMCcTGelNoIV8rrRCNARoUwWDHG7__2co9oVgvZqTM
+#EXTINF:0 tvg-id="Матч! SD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2126.png"  timeshift="1", Матч! SD
+http://3.troya.one:34000/ch2126/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNzcNmNsuE1RHKIZmtRbgQaCzQjfs4_m1RIUUmP7bVsJ
+#EXTINF:0 tvg-id="Матч! Футбол 1 FHD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/61.png"  timeshift="3", Матч! Футбол 1 FHD
+http://3.troya.one:34000/ch061/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKClM9tdSc0Z94b0ln6s0zXjbW6AgoBLF6AxnTGGWhY0P
+#EXTINF:0 tvg-id="Матч! Футбол 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/695.png"  timeshift="3", Матч! Футбол 1 HD
+http://3.troya.one:34000/ch695/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJoC2Jr2XIYpGL5qAmTgJEU2iegzXWADN7oHI5Pw2dbT
+#EXTINF:0 tvg-id="Матч! Футбол 1 SD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2123.png"  timeshift="3", Матч! Футбол 1 SD
+http://3.troya.one:34000/ch2123/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKK4evwaLtYVSwVZGsCbULeVaOEP4VtrAGwtlV3Mfl2Kw
+#EXTINF:0 tvg-id="Матч! Футбол 2 FHD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/62.png"  timeshift="3", Матч! Футбол 2 FHD
+http://3.troya.one:34000/ch062/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKL1RljeUEPk9bfCRe_Hg3lM-5b9HiS1l59PQrmeQkRaU
+#EXTINF:0 tvg-id="Матч! Футбол 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/696.png"  timeshift="3", Матч! Футбол 2 HD
+http://3.troya.one:34000/ch696/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKG_D_fEhSr3IENu352iq76xMEiUptO7LY_90qWC_Qykm
+#EXTINF:0 tvg-id="Матч! Футбол 2 SD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2124.png"  timeshift="3", Матч! Футбол 2 SD
+http://3.troya.one:34000/ch2124/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGgvg4PErTV7PR3PqIpdjJodiFJ5Bt45JXErUqCh0TqS
+#EXTINF:0 tvg-id="Матч! Футбол 3 FHD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/63.png"  timeshift="3", Матч! Футбол 3 FHD
+http://3.troya.one:34000/ch063/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDQua9DsVJgRximu69r74bxHRg1bseN5D8wsZQSGYnPu
+#EXTINF:0 tvg-id="Матч! Футбол 3 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/697.png"  timeshift="3", Матч! Футбол 3 HD
+http://3.troya.one:34000/ch697/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPTZ03Twr7bre3G5zHeAso86_UVHRWuNNmw0P5hBxUkt
+#EXTINF:0 tvg-id="Матч! Футбол 3 SD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2125.png"  timeshift="3", Матч! Футбол 3 SD
+http://3.troya.one:34000/ch2125/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFe7dt25BeRD6wuaU9sMQOKQltJ5Hh7O_eoTEZ3S6eYT
+#EXTINF:0 tvg-id="Матч! Премьер FHD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/135.png"  timeshift="6", Матч! Премьер FHD
+http://3.troya.one:34000/ch135/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNBqmFbCDEFPmjbRklwYxAtOZtXvzLnFDE1A11IGgfOQ
+#EXTINF:0 tvg-id="Матч! Премьер HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/698.png"  timeshift="3", Матч! Премьер HD
+http://3.troya.one:34000/ch698/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKO0k6-xpFwtc7QQhwRTlADHq-FwHV9WwWHMt1jfv4G1p
+#EXTINF:0 tvg-id="Матч! Премьер SD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2005.png"  timeshift="0", Матч! Премьер SD
+http://3.troya.one:34000/ch2005/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKqz0mWqJdqNw-dKRGtSF12xQqEBaDKFuo_p2qFkoLAb
+#EXTINF:0 tvg-id="Матч! Игра FHD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/56.png"  timeshift="3", Матч! Игра FHD
+http://3.troya.one:34000/ch056/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJc1vATWp9bK3XcFVzsFdNRwO74iKqgV4mZ1Ivp9wfvY
+#EXTINF:0 tvg-id="Матч! Арена HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/55.png"  timeshift="3", Матч! Арена HD
+http://3.troya.one:34000/ch055/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNxt_DBNatC2L3RSkMTHyKu_pSwTk1CNnUWjAZZYhmqq
+#EXTINF:0 tvg-id="Матч! Страна" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/471.png"  timeshift="3", Матч! Страна
+http://3.troya.one:34000/ch471/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDcxQScFFwWUbl-QpGb_c6rSGi3vmgFZNDwuc2oe9OEz
+#EXTINF:0 tvg-id="Матч! Планета" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/688.png"  timeshift="3", Матч! Планета
+http://3.troya.one:34000/ch688/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLIDVvj8XVz6gt89Aa0RkhgBDdrpEjbhaT05M13DuEtr
+#EXTINF:0 tvg-id="Setanta Sports 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1993.png"  timeshift="6", Setanta Sports 1 HD
+http://3.troya.one:34000/ch1993/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKF9BBHpdFqSF4JWVmOrglxy8fmIkRUPwjgLCQWowTnl6
+#EXTINF:0 tvg-id="Setanta Sports 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/477.png"  timeshift="6", Setanta Sports 2 HD
+http://3.troya.one:34000/ch477/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGAkwPcuUFDKdPWJIrj6QEUVEPR-ZWC7QQHjyMqxg--X
+#EXTINF:0 tvg-id="Футбол HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1702.png"  timeshift="0", Футбол HD
+http://3.troya.one:34000/ch1702/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCXTGJ-v5NwQ6UhLSacSXGGNR4BjtFOtBKmEigTst3f6
+#EXTINF:0 tvg-id="Футбольный HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/708.png"  timeshift="0", Футбольный HD
+http://3.troya.one:34000/ch708/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAysQId-_Xp-O0eyJ0zE5dWxHQf1uj3PVcTu4Ksch-zZ
+#EXTINF:0 tvg-id="Спортивный HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/447.png"  timeshift="0", Спортивный HD
+http://3.troya.one:34000/ch447/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJRV2Qvt0MM0A1n2ayire5quZigcPft_ztEDjhnkjzlB
+#EXTINF:0 tvg-id="Хоккейный HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/663.png"  timeshift="0", Хоккейный HD
+http://3.troya.one:34000/ch663/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKB7Sa8rG1wBnsjPGZMrEJ_jBf4LuLYX-KhjAwJY2pMEE
+#EXTINF:0 tvg-id="Viju+ Sport" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/64.png"  timeshift="0", Viju+ Sport
+http://3.troya.one:34000/ch064/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIp0hxM149c2Xp48bNTqven52K3jaoLpDb_B4UKQj0Ys
+#EXTINF:0 tvg-id="Viju+ Sport HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/475.png"  timeshift="3", Viju+ Sport HD
+http://3.troya.one:34000/ch475/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJ2Lbz_s6a8XP_1RnMFzbTwHWKXNtyDB0V0l8wLDBxp0
+#EXTINF:0 tvg-id="Конный Мир HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/133.png"  timeshift="3", Конный Мир HD
+http://3.troya.one:34000/ch133/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPPHODoSTe5oDyYdKsNuRdKqOMRNXAK4P39r2ms6P2zI
+#EXTINF:0 tvg-id="UDAR TV HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/549.png"  timeshift="3", UDAR TV HD
+http://3.troya.one:34000/ch549/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKT0AGnOel4gBYXxEK84k9VVF0ezZ8AmY7hJYuiGlUR9
+#EXTINF:0 tvg-id="MMA-TV" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/526.png"  timeshift="3", MMA-TV
+http://3.troya.one:34000/ch526/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDaAK2tMH1we2H0pA11GmtPtTxvc7Q5sw190UXh72Rn5
+#EXTINF:0 tvg-id="Fast and FunBox HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/358.png"  timeshift="3", Fast and FunBox HD
+http://3.troya.one:34000/ch358/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOPrY_Ez8vrtwHX2QuQZPvUX8eTh7PtUUpuPlzxOf5GN
+#EXTINF:0 tvg-id="FightBox HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/359.png"  timeshift="3", FightBox HD
+http://3.troya.one:34000/ch359/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKELSgdcP8xak4FgIUhmztQcmgbtlO5jTrgtG9SLTZCFu
+#EXTINF:0 tvg-id="Russian Extreme Ultra" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/378.png"  timeshift="3", Russian Extreme Ultra
+http://3.troya.one:34000/ch378/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLDm-UUhZ426xG9dE2VGoRw1cZFuuu7CENaT38kOFeoz
+#EXTINF:0 tvg-id="Extreme Sports" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/476.png"  timeshift="3", Extreme Sports
+http://3.troya.one:34000/ch476/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBCVbVSnNs6GRNkg7elYXPzSQTvrSd4IuoMLMKg_W9A0
+#EXTINF:0 tvg-id="Живи!" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/530.png"  timeshift="0", Живи!
+http://3.troya.one:34000/ch530/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKI3nz35RAcXpVbzHpmfHWZSXiYkeT5h3Zw1faqyFaw3w
+#EXTINF:0 tvg-id="Живи Активно HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1880.png"  timeshift="0", Живи Активно HD
+http://3.troya.one:34000/ch1880/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKI3cZHm916wolr7Giydw-TTNbGG70ADYSArbRaMCegHC
+#EXTINF:0 tvg-id="Драйв" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/536.png"  timeshift="0", Драйв
+http://3.troya.one:34000/ch536/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKFmDtk6WI88olYk0W_ar5fUkrNOBl-AI4JrkcVp0qZH
+#EXTINF:0 tvg-id="Старт HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/662.png"  timeshift="0", Старт HD
+http://3.troya.one:34000/ch662/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFfbaeW2HD3HqlTqRW46u-vsHqy2zYLUZwNjmP1LPhji
+#EXTINF:0 tvg-id="Старт Триумф" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2502.png"  timeshift="3", Старт Триумф
+http://3.troya.one:34000/ch2502/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCATSs4psVcpZ_eihxJ5ogXlBQ9lh76VXeXLZYFY1x2Y
+#EXTINF:0 tvg-id="Мир Баскетбола" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/567.png"  timeshift="0", Мир Баскетбола
+http://3.troya.one:34000/ch567/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKITSqLgp1Akp_bwce1XjSkE_vFZ9vg2aJl6D235OS7RZ
+#EXTINF:0 tvg-id="NBA TV HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/725.png"  timeshift="0", NBA TV HD
+http://3.troya.one:34000/ch725/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOzm2p7v7Fgu6XhLWOAHSdSPqk1Qh01ZLYeyXbO-nH5R
+#EXTINF:0 tvg-id="Box Be ON Edge HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2282.png"  timeshift="6", Box Be ON Edge HD
+http://3.troya.one:34000/ch2282/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNMrQZdtClGD-HsENKCBpFYKaQGBTUtuEkgY9wnq-wWx
+#EXTINF:0 tvg-id="Box Be ON Edge 1 Live HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2283.png"  timeshift="6", Box Be ON Edge 1 Live HD
+http://3.troya.one:34000/ch2283/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKDpHlpTIBHNHF5jZuQYKRg7fUjta5pXTH6Kz-ElEdgi
+#EXTINF:0 tvg-id="Box Be ON Edge 2 Live HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2284.png"  timeshift="6", Box Be ON Edge 2 Live HD
+http://3.troya.one:34000/ch2284/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHInkXedbYmjmpD716UQMEu57eWrapskDgYDCfLLYg48
+#EXTINF:0 tvg-id="Box Be ON Edge Live 3 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/711.png"  timeshift="0", Box Be ON Edge Live 3 HD
+http://3.troya.one:34000/ch711/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLlMZnRjUlulhfR-ATZNZZ_4npFpBYo20KSAzNtLocpe
+#EXTINF:0 tvg-id="Box Sport Cast 1 Live" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2336.png"  timeshift="6", Box Sport Cast 1 Live
+http://3.troya.one:34000/ch2336/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJOMIRDLWlCPDWSTesa70TkZG_nLzyRNVfBaSW0DfCKq
+#EXTINF:0 tvg-id="Box Sport Cast 2 Live" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2337.png"  timeshift="6", Box Sport Cast 2 Live
+http://3.troya.one:34000/ch2337/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDchCos9ZwAXLFR_h9xeFQJWjGlx0cjJ67iBOgzgu4EK
+#EXTINF:0 tvg-id="Box Sport Cast 3 Live" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2338.png"  timeshift="6", Box Sport Cast 3 Live
+http://3.troya.one:34000/ch2338/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJHIBwTmuKZv3xX932mX6Ko_dZBwMaNJHrMJh9ngCaFx
+#EXTINF:0 tvg-id="Box Sport Cast 4 Live" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2339.png"  timeshift="2", Box Sport Cast 4 Live
+http://3.troya.one:34000/ch2339/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBjQsNcj2vtuU12R9IZj0K5yWQkYB2_yHH4jUDJJU9xi
+#EXTINF:0 tvg-id="Box Sport Cast 5 Live" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2340.png"  timeshift="0", Box Sport Cast 5 Live
+http://3.troya.one:34000/ch2340/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEvHS8dHnch0nllcdXiI9HLLCjV4pPBSw-BhxEQMzSHI
+#EXTINF:0 tvg-id="Box Sport Cast 6 Live" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2465.png"  timeshift="0", Box Sport Cast 6 Live
+http://3.troya.one:34000/ch2465/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHI5xXIQFzYEe17WIN7qute6zzQin-WaSma5SSWFGfl0
+#EXTINF:0 tvg-id="Box Sport Cast 7 Live" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2466.png"  timeshift="0", Box Sport Cast 7 Live
+http://3.troya.one:34000/ch2466/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMcQ0fozG8CNDve7JsPArcf_yguWxHrTBaOhvf6L7JaR
+#EXTINF:0 tvg-id="Box Sport Cast Live 8" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1819.png"  timeshift="0", Box Sport Cast Live 8
+http://3.troya.one:34000/ch1819/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPyutmtPUyuoem-jGjqoKmZyB3UAyp85Hq7snUZB0SdY
+#EXTINF:0 tvg-id="Box Sport Cast Live 9" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/700.png"  timeshift="0", Box Sport Cast Live 9
+http://3.troya.one:34000/ch700/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMte58wM9FIi1ppZN9Scd8U7gvIss6JCo6nPYIkHqQmL
+#EXTINF:0 tvg-id="Box Sport Cast HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2467.png"  timeshift="6", Box Sport Cast HD
+http://3.troya.one:34000/ch2467/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKD8bd3DTb7g6553-kPXyTFufVo_EKgQYngfaQeY5Nn_S
+#EXTINF:0 tvg-id="Box SR Sport 4K HDR" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2808.png"  timeshift="0", Box SR Sport 4K HDR
+http://3.troya.one:34000/ch2808/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJnIFfWJ3871LPds7anZkJ93JhVaEQ3Q0Qjd4fd1z1j7
+#EXTINF:0 tvg-id="Box SR Sport Live 4K HDR" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2809.png"  timeshift="0", Box SR Sport Live 4K HDR
+http://3.troya.one:34000/ch2809/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKB1GvfptMSQycucjpaOlbmeymBZ8_YM_S5U7n91kFtBJ
+#EXTINF:0 tvg-id="Box SR Sport 2 Live 4K HDR" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2807.png"  timeshift="0", Box SR Sport 2 Live 4K HDR
+http://3.troya.one:34000/ch2807/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJFteXlJztiogFMHtJ-PuP7sLPEe-lYZnatD1uA_G_HA
+#EXTINF:0 tvg-id="BOX SR Sport 3 Live 4K HDR" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2916.png"  timeshift="0", BOX SR Sport 3 Live 4K HDR
+http://3.troya.one:34000/ch2916/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPpC_btRPCH38aeVDGbFB7ICeRgIRd9LFJn8ryPnZ5kB
+#EXTINF:0 tvg-id="BOX SR Sport 4 Live 4K" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2956.png"  timeshift="0", BOX SR Sport 4 Live 4K
+http://3.troya.one:34000/ch2956/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDw5WOtkzot1OkHjhLes0RqXI2erTVOBRyv-YRefDPfM
+#EXTINF:0 tvg-id="ViP Sport 1 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2558.png"  timeshift="0", ViP Sport 1 (Sport Event)
+http://3.troya.one:34000/ch2558/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJYVSvm_V9J_tAHpKXBbov11RukSsImpusHXmjr2JrvX
+#EXTINF:0 tvg-id="ViP Sport 2 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2559.png"  timeshift="0", ViP Sport 2 (Sport Event)
+http://3.troya.one:34000/ch2559/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLZiazBPmnMdrQ1epiiB0RMmYhQHlwUXONmK_tDrooeo
+#EXTINF:0 tvg-id="ViP Sport 3 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2560.png"  timeshift="0", ViP Sport 3 (Sport Event)
+http://3.troya.one:34000/ch2560/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMehp51zWffmD52yzhXWnZWZV9gyvV_x1Xus6BGP9SwQ
+#EXTINF:0 tvg-id="ViP Sport 4 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2561.png"  timeshift="0", ViP Sport 4 (Sport Event)
+http://3.troya.one:34000/ch2561/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKABv-IJsvF8PfbzI4uCMSbYdHVm8aAN6XH8jWmL8GB6_
+#EXTINF:0 tvg-id="ViP Sport 5 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2562.png"  timeshift="0", ViP Sport 5 (Sport Event)
+http://3.troya.one:34000/ch2562/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNqa1_biQY5uLKUYTgF2hzrAdGIRFdzaVyatYhDGX5Vs
+#EXTINF:0 tvg-id="ViP Sport 6 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2563.png"  timeshift="0", ViP Sport 6 (Sport Event)
+http://3.troya.one:34000/ch2563/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMxETfw94YCVrohYO7P1lXKjGvhPOQiW4oDE1fz0cumx
+#EXTINF:0 tvg-id="ViP Sport 7 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2564.png"  timeshift="0", ViP Sport 7 (Sport Event)
+http://3.troya.one:34000/ch2564/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHyxevMSTLpYFV6vJVq8SiES0u5n0SAEE_kltGkSm52-
+#EXTINF:0 tvg-id="ViP Sport 8 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2565.png"  timeshift="0", ViP Sport 8 (Sport Event)
+http://3.troya.one:34000/ch2565/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJVnS3SJSH3ywWTyc6Y8BgqJvI_Ts5pqz5THjj1R9tXk
+#EXTINF:0 tvg-id="ViP Sport 9 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2566.png"  timeshift="0", ViP Sport 9 (Sport Event)
+http://3.troya.one:34000/ch2566/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJpmu1hZgKpS_s2Q3to43DelasDX3UMCmwr9RZyi_gZp
+#EXTINF:0 tvg-id="ViP Sport 10 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2567.png"  timeshift="0", ViP Sport 10 (Sport Event)
+http://3.troya.one:34000/ch2567/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMDL8RRUdE7io468nrvF-jJb5pW3QG9AKFfFfJPc15-u
+#EXTINF:0 tvg-id="ViP Sport 11 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2568.png"  timeshift="0", ViP Sport 11 (Sport Event)
+http://3.troya.one:34000/ch2568/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBsJ_zUuKo1qbNQN7zdIJz4TzDRB3G7aRRbiq8-J7uCt
+#EXTINF:0 tvg-id="ViP Sport 12 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2569.png"  timeshift="0", ViP Sport 12 (Sport Event)
+http://3.troya.one:34000/ch2569/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKRZnB63SdruabBrYrZNCZHnfDSsTUpn620gWql-88Hx
+#EXTINF:0 tvg-id="ViP Sport 13 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2570.png"  timeshift="0", ViP Sport 13 (Sport Event)
+http://3.troya.one:34000/ch2570/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPqPXmoWhNMtUCrkiTP3G5uqOJi0vTmzzmrchq96QYBp
+#EXTINF:0 tvg-id="Vital Sport 1 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2571.png"  timeshift="0", Vital Sport 1 (Sport Event)
+http://3.troya.one:34000/ch2571/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFwUCgIRJBblmE8yInWN7dq0MfsHXwpdvEmIY9JOlGm2
+#EXTINF:0 tvg-id="Vital Sport 2 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2572.png"  timeshift="0", Vital Sport 2 (Sport Event)
+http://3.troya.one:34000/ch2572/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIPg9kmVcXJ4fcqXoI4KzHNVqDIpBDTNCgvs9a6BkA-u
+#EXTINF:0 tvg-id="Vital Sport 3 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2573.png"  timeshift="0", Vital Sport 3 (Sport Event)
+http://3.troya.one:34000/ch2573/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEWttW93U1nHZw_mVxfsPpPiOpieQZNPQoR8FoIHJiJ5
+#EXTINF:0 tvg-id="Vital Sport 4 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2574.png"  timeshift="0", Vital Sport 4 (Sport Event)
+http://3.troya.one:34000/ch2574/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKG9jRNPiHMb_adZTastG7huyDteIV7XTkcFbmxc4OiF0
+#EXTINF:0 tvg-id="Vital Sport 5 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2575.png"  timeshift="0", Vital Sport 5 (Sport Event)
+http://3.troya.one:34000/ch2575/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIsJyiQx9lfzLs55VeZ1F9eZxi2GjtN_2986UiR1LybC
+#EXTINF:0 tvg-id="Vital Sport 6 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2576.png"  timeshift="0", Vital Sport 6 (Sport Event)
+http://3.troya.one:34000/ch2576/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFbzfMpiVZS2lZN0qNdZhBjvkLWuHi5wInsqnoZj7pnJ
+#EXTINF:0 tvg-id="Pimple TV 1 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2577.png"  timeshift="0", Pimple TV 1 (Sport Event)
+http://3.troya.one:34000/ch2577/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMLqGXy8kdP6oWdMbKa7qHxSbBrlKdmLAVwLx2qwCRth
+#EXTINF:0 tvg-id="Pimple TV 2 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2578.png"  timeshift="0", Pimple TV 2 (Sport Event)
+http://3.troya.one:34000/ch2578/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNnBgf1NU8HpdsI_mVN3TEKbes6ymCv7652Ms5oIJ0qk
+#EXTINF:0 tvg-id="Pimple TV 3 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2579.png"  timeshift="0", Pimple TV 3 (Sport Event)
+http://3.troya.one:34000/ch2579/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHOFN_V-B-ovWh0XRFBpnL_9ANJvLFKbYUNTVhO_2pQT
+#EXTINF:0 tvg-id="Pimple TV 4 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2580.png"  timeshift="0", Pimple TV 4 (Sport Event)
+http://3.troya.one:34000/ch2580/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJDxm7VuW0U6C7moKuFe1ldVhigyh6M9s2biI6lmJZXD
+#EXTINF:0 tvg-id="Pimple TV 5 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2581.png"  timeshift="0", Pimple TV 5 (Sport Event)
+http://3.troya.one:34000/ch2581/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDpcZepCe0FzGuX9ksNbCH4U2XeIVZXoK_3c8G13cvs-
+#EXTINF:0 tvg-id="Pimple TV 6 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2582.png"  timeshift="0", Pimple TV 6 (Sport Event)
+http://3.troya.one:34000/ch2582/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNb91E8m298_fmQsn-oWFQFGZflU7o5-ICH1AMoZsvYF
+#EXTINF:0 tvg-id="Fint Ga 1 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2583.png"  timeshift="0", Fint Ga 1 (Sport Event)
+http://3.troya.one:34000/ch2583/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMeYj6sakL6V4xgEmi685cDBgGQFk8hzbt-9Olli7aum
+#EXTINF:0 tvg-id="Fint Ga 2 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2584.png"  timeshift="0", Fint Ga 2 (Sport Event)
+http://3.troya.one:34000/ch2584/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNcm5sQuFkzp4BGJq2wv17RXEOTYBrYVZk0eMCNqix-x
+#EXTINF:0 tvg-id="Fint Ga 3 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2585.png"  timeshift="0", Fint Ga 3 (Sport Event)
+http://3.troya.one:34000/ch2585/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAn7Lh2MIN9pQLSFzOXr_xhlSX6TCErG3cbESEj97r4a
+#EXTINF:0 tvg-id="Fint Ga 4 (Sport Event)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2586.png"  timeshift="0", Fint Ga 4 (Sport Event)
+http://3.troya.one:34000/ch2586/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHC9SPb9MKJkVhR0-H8bx6jJ5S7as6x0NVVhAFz-eK8W
+#EXTINF:0 tvg-id="Liberty Автогир FHD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1768.png"  timeshift="3", Liberty Автогир FHD
+http://3.troya.one:34000/ch1768/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKASS7mS0rx2ynOMDV9fNjUTepPRiOahcTSgUrxDahlUr
+#EXTINF:0 tvg-id="Sky High Fight+ HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1981.png"  timeshift="7", Sky High Fight+ HD
+http://3.troya.one:34000/ch1981/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKM7YVTa4ZyR6iD8HvK2oHLBP-tcscB-DcGD8lVvySih6
+#EXTINF:0 tvg-id="Clarity4k Единоборства" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1550.png"  timeshift="0", Clarity4k Единоборства
+http://3.troya.one:34000/ch1550/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLsTOW3HraX3SIFHr9ov8n3T_gJVdHyi2Gw-xZkHF_8D
+#EXTINF:0 tvg-id="Oasis WWE In English" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2695.png"  timeshift="3", Oasis WWE In English
+http://3.troya.one:34000/ch2695/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGJfQwsiZcQqWYmi0b5SSlaEHgDSUKBs36-Nt7Lc5xvA
+#EXTINF:0 tvg-id="Oasis Фитнес" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2665.png"  timeshift="3", Oasis Фитнес
+http://3.troya.one:34000/ch2665/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIvgPdLjbdOx8GFUoHKPPDwKMJOCFbUGyAn9gbNJ2d5h
+#EXTINF:0 tvg-id="CineMan Фитнес" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2923.png"  timeshift="0", CineMan Фитнес
+http://3.troya.one:34000/ch2923/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLjjfQg3cm7-I64zYpb6_82NSFy0az5W4YP9jYDFaQhR
+#EXTINF:0 tvg-id="BE: Dazn Pro League 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1066.png"  timeshift="0", BE: Dazn Pro League 1 HD
+http://3.troya.one:34000/ch1066/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGhZVqD8Jqos0NJU7SNcd4ldEs23cPnW1jSRhrKdKMLw
+#EXTINF:0 tvg-id="BE: Dazn Pro League 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1716.png"  timeshift="0", BE: Dazn Pro League 2 HD
+http://3.troya.one:34000/ch1716/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKP8tEDywlZxI1FqxMOGCK3Npgy83I_ycdE62sQx8kQpJ
+#EXTINF:0 tvg-id="BE: Dazn Pro League 3 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1717.png"  timeshift="0", BE: Dazn Pro League 3 HD
+http://3.troya.one:34000/ch1717/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPFGYwMcarGfngXN7pG9UjHfWOWPppBEsQnXhC9rQi_u
+#EXTINF:0 tvg-id="AR: Bein Sports 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/227.png"  timeshift="0", AR: Bein Sports 1 HD
+http://3.troya.one:34000/ch227/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKF-j73vVeyJ7naQd_Wt4T1UGdfNXHIhYWqZllV7XYcy6
+#EXTINF:0 tvg-id="AR: Bein Sports 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/228.png"  timeshift="0", AR: Bein Sports 2 HD
+http://3.troya.one:34000/ch228/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBjDB91B1YeSqZjogojWgNt1qEixK0fAdMmB4lWliomF
+#EXTINF:0 tvg-id="AR: Bein Sports 3 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/229.png"  timeshift="0", AR: Bein Sports 3 HD
+http://3.troya.one:34000/ch229/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIT1WeoYnaWOchrpvy0bFuxBRZOk0UlU_ZswWoXOMMUr
+#EXTINF:0 tvg-id="AR: Bein Sports 4 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/230.png"  timeshift="0", AR: Bein Sports 4 HD
+http://3.troya.one:34000/ch230/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKINW7mmfn7OHDfsrokzKS1LuFsOl1apL2MBZC-BdFsRn
+#EXTINF:0 tvg-id="AR: Bein Sports 5 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/231.png"  timeshift="0", AR: Bein Sports 5 HD
+http://3.troya.one:34000/ch231/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEoUNCTYRkqf5viHhwh7ZQ4d1bEhTC_1Xj7dWQYILFwg
+#EXTINF:0 tvg-id="AR: Bein Sports 6 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/232.png"  timeshift="0", AR: Bein Sports 6 HD
+http://3.troya.one:34000/ch232/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLxpxFRW1ovMLttKathws8coQMkskeLBimetJUBJUt7K
+#EXTINF:0 tvg-id="AR: Bein Sports 7 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1062.png"  timeshift="0", AR: Bein Sports 7 HD
+http://3.troya.one:34000/ch1062/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFATvo8NpMRbDy5eam7iPmIzW15dHp5THuMq7p0gxNq7
+#EXTINF:0 tvg-id="SE: V Sport UHD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1690.png"  timeshift="0", SE: V Sport UHD
+http://3.troya.one:34000/ch1690/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGa3KZEMnQKo447BZeEYQOGmXUR-laZBpohTRcOCNS7Z
+#EXTINF:0 tvg-id="SE: V Sport 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1109.png"  timeshift="0", SE: V Sport 1 HD
+http://3.troya.one:34000/ch1109/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKJYZKGI1CkXaY-DA8OkoxE53IOF5Hb93IwRR7LiYzea
+#EXTINF:0 tvg-id="SE: V Sport Extra" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1687.png"  timeshift="0", SE: V Sport Extra
+http://3.troya.one:34000/ch1687/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLf8JSzyckau_0xD2YdwDz9ssykVdjH31xEctB7Yg1KU
+#EXTINF:0 tvg-id="SE: V Sport Premium" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1689.png"  timeshift="0", SE: V Sport Premium
+http://3.troya.one:34000/ch1689/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDZVgIJfS8YM8Wqthrs44QHauJWBtmojGEisGZzBHjc8
+#EXTINF:0 tvg-id="SE: V Sport Football HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1110.png"  timeshift="0", SE: V Sport Football HD
+http://3.troya.one:34000/ch1110/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHzia3e8pDStnL3L3Z99_sEpNcMHo12UsmEYuapW7kO3
+#EXTINF:0 tvg-id="SE: V Sport Golf HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1111.png"  timeshift="3", SE: V Sport Golf HD
+http://3.troya.one:34000/ch1111/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEx3X70gns91jA6rERQyGh6aOuZutIX3Nz51z1PvdJ0G
+#EXTINF:0 tvg-id="SE: V Sport Motor" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1688.png"  timeshift="0", SE: V Sport Motor
+http://3.troya.one:34000/ch1688/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHDaby1blVEucKk2ffcFjr-uc4Mf5nexHwGsh7VYlhaO
+#EXTINF:0 tvg-id="SE: V Sport Vinter" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1691.png"  timeshift="3", SE: V Sport Vinter
+http://3.troya.one:34000/ch1691/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDaxYvyTCuXAhsuiJ9JDHIJ5RoGd5kQXwOzxde_jLa7_
+#EXTINF:0 tvg-id="SE: TV4 Fotboll HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1114.png"  timeshift="0", SE: TV4 Fotboll HD
+http://3.troya.one:34000/ch1114/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPERt2EtHtRuKUnLXuRhXbokwdk6ubbIkR8zychf6QmE
+#EXTINF:0 tvg-id="SE: C More Golf HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1115.png"  timeshift="0", SE: C More Golf HD
+http://3.troya.one:34000/ch1115/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBwXUeyCfKibW7RnVXySa0_07fwVHZq0as5v-EofXjTl
+#EXTINF:0 tvg-id="FI: C More Max HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/144.png"  timeshift="0", FI: C More Max HD
+http://3.troya.one:34000/ch144/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIkekFngb7wu6xq8jh_jFdmin_s8gAa5M7GXqf7ui3pN
+#EXTINF:0 tvg-id="FI: MTV Urheilu 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1103.png"  timeshift="0", FI: MTV Urheilu 1 HD
+http://3.troya.one:34000/ch1103/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEIoAYnV07-9y7G8PgLkASQEoLLn9RVDPjXwANIt5xDp
+#EXTINF:0 tvg-id="FI: MTV Urheilu 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1090.png"  timeshift="0", FI: MTV Urheilu 2 HD
+http://3.troya.one:34000/ch1090/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJSOd4Qr-EQmcKxFu277Xm-QOXrtB-pAHEO9bZxfet4y
+#EXTINF:0 tvg-id="AL: Tring Sport 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1098.png"  timeshift="0", AL: Tring Sport 1 HD
+http://3.troya.one:34000/ch1098/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJO4ZiXl52OOlN2p0ZujCIHJb9hJaDr6fe26SIzEE82s
+#EXTINF:0 tvg-id="AL: Tring Sport 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1099.png"  timeshift="0", AL: Tring Sport 2 HD
+http://3.troya.one:34000/ch1099/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKD-c7qlWUlMLfT5mQLL3UxGbgGSx1aBWIXOQ2n2i8NUM
+#EXTINF:0 tvg-id="US: FOX Sports 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1331.png"  timeshift="0", US: FOX Sports 1 HD
+http://3.troya.one:34000/ch1331/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMX_II7sh2DG0NTYL5j3KQUWS3h4DMBoiunIuBhkOH2b
+#EXTINF:0 tvg-id="US: FOX Sports 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1332.png"  timeshift="0", US: FOX Sports 2 HD
+http://3.troya.one:34000/ch1332/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHrdTeSFjZqCNZeFmrroPRUxxsbZAZyNkxbeeq5azdQa
+#EXTINF:0 tvg-id="US: NHL Network HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1067.png"  timeshift="0", US: NHL Network HD
+http://3.troya.one:34000/ch1067/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJKweiZ8COtYy4QeP50VxZp295jW5MZtvuqJIG6it8hs
+#EXTINF:0 tvg-id="US: NFL Network HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1328.png"  timeshift="0", US: NFL Network HD
+http://3.troya.one:34000/ch1328/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBPoXqH9XBiA5PHlkwVpmVIY7Ck2D2fnS0eRBGCxefRf
+#EXTINF:0 tvg-id="US: UFC Fight Pass HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/322.png"  timeshift="0", US: UFC Fight Pass HD
+http://3.troya.one:34000/ch322/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOgTf09I_lrKf-4yHNITXNl4SDK9zf-HMrIw4ks2lTLr
+#EXTINF:0 tvg-id="US: NFL Red Zone HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/108.png"  timeshift="0", US: NFL Red Zone HD
+http://3.troya.one:34000/ch108/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDXFrGV3TjutDEGj32__-1pvzD9u1329HCeuVGuaS5RB
+#EXTINF:0 tvg-id="US: MLB Network HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1329.png"  timeshift="0", US: MLB Network HD
+http://3.troya.one:34000/ch1329/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDGBi2yXAyeDSg2QQARheZ3pEtpL-_hcKo3YC1NTjU8C
+#EXTINF:0 tvg-id="US: WWE Network HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1334.png"  timeshift="0", US: WWE Network HD
+http://3.troya.one:34000/ch1334/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMMd_ULU5hyAbKHADCKQDuHNpfyCq6_GtpRtvQBafKTq
+#EXTINF:0 tvg-id="US: FUBO Sports Network HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1336.png"  timeshift="0", US: FUBO Sports Network HD
+http://3.troya.one:34000/ch1336/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKM58xiFvq0TzX4ZKCZgZCwHRTWa0A8OYQzZd4_dwZoH7
+#EXTINF:0 tvg-id="US: CBS Sports Network HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1330.png"  timeshift="0", US: CBS Sports Network HD
+http://3.troya.one:34000/ch1330/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCNtgMAEf2hgvhDxtjnaNVe-DsQZ_oTQCEpG0qTfJxPi
+#EXTINF:0 tvg-id="US: NBC Sports Network HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1333.png"  timeshift="0", US: NBC Sports Network HD
+http://3.troya.one:34000/ch1333/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJ02SgEKjKXRs_05tTqgm6jeimgrKPjOUGO0_MqyhAMg
+#EXTINF:0 tvg-id="US: World Fishing Network HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1335.png"  timeshift="0", US: World Fishing Network HD
+http://3.troya.one:34000/ch1335/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGfOAtNBIQtL-HhCtkXVuUs3Evd_oRLc7Y6kU_Wf-l9X
+#EXTINF:0 tvg-id="US: Tennis Channel HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1623.png"  timeshift="0", US: Tennis Channel HD
+http://3.troya.one:34000/ch1623/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPI0VfJlId8vu6wh4FHBlo5YvWxda4dZCquQDgg0wp5T
+#EXTINF:0 tvg-id="US: Tennis Channel International HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1624.png"  timeshift="0", US: Tennis Channel International HD
+http://3.troya.one:34000/ch1624/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNii4bU-TA0UBpNU4WbcVRW2DqQ4BrbMwgZaP9rDVoCJ
+#EXTINF:0 tvg-id="US: ESPN HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1625.png"  timeshift="0", US: ESPN HD
+http://3.troya.one:34000/ch1625/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDAqaGBEKJgtH5uwe49kLjtb0wcjuuG2nJQBuPFNYPqy
+#EXTINF:0 tvg-id="US: ESPN 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1626.png"  timeshift="0", US: ESPN 2 HD
+http://3.troya.one:34000/ch1626/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKE0VpnD0zmh8taY90bfJxPN_974yCblqdb72XwkAwhIf
+#EXTINF:0 tvg-id="US: ESPN 3 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1627.png"  timeshift="0", US: ESPN 3 HD
+http://3.troya.one:34000/ch1627/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIxeZO47U6Ey--1_DbMzqP-H4c1J_RiC3NodR3DcQSr9
+#EXTINF:0 tvg-id="CA: Fight Network HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1337.png"  timeshift="0", CA: Fight Network HD
+http://3.troya.one:34000/ch1337/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKO-uv_P05a9qkJxgZ4LgvJL4ud7Tuac1qXrZGf-eTFuV
+#EXTINF:0 tvg-id="HR: Arena Sport 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1338.png"  timeshift="0", HR: Arena Sport 1 HD
+http://3.troya.one:34000/ch1338/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKK7wABql6PiNsA_kKzCV0rYxudcqmwuggkytNCZT1nj2
+#EXTINF:0 tvg-id="HR: Arena Sport 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1339.png"  timeshift="0", HR: Arena Sport 2 HD
+http://3.troya.one:34000/ch1339/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPOTNRJUir-8URCbiochEY-4meIEu3ghfO04G2wpQCHT
+#EXTINF:0 tvg-id="HR: Arena Sport 3 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1340.png"  timeshift="0", HR: Arena Sport 3 HD
+http://3.troya.one:34000/ch1340/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCCTkVsJ0lYZ_TZ-ITNmmwRQFCDLWXQ1vrS1XYQwtL-9
+#EXTINF:0 tvg-id="HR: Arena Sport 4 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1341.png"  timeshift="0", HR: Arena Sport 4 HD
+http://3.troya.one:34000/ch1341/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEtZng_T_DapQtkkU74oMQkYE_2sixWon4EVOkeI0vUm
+#EXTINF:0 tvg-id="HR: Arena Sport 5 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1342.png"  timeshift="0", HR: Arena Sport 5 HD
+http://3.troya.one:34000/ch1342/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDdJCDULdhoRKxKXtBiCdz9wqWpkWtwHHVcA23Bkzu_s
+#EXTINF:0 tvg-id="HR: Arena Sport 6 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1343.png"  timeshift="0", HR: Arena Sport 6 HD
+http://3.troya.one:34000/ch1343/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBFPlcHZQObW3Gk16NcOP833Ko96G_NAWlufKzB71Uq2
+#EXTINF:0 tvg-id="PT: Sport TV 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1705.png"  timeshift="3", PT: Sport TV 1 HD
+http://3.troya.one:34000/ch1705/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPYZ6lDFe13vRGpxuiyYPh_wi_usGNf_9dl02bdxb81q
+#EXTINF:0 tvg-id="PT: Sport TV 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1706.png"  timeshift="3", PT: Sport TV 2 HD
+http://3.troya.one:34000/ch1706/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDIKpUtJwUeWtG9CUy6SBwmcCHEEC3EB6FsLf-JYiAR3
+#EXTINF:0 tvg-id="PT: Sport TV 3 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1707.png"  timeshift="3", PT: Sport TV 3 HD
+http://3.troya.one:34000/ch1707/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJo7o0Acn49AH-cn1uJ1vmr72bIr1Cq4IR8-pmkZYeua
+#EXTINF:0 tvg-id="PT: Sport TV 4 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1708.png"  timeshift="3", PT: Sport TV 4 HD
+http://3.troya.one:34000/ch1708/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKC_5jcobAAug0NdkL9hQpnBGcB015AL2iwGf0ZXQA7N4
+#EXTINF:0 tvg-id="PT: Sport TV 5 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1709.png"  timeshift="3", PT: Sport TV 5 HD
+http://3.troya.one:34000/ch1709/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKF7tz0vLC0_P0zMdRr6oTKWg3xITNx9WdPkG85y4fUhy
+#EXTINF:0 tvg-id="PT: Sport TV 6 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1710.png"  timeshift="3", PT: Sport TV 6 HD
+http://3.troya.one:34000/ch1710/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIF4rY7yjjajDa14IdP-iUfJTdEPTZUeEWmrnfNCEj7B
+#EXTINF:0 tvg-id="PT: Dazn 1 UHD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2104.png"  timeshift="0", PT: Dazn 1 UHD
+http://3.troya.one:34000/ch2104/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIoEHi2AIHZh_Gg12hgSGhrFFBu2hyK0TUpfcRAILs7Q
+#EXTINF:0 tvg-id="PT: Dazn 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2098.png"  timeshift="0", PT: Dazn 1 HD
+http://3.troya.one:34000/ch2098/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKP_H-s9G2uWRd3LiK4oY5V72pXD5vhrlys2oHCjkLLIN
+#EXTINF:0 tvg-id="PT: Dazn 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2099.png"  timeshift="0", PT: Dazn 2 HD
+http://3.troya.one:34000/ch2099/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFDZRMlcpV9MuwuFsqcntuTaJlvdViHhundrbAIX1S6i
+#EXTINF:0 tvg-id="PT: Dazn 3 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2100.png"  timeshift="0", PT: Dazn 3 HD
+http://3.troya.one:34000/ch2100/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJ8CSkY1t_gCVr5KMAubFuK5JKdJsyvzNZiDvHEnsXdx
+#EXTINF:0 tvg-id="PT: Dazn 4 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2101.png"  timeshift="0", PT: Dazn 4 HD
+http://3.troya.one:34000/ch2101/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKE8HlEmgEn-3r5LfpXhKaXllu-k6DB0zP5jWwiSqnShJ
+#EXTINF:0 tvg-id="PT: Dazn 5 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2102.png"  timeshift="0", PT: Dazn 5 HD
+http://3.troya.one:34000/ch2102/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDBrc8iFmzBvs6FqG7atB7O9RMPoQx0oTpQ-Rvobh3MM
+#EXTINF:0 tvg-id="PT: Dazn 6 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2103.png"  timeshift="0", PT: Dazn 6 HD
+http://3.troya.one:34000/ch2103/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMo872c-wac_QCfedJ9PPR7TJFio3USpXoPEdhgrG1r-
+#EXTINF:0 tvg-id="SR: Arena Sport Premium 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1063.png"  timeshift="0", SR: Arena Sport Premium 1 HD
+http://3.troya.one:34000/ch1063/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAgBXtdW2vz6Z0KstrfZQC3Azdx8UozJbVxpKgsJUX-t
+#EXTINF:0 tvg-id="SR: Arena Sport Premium 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1064.png"  timeshift="0", SR: Arena Sport Premium 2 HD
+http://3.troya.one:34000/ch1064/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKE5pLsH0jDvvo0IOaX-rNpsVtGuYBWXGoCAXkeZA4rIb
+#EXTINF:0 tvg-id="SR: Arena Sport Premium 3 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1065.png"  timeshift="0", SR: Arena Sport Premium 3 HD
+http://3.troya.one:34000/ch1065/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLZvsYNbKLh-mI22UEsk9oZ4IwtgtCk3DvYvPtDcCizE
+#EXTINF:0 tvg-id="SR: Sport Klub 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1711.png"  timeshift="0", SR: Sport Klub 1 HD
+http://3.troya.one:34000/ch1711/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKqVxabzYJMzOzWHvo6rrndmiHmyIzwb_nCKqmCRUkJ7
+#EXTINF:0 tvg-id="SR: Sport Klub 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1712.png"  timeshift="0", SR: Sport Klub 2 HD
+http://3.troya.one:34000/ch1712/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCxSitUv_zW2s_5zmOmrAqLqdg5iXlEcwtKh7ewYxaLo
+#EXTINF:0 tvg-id="SR: Sport Klub 3 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1713.png"  timeshift="0", SR: Sport Klub 3 HD
+http://3.troya.one:34000/ch1713/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLE5HckI26uq5rsFkB9m62Bu9BAtuVXOIkpqhOdUWd1O
+#EXTINF:0 tvg-id="SR: Sport Klub 4 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1714.png"  timeshift="0", SR: Sport Klub 4 HD
+http://3.troya.one:34000/ch1714/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMgv2ecbZerziTLJItcRfczEqc2-g9y0RiSky_xRFnHc
+#EXTINF:0 tvg-id="INT: Sport Klub 5 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1715.png"  timeshift="0", INT: Sport Klub 5 HD
+http://3.troya.one:34000/ch1715/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFXsy94AgKdxynYgfu3dfC7zADjNxjE1e9fxjHTm1B3T
+#EXTINF:0 tvg-id="MY: Astro Cricket" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1988.png"  timeshift="0", MY: Astro Cricket
+http://3.troya.one:34000/ch1988/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKE-D7dq2AGSWbBJ75H2OUzECZyjWI-5G-IlcQQm93Okz
+#EXTINF:0 tvg-id="MY: Astro Supersport 4K" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2132.png"  timeshift="0", MY: Astro Supersport 4K
+http://3.troya.one:34000/ch2132/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGa9q9o5NStfffkBNjCrS19OuPB0IiArQoCGPlfRIQ41
+#EXTINF:0 tvg-id="MY: Astro Supersport HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1989.png"  timeshift="3", MY: Astro Supersport HD
+http://3.troya.one:34000/ch1989/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHQxlgfiMCSPzPabQ0JS1G-QqE_W3WIRZUNfTItuil2y
+#EXTINF:0 tvg-id="MY: Astro Supersport 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1990.png"  timeshift="3", MY: Astro Supersport 2 HD
+http://3.troya.one:34000/ch1990/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMDHb0EKsts5-umX17ZIzMS-RINKascJOMMsTMLlJ-PR
+#EXTINF:0 tvg-id="MY: Astro Supersport 3 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1991.png"  timeshift="3", MY: Astro Supersport 3 HD
+http://3.troya.one:34000/ch1991/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOV1b0FNnHv-nzAFVhPPWAKELqgXC5nFAt1TacHO_TQL
+#EXTINF:0 tvg-id="MY: Astro Supersport 4 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1992.png"  timeshift="3", MY: Astro Supersport 4 HD
+http://3.troya.one:34000/ch1992/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKE5ez33cpRqPPXwal1pnx-4iMj7O0h1NWmtEM7NprtDU
+#EXTINF:0 tvg-id="CH: Blue Sport 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2096.png"  timeshift="0", CH: Blue Sport 1 HD
+http://3.troya.one:34000/ch2096/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPn9WyqT0uGLl2p7m24ck9TQ5kiFkVX-0gX1DGrYFZMz
+#EXTINF:0 tvg-id="CH: Blue Sport 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2097.png"  timeshift="0", CH: Blue Sport 2 HD
+http://3.troya.one:34000/ch2097/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEU7sEHJ0kGETghVWivBSB6eNRN-g8dXGvBT7yx_PPcP
+#EXTINF:0 tvg-id="CZ: Nova Sport 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2108.png"  timeshift="3", CZ: Nova Sport 1 HD
+http://3.troya.one:34000/ch2108/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEoA9WAj_TZZcBwufTk-huoXSwBSps1Bi2C7N9Q-b6N7
+#EXTINF:0 tvg-id="CZ: Nova Sport 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2109.png"  timeshift="3", CZ: Nova Sport 2 HD
+http://3.troya.one:34000/ch2109/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEhC_QejoNM3_n8csx6Xi4bR-fZqHRWiBw71F-DkZY7t
+#EXTINF:0 tvg-id="NL: ESPN HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2202.png"  timeshift="0", NL: ESPN HD
+http://3.troya.one:34000/ch2202/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOX834PRWMyaV0LFGNV62zz40CMXY0rk0apA8Q7_MPQ0
+#EXTINF:0 tvg-id="NL: ESPN 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2196.png"  timeshift="0", NL: ESPN 2 HD
+http://3.troya.one:34000/ch2196/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCOcxgVlbgbabOcS6VvBhgnI1q2528x_kUi7_tErMMmF
+#EXTINF:0 tvg-id="NL: ESPN 3 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2111.png"  timeshift="0", NL: ESPN 3 HD
+http://3.troya.one:34000/ch2111/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHxqsHITzY7mA7Y6dI1KsWm0oLYMRXahdnSQ5EyRyN6R
+#EXTINF:0 tvg-id="NL: ESPN 4 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2112.png"  timeshift="0", NL: ESPN 4 HD
+http://3.troya.one:34000/ch2112/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHi1wzTIuuaqqLglrW_-SUmG1uI43x9P8q2Q5FoXYpxg
+#EXTINF:0 tvg-id="NL: Ziggo Sport Docu HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2515.png"  timeshift="0", NL: Ziggo Sport Docu HD
+http://3.troya.one:34000/ch2515/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKU_wUAZ6sn71CIhpzy-drSuOcqkzwVRolfH4ZVcRPsx
+#EXTINF:0 tvg-id="NL: Ziggo Sport Select HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2113.png"  timeshift="0", NL: Ziggo Sport Select HD
+http://3.troya.one:34000/ch2113/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJXJ2c-iWnUxcViIK4pUptss8RyyXH_GcZPvFne-rW1G
+#EXTINF:0 tvg-id="NL: Ziggo Sport Golf HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/147.png"  timeshift="0", NL: Ziggo Sport Golf HD
+http://3.troya.one:34000/ch147/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMfwC2kxfU42qWp6Ux8Z6noHyMP7zl7nU7z81e5sSzR2
+#EXTINF:0 tvg-id="NL: Ziggo Sport Tennis HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2118.png"  timeshift="0", NL: Ziggo Sport Tennis HD
+http://3.troya.one:34000/ch2118/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJxXHbz-j3cshvm3NZJMIi2PpaFO9pcDDW5z0gAiymG5
+#EXTINF:0 tvg-id="NL: Ziggo Sport Racing HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2119.png"  timeshift="0", NL: Ziggo Sport Racing HD
+http://3.troya.one:34000/ch2119/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAlYpZTfShTxvHv7V_Es7zX0c1-hN9IteHY7klb8i4s4
+#EXTINF:0 tvg-id="NL: Ziggo Sport Voetbal" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1881.png"  timeshift="0", NL: Ziggo Sport Voetbal
+http://3.troya.one:34000/ch1881/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGjS6_OMxv4s9zaow2jjE0SVHOP9G72cb5mpAOI06KZJ
+#EXTINF:0 tvg-id="HK: Now Sports 4K" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2742.png"  timeshift="0", HK: Now Sports 4K
+http://3.troya.one:34000/ch2742/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKlJrehPVZvN-JrzYHTPQQH4HoONeGgLIbvd3acTWuzx
+#EXTINF:0 tvg-id="HK: Now Sports 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2753.png"  timeshift="0", HK: Now Sports 1 HD
+http://3.troya.one:34000/ch2753/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJmVz6gMi_knt7C1iTeYd9CczTNojlRJsfGBf-eVBAoW
+#EXTINF:0 tvg-id="HK: Now Sports 2 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2755.png"  timeshift="0", HK: Now Sports 2 HD
+http://3.troya.one:34000/ch2755/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDpWXSrXJlMDMIdXF2cmCdOQnxF2pRmWNOCXPCKG47Dn
+#EXTINF:0 tvg-id="HK: Now Sports 3 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1738.png"  timeshift="0", HK: Now Sports 3 HD
+http://3.troya.one:34000/ch1738/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKInP967WDXSI0al2tYbqv06962JhUkwb8F-923SOL12Y
+#EXTINF:0 tvg-id="HK: Now Sports 4 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1905.png"  timeshift="0", HK: Now Sports 4 HD
+http://3.troya.one:34000/ch1905/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNX8t1emAQxfWLkDaN1mmMcdo-suYBVZNKuOTmZT6z_J
+#EXTINF:0 tvg-id="HK: Now Sports 5 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1906.png"  timeshift="0", HK: Now Sports 5 HD
+http://3.troya.one:34000/ch1906/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOp_g-jw-eM1bfQQqYx8e8XMIyUcpLTP0vLjRYIifrvU
+#EXTINF:0 tvg-id="HK: Now Sports 6 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1907.png"  timeshift="0", HK: Now Sports 6 HD
+http://3.troya.one:34000/ch1907/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKO-3HcjsUzITe6yddu5XSLcFm5vwPq4FeIOwhnIPclVb
+#EXTINF:0 tvg-id="HK: Now Sports 7 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1908.png"  timeshift="0", HK: Now Sports 7 HD
+http://3.troya.one:34000/ch1908/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEFGQaSulCvo_fmJKpiSZ9gOC_xni1bYKH7TI4FLQzpS
+#EXTINF:0 tvg-id="HK: Now Sports PL 1 HD" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1909.png"  timeshift="0", HK: Now Sports PL 1 HD
+http://3.troya.one:34000/ch1909/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHubtmdvl5PnbKg21mIKZXlNzwlO7LsGqBshdpqp06xk
+#EXTINF:0 tvg-id="HK: Now Sports PL 2 HD (Ondemand)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1910.png"  timeshift="0", HK: Now Sports PL 2 HD (Ondemand)
+http://3.troya.one:34000/ch1910/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJJ1wnF8MJ3DBu4P_PcbawC3d8lnL70RTyIFyekG7DJc
+#EXTINF:0 tvg-id="HK: Now Sports PL 3 HD (Ondemand)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2783.png"  timeshift="0", HK: Now Sports PL 3 HD (Ondemand)
+http://3.troya.one:34000/ch2783/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHnUB0pUbzzl3b24hsUWLYnh_oiKe7iXU1uTBZ9z1I0O
+#EXTINF:0 tvg-id="HK: Now Sports PL 4 HD (Ondemand)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/721.png"  timeshift="0", HK: Now Sports PL 4 HD (Ondemand)
+http://3.troya.one:34000/ch721/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKO7rTtcX28zQlyGiNESOvNsEbnhU5ifOz3Fq389brAOP
+#EXTINF:0 tvg-id="HK: Now Sports PL 5 HD (Ondemand)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2784.png"  timeshift="0", HK: Now Sports PL 5 HD (Ondemand)
+http://3.troya.one:34000/ch2784/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDk3hZ9HsBC6awPTYS1Yf3pjUchfwDw5O6nW-Dbc84qQ
+#EXTINF:0 tvg-id="HK: Now Sports PL 6 HD (Ondemand)" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2785.png"  timeshift="0", HK: Now Sports PL 6 HD (Ondemand)
+http://3.troya.one:34000/ch2785/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEiNrIXCOHy29C1iSwhb3Sn6QPo_EDOzQAA28ek5HFhq
+#EXTINF:0 tvg-id="AF: SuperSport Football" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2243.png"  timeshift="0", AF: SuperSport Football
+http://3.troya.one:34000/ch2243/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOezpGSL15PdEn7swpvxzhj15QHeYlQDyurKNsmlNZoy
+#EXTINF:0 tvg-id="AF: SuperSport Cricket" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2244.png"  timeshift="0", AF: SuperSport Cricket
+http://3.troya.one:34000/ch2244/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGPC89pnx0gN9NxQjFdIwQPnHC6sztyC03f0OfHWTQqP
+#EXTINF:0 tvg-id="AF: SuperSport Golf" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2245.png"  timeshift="0", AF: SuperSport Golf
+http://3.troya.one:34000/ch2245/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDky66zcF4iw8CQJOaij8dXACSl5BeMNRUG0FZIkLqY4
+#EXTINF:0 tvg-id="AF: SuperSport Grandstand" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2246.png"  timeshift="0", AF: SuperSport Grandstand
+http://3.troya.one:34000/ch2246/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKN0BeTrPC6AY1ZKDbVckWU8bUz9PcwPk6hOm8vRbi25D
+#EXTINF:0 tvg-id="AF: SuperSport Motorsport" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2247.png"  timeshift="0", AF: SuperSport Motorsport
+http://3.troya.one:34000/ch2247/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBLX8F_eV0ZPMKdvb5IJV2SorjrEEewnE3Qwvy1RZ2dO
+#EXTINF:0 tvg-id="AF: SuperSport La Liga" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2248.png"  timeshift="0", AF: SuperSport La Liga
+http://3.troya.one:34000/ch2248/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKM3NGZIa0IjiDSTlm4IsHk3aazeoVcOiuXq5W9LRYmRE
+#EXTINF:0 tvg-id="AF: SuperSport Rugby" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2249.png"  timeshift="0", AF: SuperSport Rugby
+http://3.troya.one:34000/ch2249/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEFKB8yyqvJaAxi2OsLIUYZ1YP8UwZW-kti4bP2DI7Gl
+#EXTINF:0 tvg-id="AF: SuperSport Tennis" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2250.png"  timeshift="0", AF: SuperSport Tennis
+http://3.troya.one:34000/ch2250/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKF5lvgCUfqeSfqIu6zMXRhaMG-8Xxthk3RSQHjXJed6V
+#EXTINF:0 tvg-id="AF: SuperSport Premier League" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2251.png"  timeshift="0", AF: SuperSport Premier League
+http://3.troya.one:34000/ch2251/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAC9JVFjJovpbIMhJ8IAk68ZeKwMV9AwFvPuBlRnemaB
+#EXTINF:0 tvg-id="AF: SuperSport PSL" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2252.png"  timeshift="0", AF: SuperSport PSL
+http://3.troya.one:34000/ch2252/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCnRRL0-XFFvG9gBs_Qg-5EU3qW5sMrGv0kc3FAvpRma
+#EXTINF:0 tvg-id="AF: SuperSport Variety 1" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2253.png"  timeshift="0", AF: SuperSport Variety 1
+http://3.troya.one:34000/ch2253/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMx27Sbk2EsNGQO3d-fgNJJ7ET5kgiiPR5XLkn2EmMgc
+#EXTINF:0 tvg-id="AF: SuperSport Variety 2" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2254.png"  timeshift="0", AF: SuperSport Variety 2
+http://3.troya.one:34000/ch2254/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLuYDwV7ExcVGmEPjXAeaEtGiWhuKGE-Ap8L1ruYBYJT
+#EXTINF:0 tvg-id="AF: SuperSport Variety 3" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1617.png"  timeshift="0", AF: SuperSport Variety 3
+http://3.troya.one:34000/ch1617/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLKDz_9lq9wHbQOLhuY3W_ETKPulPxm1XpZxD4gzha8G
+#EXTINF:0 tvg-id="AF: SuperSport Variety 4" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1618.png"  timeshift="0", AF: SuperSport Variety 4
+http://3.troya.one:34000/ch1618/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFmeGU1XVMltL7L920wVFwWJbBD32vhYVv5WhWSSIQa-
+#EXTINF:0 tvg-id="AF: SuperSport MaXimo" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1619.png"  timeshift="0", AF: SuperSport MaXimo
+http://3.troya.one:34000/ch1619/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNSSGYw5QBL8LLBRJnxlzF5sr1cOE5vSTUUecylefBgl
+#EXTINF:0 tvg-id="AF: SuperSport Action" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2786.png"  timeshift="0", AF: SuperSport Action
+http://3.troya.one:34000/ch2786/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIEUige1fflFIUv7XvSQjSgIGJKY1eUeOzjUyxm_sORV
+#EXTINF:0 tvg-id="NZ: SKY Sport Select" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2811.png"  timeshift="0", NZ: SKY Sport Select
+http://3.troya.one:34000/ch2811/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNhnwS-HCX0FdPtP3Jym7tNnBkxgScFcPLs_FDmS09yz
+#EXTINF:0 tvg-id="NZ: SKY Sport 01" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2812.png"  timeshift="0", NZ: SKY Sport 01
+http://3.troya.one:34000/ch2812/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKC574WE90tJM5Mm4_t8CE7vofnvzZv4Rj4rrDIkLsmto
+#EXTINF:0 tvg-id="NZ: SKY Sport 02" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2813.png"  timeshift="0", NZ: SKY Sport 02
+http://3.troya.one:34000/ch2813/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKcDFlETta_DVowJZ7jGaRVd1It3sRrOSfu72mvFzCzy
+#EXTINF:0 tvg-id="NZ: SKY Sport 03" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2088.png"  timeshift="0", NZ: SKY Sport 03
+http://3.troya.one:34000/ch2088/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGwW5NJ_6Hr5tmXeEOlCtZ21N-NkMQ6QNqbn8ZCeo-g8
+#EXTINF:0 tvg-id="NZ: SKY Sport 04" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/154.png"  timeshift="0", NZ: SKY Sport 04
+http://3.troya.one:34000/ch154/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGyzJZmWR95mFdnJR_8SLe8kdQbCFhCaOSCu2I1xLrbW
+#EXTINF:0 tvg-id="NZ: SKY Sport 05" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/182.png"  timeshift="0", NZ: SKY Sport 05
+http://3.troya.one:34000/ch182/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDJpdq7aExdCQIMtJjjpUwhMLgHdFr7t2M2bxt_MXeaY
+#EXTINF:0 tvg-id="NZ: SKY Sport 06" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/2516.png"  timeshift="0", NZ: SKY Sport 06
+http://3.troya.one:34000/ch2516/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPq62vXgXdSDqr5Q9A61HF39ya-SUq5b3WNmyGEBp5RH
+#EXTINF:0 tvg-id="NZ: SKY Sport 07" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/107.png"  timeshift="0", NZ: SKY Sport 07
+http://3.troya.one:34000/ch107/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNZP7B7wb2mNCJJAEUtjewhRbM3P7x9kEM0B_Ujt-VR7
+#EXTINF:0 tvg-id="NZ: SKY Sport 08" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/979.png"  timeshift="0", NZ: SKY Sport 08
+http://3.troya.one:34000/ch979/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHZfaWSnHQmnm4QUdsKcm_r6O22i03tcoIK60bH3PcGc
+#EXTINF:0 tvg-id="NZ: SKY Sport 09" group-title="9. Sport/Спорт" tvg-logo="http://troya.one/images/chIcons/1918.png"  timeshift="0", NZ: SKY Sport 09
+http://3.troya.one:34000/ch1918/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKH7Fdo_0nrMOc2S9Y4SKW9iSwVeB182kewmgfTZ1qOPh
+#EXTINF:0 tvg-id="АВТО 24" group-title="13. Rest/Прочее" tvg-logo="http://troya.one/images/chIcons/16.png"  timeshift="0", АВТО 24
+http://3.troya.one:34000/ch016/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJ6nxG0xpHVE_AtIHZEba0DA32Laa8iyuji8E-4olCbj
+#EXTINF:0 tvg-id="UA: Xsport HD" group-title="15. Ukraine" tvg-logo="http://troya.one/images/chIcons/319.png"  timeshift="3", UA: Xsport HD
+http://3.troya.one:34000/ch319/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGTC72ShMQwmbNYklzG6Bh_xh56uRVfEXcYp23FbXOml
+#EXTINF:0 tvg-id="UA: Setanta Sports Ukraine HD" group-title="15. Ukraine" tvg-logo="http://troya.one/images/chIcons/146.png"  timeshift="3", UA: Setanta Sports Ukraine HD
+http://3.troya.one:34000/ch146/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLJg6fMkMNyJY9L1BTtLYpqlNxKu2ZG7rRN6csTWJaVp
+#EXTINF:0 tvg-id="UA: Setanta Sports+ Ukraine HD" group-title="15. Ukraine" tvg-logo="http://troya.one/images/chIcons/333.png"  timeshift="3", UA: Setanta Sports+ Ukraine HD
+http://3.troya.one:34000/ch333/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAjNL0X-yLJIt1oB887TsE0bTFYTjnL6P194KHojCGVp
+#EXTINF:0 tvg-id="UA: Спорт-1" group-title="15. Ukraine" tvg-logo="http://troya.one/images/chIcons/602.png"  timeshift="3", UA: Спорт-1
+http://3.troya.one:34000/ch602/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKA8mWBL8RhizuvzIdaOXuI4oAYhsLgt5qivSkOjKKU70
+#EXTINF:0 tvg-id="UA: Спорт-2" group-title="15. Ukraine" tvg-logo="http://troya.one/images/chIcons/603.png"  timeshift="3", UA: Спорт-2
+http://3.troya.one:34000/ch603/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKN7WsfEiyHUBa5zJrEy6ur97DxRAqRd2cQq81u4HL3is
+#EXTINF:0 tvg-id="UA: Сфера ТВ HD" group-title="15. Ukraine" tvg-logo="http://troya.one/images/chIcons/732.png"  timeshift="0", UA: Сфера ТВ HD
+http://3.troya.one:34000/ch732/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKI-7WsH775eIPTmgg98WXhOhg14CnMp492_Ak60WJ6co
+#EXTINF:0 tvg-id="Auto Motor Sport HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/273.png"  timeshift="3", Auto Motor Sport HD
+http://3.troya.one:34000/ch273/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHtlonb25W5t8_wg6n18XwyqgUo_zS5YOq-LvwR7DsWh
+#EXTINF:0 tvg-id="Dazn 1 Bar HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/86.png"  timeshift="3", Dazn 1 Bar HD
+http://3.troya.one:34000/ch086/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAV2MAKlvE1oJkViuoKCROYMn6XlF3Atg3eQTgjILTri
+#EXTINF:0 tvg-id="Dazn 1 Sat HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2512.png"  timeshift="0", Dazn 1 Sat HD
+http://3.troya.one:34000/ch2512/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEUqnEAz1yhfQRgg-O7a7q6yWWD-t9190q8EXvbV_YNG
+#EXTINF:0 tvg-id="Dazn Kabel 1 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1292.png"  timeshift="0", Dazn Kabel 1 HD
+http://3.troya.one:34000/ch1292/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKL7A6btVw_miVRS7qptUk5D9ObC3ZfB-IS930F0ZT9n3
+#EXTINF:0 tvg-id="Dazn 2 Bar HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/35.png"  timeshift="3", Dazn 2 Bar HD
+http://3.troya.one:34000/ch035/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBMMoBy6n2d1NgETgYGwZMBu7390-zwIYoR9_vccOWOD
+#EXTINF:0 tvg-id="Dazn 2 Sat HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2513.png"  timeshift="0", Dazn 2 Sat HD
+http://3.troya.one:34000/ch2513/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPG1oEGdGMaysyKkLRRWGQF_HrqLB3sGxkCQYJDw0xM5
+#EXTINF:0 tvg-id="Dazn Kabel 2 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1293.png"  timeshift="0", Dazn Kabel 2 HD
+http://3.troya.one:34000/ch1293/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDKMQnhg-lnOXf1Uyo56uphS1UqIsMg9doXrx1oaUucs
+#EXTINF:0 tvg-id="Dazn NFL Network HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2511.png"  timeshift="0", Dazn NFL Network HD
+http://3.troya.one:34000/ch2511/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMwdZOuWFxYwINDjALfUjw8RcA-ItR8-ynZrAh0D3Ko0
+#EXTINF:0 tvg-id="Dazn NBA HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/285.png"  timeshift="0", Dazn NBA HD
+http://3.troya.one:34000/ch285/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKH6SYPBXGyb71UsXkinC0rtvbZQA42kX0Gv1dHpkc-CP
+#EXTINF:0 tvg-id="Dazn Event 1 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2017.png"  timeshift="0", Dazn Event 1 HD
+http://3.troya.one:34000/ch2017/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPcS3ppTu_Ssv3pr9RPpwS2U07yMvgGuMPv3IYHMa7kT
+#EXTINF:0 tvg-id="Dazn Event 2 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2018.png"  timeshift="0", Dazn Event 2 HD
+http://3.troya.one:34000/ch2018/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJsT5I3hd4V80MhourbSaFKJCP3Zfq1aUX3jKvor-nr5
+#EXTINF:0 tvg-id="Dazn Event 3 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2019.png"  timeshift="0", Dazn Event 3 HD
+http://3.troya.one:34000/ch2019/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKEbFY3jRqgm5sVA2Scdtz90o6k6dO7VwyTa8kqSWqei
+#EXTINF:0 tvg-id="Dazn Event 4 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2020.png"  timeshift="0", Dazn Event 4 HD
+http://3.troya.one:34000/ch2020/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJyx-foQ1lT3WXF1Zu6C2VLBhtQXD8IgM2IHoAYn-W8D
+#EXTINF:0 tvg-id="Dazn Event 5 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2021.png"  timeshift="0", Dazn Event 5 HD
+http://3.troya.one:34000/ch2021/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKQ60NxGFoLUMESYkXX7DLpgKGC1M30-fStqryEpaJ-r
+#EXTINF:0 tvg-id="Dazn Event 6 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2022.png"  timeshift="0", Dazn Event 6 HD
+http://3.troya.one:34000/ch2022/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKC7RyEgPv6aCGaKwoxOVZpZpTpB6tg9SfpDcBYySfdOq
+#EXTINF:0 tvg-id="Dazn Event 7 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2023.png"  timeshift="0", Dazn Event 7 HD
+http://3.troya.one:34000/ch2023/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNH0YcKzl44D3thgySjhqsWyGuBo9WITsUPL1CK8g-kD
+#EXTINF:0 tvg-id="Dazn Event 8 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2024.png"  timeshift="0", Dazn Event 8 HD
+http://3.troya.one:34000/ch2024/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHee40RNVYbbQNKY1BfGMn5GuzBQAWn_0bz7QPyVa1rU
+#EXTINF:0 tvg-id="Dazn Event 9 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2025.png"  timeshift="0", Dazn Event 9 HD
+http://3.troya.one:34000/ch2025/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIZn4xXfYHr42VWsu_Rso_fj4BNOpLU51UblZ-aMTEOR
+#EXTINF:0 tvg-id="Dazn Event 10 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2026.png"  timeshift="0", Dazn Event 10 HD
+http://3.troya.one:34000/ch2026/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMScYqLOC1BvEBzQJMXKZ5jKXs3v_FVM2JVScyoNqpSd
+#EXTINF:0 tvg-id="Dazn Event 11 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2070.png"  timeshift="0", Dazn Event 11 HD
+http://3.troya.one:34000/ch2070/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIeKmau4CQcBrhYi49N63Pbq0a0RPOD3VgKXyS1iEmPn
+#EXTINF:0 tvg-id="Dazn Event 12 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2071.png"  timeshift="0", Dazn Event 12 HD
+http://3.troya.one:34000/ch2071/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKA4wvWLyVDF_rIlk_r9NNBZEqFGRIxuZVIIze-OksmAg
+#EXTINF:0 tvg-id="Dazn Event 13 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2072.png"  timeshift="0", Dazn Event 13 HD
+http://3.troya.one:34000/ch2072/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIbhyNfMTLXTdLF36tpqmDsuC0Ai91rtLA1dnzjRVJqi
+#EXTINF:0 tvg-id="Dazn Event 14 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2073.png"  timeshift="0", Dazn Event 14 HD
+http://3.troya.one:34000/ch2073/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKM_JHRL9Fq1O9FL5Nfc8MswpyEWr-7fx49wpImSYt2Ty
+#EXTINF:0 tvg-id="Dazn Event 15 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2074.png"  timeshift="0", Dazn Event 15 HD
+http://3.troya.one:34000/ch2074/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKlWaJHNEvCZP9B7Mhwa7SCpuyWE1EOYe4AftazDg7fJ
+#EXTINF:0 tvg-id="Dazn Event 16 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2075.png"  timeshift="0", Dazn Event 16 HD
+http://3.troya.one:34000/ch2075/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJ6ahfiXbYWTvyPn1H2KglfOgwMLgSv5Z9M9r-rt5LXq
+#EXTINF:0 tvg-id="Dazn Event 17 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2076.png"  timeshift="0", Dazn Event 17 HD
+http://3.troya.one:34000/ch2076/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBIKf2VwI4Hv6cdmjd0oYmWe5tVRqIWDC-lCOtuRgolO
+#EXTINF:0 tvg-id="Eurosport 1 HD DE" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/286.png"  timeshift="3", Eurosport 1 HD DE
+http://3.troya.one:34000/ch286/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCA18kFAm1t01Exr-AEdJ_QC-_VsWPJKFEw8adSakaJ5
+#EXTINF:0 tvg-id="Eurosport 2 HD DE" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/287.png"  timeshift="3", Eurosport 2 HD DE
+http://3.troya.one:34000/ch287/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEOcpGAjhV4tw99LtLXA6ibB6ufkzU6Jg6PE6By7GOEG
+#EXTINF:0 tvg-id="Eurosport 2Xtra HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/288.png"  timeshift="3", Eurosport 2Xtra HD
+http://3.troya.one:34000/ch288/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEnzrakHydX6k4DUs6elzAtm3wPay72Tqr404Rx_7vhg
+#EXTINF:0 tvg-id="Eurosport 360 1 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/121.png"  timeshift="0", Eurosport 360 1 HD
+http://3.troya.one:34000/ch121/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLd4Kn36JfvyVsU-OMLazadwM2WC0qdljGzfiuT1MgHs
+#EXTINF:0 tvg-id="eSports1 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/215.png"  timeshift="3", eSports1 HD
+http://3.troya.one:34000/ch215/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFFOqYaCb90TrQJ0D52i9C-eA0zFy2p7X0Lp_UBQuHAC
+#EXTINF:0 tvg-id="ORF Sport+ HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1555.png"  timeshift="3", ORF Sport+ HD
+http://3.troya.one:34000/ch1555/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKBim_GEwVIV0lU4mqIiYCduF-0sap_4zYGKy953TFvC
+#EXTINF:0 tvg-id="Red Bull TV" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1903.png"  timeshift="0", Red Bull TV
+http://3.troya.one:34000/ch1903/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJeyflkILdplikNyoeRFE_zZJNoA6dnoS56ao7OIUiwm
+#EXTINF:0 tvg-id="Sky Sport News HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/186.png"  timeshift="3", Sky Sport News HD
+http://3.troya.one:34000/ch186/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFmrIqZdV0kD8ofxVEi3fIl5hzmT21ORZho4qvWURrzP
+#EXTINF:0 tvg-id="Sky Sport Premier League HD DE" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1873.png"  timeshift="3", Sky Sport Premier League HD DE
+http://3.troya.one:34000/ch1873/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDsjf8BsXHQAx9LP2zXkK38aJtGVZ77MqtfPwDXrzYDT
+#EXTINF:0 tvg-id="Sky Sport Top Event" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1874.png"  timeshift="3", Sky Sport Top Event
+http://3.troya.one:34000/ch1874/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLm8WQxPJyCiUSEfawugzKPM9xN2XjNjcKYWMHpAvjeH
+#EXTINF:0 tvg-id="Sky Sport Golf HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1875.png"  timeshift="3", Sky Sport Golf HD
+http://3.troya.one:34000/ch1875/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKD_6CJ98DLnalzovpXOUeh7neMZ8eltcEAi_cTeOXR7Q
+#EXTINF:0 tvg-id="Sky Sport Mix HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1876.png"  timeshift="3", Sky Sport Mix HD
+http://3.troya.one:34000/ch1876/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKH4MQXZV_LMXsXSyHk5-EvV1G2fqHNx-KkESVrlYJnLc
+#EXTINF:0 tvg-id="Sky Sport Tennis HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1877.png"  timeshift="3", Sky Sport Tennis HD
+http://3.troya.one:34000/ch1877/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCoi-bFp_1LOVKZfL2iaMn_4zP9I-ZPcuPFPuSezu4mX
+#EXTINF:0 tvg-id="Sky Sport 1 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/149.png"  timeshift="0", Sky Sport 1 HD
+http://3.troya.one:34000/ch149/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOvgbTCTS5sPFc86mnAyfbTDKsqzIKb1SywInOzjSw4v
+#EXTINF:0 tvg-id="Sky Sport 2 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/150.png"  timeshift="0", Sky Sport 2 HD
+http://3.troya.one:34000/ch150/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNmaISJEYjQCW5uS6SwyRfTPWkBBa9FyFq3ULCxuV677
+#EXTINF:0 tvg-id="Sky Sport 3 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/194.png"  timeshift="0", Sky Sport 3 HD
+http://3.troya.one:34000/ch194/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIpPYOZNbqK7xWZrtsel5qq7N4v31Y1MYy1wUwV7EIqs
+#EXTINF:0 tvg-id="Sky Sport 4 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/195.png"  timeshift="0", Sky Sport 4 HD
+http://3.troya.one:34000/ch195/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOvGW8E5rsjwj2M1onGb05imnrIALad_lbUcMwN6E-N2
+#EXTINF:0 tvg-id="Sky Sport 5 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/196.png"  timeshift="0", Sky Sport 5 HD
+http://3.troya.one:34000/ch196/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKWm4mGS4JCDuICZgsEInw1EVz6q3jzg8SwDYNhWp3-s
+#EXTINF:0 tvg-id="Sky Sport 6 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/197.png"  timeshift="0", Sky Sport 6 HD
+http://3.troya.one:34000/ch197/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLG4PcVdQIH1N9_2f5EXZjtzwekRhWwfbu1j8GTnmZFn
+#EXTINF:0 tvg-id="Sky Sport 7 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1321.png"  timeshift="0", Sky Sport 7 HD
+http://3.troya.one:34000/ch1321/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAIw9S6bHRINkxJ0CWJatNPDnj7PK9784Q67CzNppUC4
+#EXTINF:0 tvg-id="Sky Sport 8 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/361.png"  timeshift="0", Sky Sport 8 HD
+http://3.troya.one:34000/ch361/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPsrDXkTqXVRAgiudT9vLstiXAQtL15gr_ZkdtrmD1-6
+#EXTINF:0 tvg-id="Sky Sport 9 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1322.png"  timeshift="0", Sky Sport 9 HD
+http://3.troya.one:34000/ch1322/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFCw-fQ38fWzhwAXPO8wwhwPFmzwnixJ2U-gTLzldXf5
+#EXTINF:0 tvg-id="Sky Sport 10 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1320.png"  timeshift="0", Sky Sport 10 HD
+http://3.troya.one:34000/ch1320/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAawJNcuQQ6JCYptrWWO7uB2PKDVMWGwDPZFf8mMUro8
+#EXTINF:0 tvg-id="Sky Sport 11 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1947.png"  timeshift="0", Sky Sport 11 HD
+http://3.troya.one:34000/ch1947/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMTfX5a5mixOkdSKH4f29uQ7rVQWSBBg6mu7AyLnpdJt
+#EXTINF:0 tvg-id="Sky Sport Bundesliga Sat HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2700.png"  timeshift="0", Sky Sport Bundesliga Sat HD
+http://3.troya.one:34000/ch2700/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAm7FdFMxVejn8TOVoMMdA2apJXsaWr0wPaRWCLQPFJT
+#EXTINF:0 tvg-id="Sky Sport Bundesliga Kabel HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1872.png"  timeshift="3", Sky Sport Bundesliga Kabel HD
+http://3.troya.one:34000/ch1872/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLYjOd_sBFNFELUNtBVi6xSFZbyaW1OQgvC8XVQDqiVv
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 1 Sat HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2697.png"  timeshift="0", Sky Sport Bundesliga 1 Sat HD
+http://3.troya.one:34000/ch2697/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKB5IVHAQeOdCfafXRn8ZPkrgygimKoQ8w502PAZqFN36
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 1 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/151.png"  timeshift="0", Sky Sport Bundesliga 1 HD
+http://3.troya.one:34000/ch151/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEAaDsl2hWPTx5PpCRvuR234MGbvljzuDbz-E2aVCv7r
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 2 Sat HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2698.png"  timeshift="0", Sky Sport Bundesliga 2 Sat HD
+http://3.troya.one:34000/ch2698/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKE3wpjRTW-16IEnZpiaZrNEeOMo4kmZPEzbxTe068L4F
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 2 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/152.png"  timeshift="0", Sky Sport Bundesliga 2 HD
+http://3.troya.one:34000/ch152/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDyvkkJCLtvi4UNjdfBrGc_WXQ8HG_yjbe3k0wKiK0x5
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 3 Sat HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2699.png"  timeshift="0", Sky Sport Bundesliga 3 Sat HD
+http://3.troya.one:34000/ch2699/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHd06oQtI6GcF4u70KlGQuuYMFyAk9y13iYexnCl4Qe1
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 3 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/199.png"  timeshift="0", Sky Sport Bundesliga 3 HD
+http://3.troya.one:34000/ch199/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAzJqm6vDM4ThHCnMzAdAvjjL9qKKWRuS57pACMxgQPZ
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 4 Sat HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/158.png"  timeshift="0", Sky Sport Bundesliga 4 Sat HD
+http://3.troya.one:34000/ch158/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEZ-jR-r-IIAlEOARF6mwH5Jz_8ZWLFdYDYmkM_FimmX
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 4 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/200.png"  timeshift="0", Sky Sport Bundesliga 4 HD
+http://3.troya.one:34000/ch200/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLwRIRGpmdzMGpniwUgEGcQXdbxbADHg7IcM1hIZDJRe
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 5 Sat HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/183.png"  timeshift="0", Sky Sport Bundesliga 5 Sat HD
+http://3.troya.one:34000/ch183/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGYsra6c3bcDlWN8B1OXVUhBCfaWzsu4jwLo_O0ptaD0
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 5 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/201.png"  timeshift="0", Sky Sport Bundesliga 5 HD
+http://3.troya.one:34000/ch201/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGIvGMtxZyizGzs10jV2GPCXddX50Det1YG5KS8EvkfP
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 6 Sat HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2011.png"  timeshift="0", Sky Sport Bundesliga 6 Sat HD
+http://3.troya.one:34000/ch2011/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKL22jdn4-qhkN2O_5RUI0udhh5LIoBm8uz4wsFYQ14lV
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 6 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/202.png"  timeshift="0", Sky Sport Bundesliga 6 HD
+http://3.troya.one:34000/ch202/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDpwK5FyZiJL0jPQolsDnDNbIyOwy6QR8kz7s50gmeAT
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 7 Sat HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2008.png"  timeshift="0", Sky Sport Bundesliga 7 Sat HD
+http://3.troya.one:34000/ch2008/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFDTm4bClz_Y4zIWrXa0lfwqYuPYsxrwE3RGL3RT0IQO
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 7 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/203.png"  timeshift="0", Sky Sport Bundesliga 7 HD
+http://3.troya.one:34000/ch203/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCW531zu6aKBHh8vskkwBki0xAGGz01q0EJcb7jFEyjh
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 8 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/204.png"  timeshift="0", Sky Sport Bundesliga 8 HD
+http://3.troya.one:34000/ch204/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHQc4AgkCBMZYMQypPyS9CKzDiQbBCCddSH2Q-ZnhYCS
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 9 Sat HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1899.png"  timeshift="0", Sky Sport Bundesliga 9 Sat HD
+http://3.troya.one:34000/ch1899/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKG7Vgaz8rPgDzKO2xTJa31jKa9zLYLPhY9ykZvGdCUsW
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 9 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/205.png"  timeshift="0", Sky Sport Bundesliga 9 HD
+http://3.troya.one:34000/ch205/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEleo2gXorD0xo_m6NCCDoTKKFDmcuDAbp1A2qUrwa-c
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 10 Sat HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1935.png"  timeshift="0", Sky Sport Bundesliga 10 Sat HD
+http://3.troya.one:34000/ch1935/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKExjlLZV16ZRJUr3zWbXtoUNZXKObhRW-eju5uEnIlT_
+#EXTINF:0 tvg-id="Sky Sport Bundesliga 10 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/848.png"  timeshift="0", Sky Sport Bundesliga 10 HD
+http://3.troya.one:34000/ch848/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCzlpx4NXh1wtVmbZDNy6SVCUrnHFYmrlz5MLZNSpSwJ
+#EXTINF:0 tvg-id="Sky Sport F1 Sat HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2701.png"  timeshift="0", Sky Sport F1 Sat HD
+http://3.troya.one:34000/ch2701/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGEU8rRyZoL81Lk_skn-Wo8RwUWph0cCPUaC-RKHLRvM
+#EXTINF:0 tvg-id="Sky Sport F1 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/852.png"  timeshift="3", Sky Sport F1 HD
+http://3.troya.one:34000/ch852/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJXUW22vslHUJ-Wn9ntIXUEIJtrK85dIxMfFG36qIyqB
+#EXTINF:0 tvg-id="Sky Sport F1 Kabel HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1431.png"  timeshift="3", Sky Sport F1 Kabel HD
+http://3.troya.one:34000/ch1431/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEGuNQx8SPJ7FBtu8EwkgptSU3zMdduLDV1Yn_sLxdS6
+#EXTINF:0 tvg-id="Sky Sport Austria 1 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/198.png"  timeshift="3", Sky Sport Austria 1 HD
+http://3.troya.one:34000/ch198/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAg6o0RligmD_xBrg3UGGDRp9ME1MN8xz9sxtnGim_60
+#EXTINF:0 tvg-id="Sky Sport Austria 2 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1283.png"  timeshift="0", Sky Sport Austria 2 HD
+http://3.troya.one:34000/ch1283/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKE6ETXykk2PW9uo-EvfK3EFIuunOFuJ0ip6T1Aa6InWV
+#EXTINF:0 tvg-id="Sky Sport Austria 3 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1284.png"  timeshift="0", Sky Sport Austria 3 HD
+http://3.troya.one:34000/ch1284/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKC3B07ggmT2Z5ar811-2AE79qttUGGVKvtUvOHDe_FEV
+#EXTINF:0 tvg-id="Sky Sport Austria 4 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1285.png"  timeshift="0", Sky Sport Austria 4 HD
+http://3.troya.one:34000/ch1285/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJlrI_brjNRdjGC-pQqGu1zp3qNGFJINisxy7mt3h2WR
+#EXTINF:0 tvg-id="Sky Sport Austria 5 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1317.png"  timeshift="0", Sky Sport Austria 5 HD
+http://3.troya.one:34000/ch1317/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKP4v0Z4fWaFZBZD4WzN514KJzLNDml6yRIwB8aNA8_Ur
+#EXTINF:0 tvg-id="Sky Sport Austria 6 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1318.png"  timeshift="0", Sky Sport Austria 6 HD
+http://3.troya.one:34000/ch1318/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCoyrkeEmAx-8WQCDUeAmfMtXb3bk_y-vWpRlKlBJl2j
+#EXTINF:0 tvg-id="Sky Sport Austria 7 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1319.png"  timeshift="0", Sky Sport Austria 7 HD
+http://3.troya.one:34000/ch1319/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFsgPxEtCkLCMLsCMArGTlC4aaWOwC6s9ENeuZimFryw
+#EXTINF:0 tvg-id="Sport1 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/263.png"  timeshift="3", Sport1 HD
+http://3.troya.one:34000/ch263/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLuW6SEWcqvrwgWd7eVT8iL_mvqRGYzH2piKg7PanM4X
+#EXTINF:0 tvg-id="Sport1+ HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/264.png"  timeshift="3", Sport1+ HD
+http://3.troya.one:34000/ch264/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKC3YOa31SCc5jNSy8HeYOJOtC9Ies_i3GGC1jTW3eBbB
+#EXTINF:0 tvg-id="Sportdigital Fussball HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2006.png"  timeshift="3", Sportdigital Fussball HD
+http://3.troya.one:34000/ch2006/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFI4wTabIYfHt6UZanyw-OZuduLW70aZPJ4AXpiJ31qJ
+#EXTINF:0 tvg-id="Telekom Sport 1 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/188.png"  timeshift="0", Telekom Sport 1 HD
+http://3.troya.one:34000/ch188/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKE924BgBKEGfVUZMhyWwirSOWLeuDjMFqG-qCsteN5Gh
+#EXTINF:0 tvg-id="Telekom Sport 2 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/189.png"  timeshift="0", Telekom Sport 2 HD
+http://3.troya.one:34000/ch189/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKO2rGMium5v55y3oafFhSFfEh7OL75aY8g9Nu5W_Zfjj
+#EXTINF:0 tvg-id="Telekom Sport 3 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/190.png"  timeshift="0", Telekom Sport 3 HD
+http://3.troya.one:34000/ch190/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIx8aMfExC0Ct9SGT3yWj0vxh-xQZrGd0Zdm95nGKyaT
+#EXTINF:0 tvg-id="Telekom Sport 4 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/191.png"  timeshift="0", Telekom Sport 4 HD
+http://3.troya.one:34000/ch191/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKTthz21u2oiwX9jPItRFxx7L__jtd_Yg7GptAuSx5j-
+#EXTINF:0 tvg-id="Telekom Sport 5 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/192.png"  timeshift="0", Telekom Sport 5 HD
+http://3.troya.one:34000/ch192/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDJi4SN_yfJtQjib16_6kLI_BrAx46py4yMNtlDgFowW
+#EXTINF:0 tvg-id="Telekom Sport 6 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/193.png"  timeshift="0", Telekom Sport 6 HD
+http://3.troya.one:34000/ch193/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOOmonN3q9OfEIIZ7EqBIMl6mIWZyskEYRVErGTOrkPV
+#EXTINF:0 tvg-id="Telekom Sport 7 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/212.png"  timeshift="0", Telekom Sport 7 HD
+http://3.troya.one:34000/ch212/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOI2O0Nmqy_5DxkAFQbAZyPQ8uF1pfTm2Jg7pbtOLqbm
+#EXTINF:0 tvg-id="Telekom Sport 8 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1882.png"  timeshift="0", Telekom Sport 8 HD
+http://3.troya.one:34000/ch1882/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKL3jRDMee_KVe-m2A3il6yQvagGYvnT64qbKOAmQFsf0
+#EXTINF:0 tvg-id="Telekom Sport 9 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1883.png"  timeshift="0", Telekom Sport 9 HD
+http://3.troya.one:34000/ch1883/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKkmHFsKccPk6RdJDPkrHoJzvE4PgNZ-attFrFqIePFf
+#EXTINF:0 tvg-id="Telekom Sport 10 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1884.png"  timeshift="0", Telekom Sport 10 HD
+http://3.troya.one:34000/ch1884/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKG_RTGzxG1vvIkrnRqGFzi8vloWV3UtEWSyFnuDT8gcO
+#EXTINF:0 tvg-id="Telekom Sport 11 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1885.png"  timeshift="0", Telekom Sport 11 HD
+http://3.troya.one:34000/ch1885/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHFRwonTiCx7vQZl27YeV5P62G9wjEroJm9WYwrZ_TmQ
+#EXTINF:0 tvg-id="Telekom Sport 12 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1886.png"  timeshift="0", Telekom Sport 12 HD
+http://3.troya.one:34000/ch1886/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBDUqP5oQSjzNPXYD7UUC03ZNsJHVJddbVd2f75LP0Mn
+#EXTINF:0 tvg-id="Telekom Sport 13 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1887.png"  timeshift="0", Telekom Sport 13 HD
+http://3.troya.one:34000/ch1887/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHmAx6eTb64uLkmHxsyWF_xNXF7tWBc66jF7RHkTTEqh
+#EXTINF:0 tvg-id="Telekom Sport 14 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1888.png"  timeshift="0", Telekom Sport 14 HD
+http://3.troya.one:34000/ch1888/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOXjSP8gNSU2jvSlX899cUCsKrkF8jSl7OiO4ca7x3rS
+#EXTINF:0 tvg-id="Telekom Sport 15 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1889.png"  timeshift="0", Telekom Sport 15 HD
+http://3.troya.one:34000/ch1889/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAVfHLQpYVMjy2FbHcLrPZNKQgxQTvbFVuK9itnVt8lh
+#EXTINF:0 tvg-id="Telekom Sport 16 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1890.png"  timeshift="0", Telekom Sport 16 HD
+http://3.troya.one:34000/ch1890/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNgEkZQWcBTqyMdFvVbmVvAgmPCSreu1aV4gJnN5_1NE
+#EXTINF:0 tvg-id="Telekom Sport 17 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1891.png"  timeshift="0", Telekom Sport 17 HD
+http://3.troya.one:34000/ch1891/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAJyksx59ASXYdLBadwK_paFGg6H0rWFoz8wIar6Si4h
+#EXTINF:0 tvg-id="Telekom Sport 18 HD" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/1892.png"  timeshift="0", Telekom Sport 18 HD
+http://3.troya.one:34000/ch1892/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKA0EDCaEZBmMlBonwEH1-Qt97LPnrxHjowNizrrkXA7i
+#EXTINF:0 tvg-id="DYN Sport 1 HD (Event Only)" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2546.png"  timeshift="0", DYN Sport 1 HD (Event Only)
+http://3.troya.one:34000/ch2546/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDvcta0Fx3_YL8h46wp7HFhOc8ezOHpnEOlOzt3deKSS
+#EXTINF:0 tvg-id="DYN Sport 2 HD (Event Only)" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2547.png"  timeshift="0", DYN Sport 2 HD (Event Only)
+http://3.troya.one:34000/ch2547/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKPqri9Kj1613CvR6MM7s1XKknV5apafK3fVvNpIDxIz
+#EXTINF:0 tvg-id="DYN Sport 3 HD (Event Only)" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2548.png"  timeshift="0", DYN Sport 3 HD (Event Only)
+http://3.troya.one:34000/ch2548/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBkdu7O0d_G_lXa3fQVNNvD8y6wRcRfH7_31WMecguNU
+#EXTINF:0 tvg-id="DYN Sport 4 HD (Event Only)" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2549.png"  timeshift="0", DYN Sport 4 HD (Event Only)
+http://3.troya.one:34000/ch2549/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKA422VndDOvaHRqH8xA0PbqLeYkpnxo8Au9gI9FlsLyX
+#EXTINF:0 tvg-id="DYN Sport 5 HD (Event Only)" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2550.png"  timeshift="0", DYN Sport 5 HD (Event Only)
+http://3.troya.one:34000/ch2550/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBJC4r22D5R8Rthd912SJVaNIT6AN9Lkp0b4IrWz4WkC
+#EXTINF:0 tvg-id="DYN Sport 6 HD (Event Only)" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2551.png"  timeshift="0", DYN Sport 6 HD (Event Only)
+http://3.troya.one:34000/ch2551/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDUfTajg4KJ5a57wzFnGnvQ5AB6VfIfb__MHMPJXqF2Q
+#EXTINF:0 tvg-id="DYN Sport 7 HD (Event Only)" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2552.png"  timeshift="0", DYN Sport 7 HD (Event Only)
+http://3.troya.one:34000/ch2552/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMFpUq5nLOUNhmVNM3tkUnbsnPfnu00GZjtALfnBs3HD
+#EXTINF:0 tvg-id="DYN Sport 8 HD (Event Only)" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2553.png"  timeshift="0", DYN Sport 8 HD (Event Only)
+http://3.troya.one:34000/ch2553/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKG3oahLXecEJt1sUG2GhQf4kfMusLWzS50IJbrmubCAn
+#EXTINF:0 tvg-id="DYN Sport 9 HD (Event Only)" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2554.png"  timeshift="0", DYN Sport 9 HD (Event Only)
+http://3.troya.one:34000/ch2554/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPdwI0Gpo4p5EPJ2vOKMvXv80qGUA1SbSn3m6qRmhB-E
+#EXTINF:0 tvg-id="DYN Sport 10 HD (Event Only)" group-title="16. Deutschland" tvg-logo="http://troya.one/images/chIcons/2555.png"  timeshift="0", DYN Sport 10 HD (Event Only)
+http://3.troya.one:34000/ch2555/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBXHy2t50uL-SfG7_6W_ZBT2lNn4UfIwy7UpBZpSctPc
+#EXTINF:0 tvg-id="PL: Canal+ Sport HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/872.png"  timeshift="3", PL: Canal+ Sport HD
+http://3.troya.one:34000/ch872/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAqHL_c-jeQ5JcNwRyA4P_UhpyypIqkNotKr9oZx1MRW
+#EXTINF:0 tvg-id="PL: Canal+ Sport 2 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/873.png"  timeshift="3", PL: Canal+ Sport 2 HD
+http://3.troya.one:34000/ch873/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKQwm08lxUxqSuKa5t62jwBExxNjhO_ADwfvQxiZUzz5
+#EXTINF:0 tvg-id="PL: Canal+ Sport 3 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/874.png"  timeshift="3", PL: Canal+ Sport 3 HD
+http://3.troya.one:34000/ch874/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFRapa6xozGQet3RnlljP2u6B6qwiwUt9tRnsJg1kLz3
+#EXTINF:0 tvg-id="PL: Canal+ Sport 4 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/875.png"  timeshift="3", PL: Canal+ Sport 4 HD
+http://3.troya.one:34000/ch875/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGwEGV9GlAOqfYVK5GrnQ59ADlwO-eWRIMUarLSTM0y_
+#EXTINF:0 tvg-id="PL: Canal+ Sport 5 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/920.png"  timeshift="3", PL: Canal+ Sport 5 HD
+http://3.troya.one:34000/ch920/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKA2g1YjhvuMU47te8seDX4NO88y5HC4LmD-KCYCZYSGE
+#EXTINF:0 tvg-id="PL: Canal+ Extra 1 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/2188.png"  timeshift="0", PL: Canal+ Extra 1 HD
+http://3.troya.one:34000/ch2188/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNO7fYqoSW0j1gm3z673JWwoZkN6AuDM_TfYdkMdfmMn
+#EXTINF:0 tvg-id="PL: Canal+ Extra 2 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/2148.png"  timeshift="0", PL: Canal+ Extra 2 HD
+http://3.troya.one:34000/ch2148/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEMR7OJ2xKSGxFOEHBxO7Qj0BXd5-m7b5ib847hua6Xe
+#EXTINF:0 tvg-id="PL: Canal+ Extra 3 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/2149.png"  timeshift="0", PL: Canal+ Extra 3 HD
+http://3.troya.one:34000/ch2149/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGZtFb-lJol9ll8gAvZK_t6ramezeBrEnOW7x1IcKPvu
+#EXTINF:0 tvg-id="PL: Canal+ Extra 4 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/2152.png"  timeshift="0", PL: Canal+ Extra 4 HD
+http://3.troya.one:34000/ch2152/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKO56qZ8wMqAXOv_Uon-RS20LddGvM5sB3P7gKhqxwgGm
+#EXTINF:0 tvg-id="PL: Eleven Sports 1 4K" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/637.png"  timeshift="0", PL: Eleven Sports 1 4K
+http://3.troya.one:34000/ch637/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMDR8sllpCHk3AZGFcSKMKH0FnUjTn9Cj6lyQTQ2o9HD
+#EXTINF:0 tvg-id="PL: Eleven Sports 1 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/887.png"  timeshift="3", PL: Eleven Sports 1 HD
+http://3.troya.one:34000/ch887/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNiyEmQjLh-1CG4Ih1H7ReUzP6mFB9tZsbh9Gzz6a7Fi
+#EXTINF:0 tvg-id="PL: Eleven Sports 2 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/888.png"  timeshift="3", PL: Eleven Sports 2 HD
+http://3.troya.one:34000/ch888/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLPS4ZHJLzNX7Y1fNYuD7RkLnNVgi8HHjbpCzrWTWYxW
+#EXTINF:0 tvg-id="PL: Eleven Sports 3 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/889.png"  timeshift="3", PL: Eleven Sports 3 HD
+http://3.troya.one:34000/ch889/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFGkp6UKEVWOaDIQDfKP0TqmX0CSjdc9purFCJ7Usq0Y
+#EXTINF:0 tvg-id="PL: Eleven Sports 4 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/890.png"  timeshift="3", PL: Eleven Sports 4 HD
+http://3.troya.one:34000/ch890/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKL1pg-BnOvBSRGfrmYlkqjqsb2PesGRnRs2MkjZaqL8n
+#EXTINF:0 tvg-id="PL: Eurosport 1" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/891.png"  timeshift="3", PL: Eurosport 1
+http://3.troya.one:34000/ch891/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHylKnDLYOZ_fNqvaWiwn_MIAO4R3sxjdabnSsO26di6
+#EXTINF:0 tvg-id="PL: Eurosport 2" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/892.png"  timeshift="3", PL: Eurosport 2
+http://3.troya.one:34000/ch892/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLnz8IGKi2zpu8Si9wXLp9-qS_lxZsCajX3dbN2ajhSU
+#EXTINF:0 tvg-id="PL: Extreme Sports" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/893.png"  timeshift="3", PL: Extreme Sports
+http://3.troya.one:34000/ch893/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJopAL1CBRRiUOhC5xqPO4LTAkKXQJnwSpN4X7icNDY4
+#EXTINF:0 tvg-id="PL: FightBox" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/894.png"  timeshift="3", PL: FightBox
+http://3.troya.one:34000/ch894/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPGQ1LxhcNy26NYDuDD8v--ZA28UyrzWOM2aLPwiklNo
+#EXTINF:0 tvg-id="PL: Fightklub HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/895.png"  timeshift="3", PL: Fightklub HD
+http://3.troya.one:34000/ch895/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKN2CtWoeHeVA0Fj27UbmLaMz6gWyCpDSMdsPuIenIB9p
+#EXTINF:0 tvg-id="PL: Polsat Sport 1 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/932.png"  timeshift="3", PL: Polsat Sport 1 HD
+http://3.troya.one:34000/ch932/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKL18xuPTq5nui2yNprb7dycclDzV7165b6uKbMJr121D
+#EXTINF:0 tvg-id="PL: Polsat Sport 2 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/933.png"  timeshift="3", PL: Polsat Sport 2 HD
+http://3.troya.one:34000/ch933/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJpfTuIldL5KCfnDlfuO9lDHojlMdyyN9IaPjk6LK35W
+#EXTINF:0 tvg-id="PL: Polsat Sport 3 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/2489.png"  timeshift="3", PL: Polsat Sport 3 HD
+http://3.troya.one:34000/ch2489/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDXcqBxty3C8a9nFLTWeIOPwe790DQqyGSDN6JIi4TbY
+#EXTINF:0 tvg-id="PL: Polsat Sport Premium 1 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/934.png"  timeshift="3", PL: Polsat Sport Premium 1 HD
+http://3.troya.one:34000/ch934/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKO_lhw_uilqokyvXrLkRovbeuHyyzwWlEjzB9xzNoLdK
+#EXTINF:0 tvg-id="PL: Polsat Sport Premium 2 HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/935.png"  timeshift="3", PL: Polsat Sport Premium 2 HD
+http://3.troya.one:34000/ch935/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAMEIcQ99XWsPnpYBD0MCUUbRTGaQPwWaSIU5EwldL3n
+#EXTINF:0 tvg-id="PL: Polsat Sport Premium 3(Event Only)" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/2092.png"  timeshift="0", PL: Polsat Sport Premium 3(Event Only)
+http://3.troya.one:34000/ch2092/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKjzDLSSfsMgzlP_Kh2N9CW8FKUzVLEsg5Cq8NVGSzh4
+#EXTINF:0 tvg-id="PL: Polsat Sport Premium 4(Event Only)" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/2089.png"  timeshift="0", PL: Polsat Sport Premium 4(Event Only)
+http://3.troya.one:34000/ch2089/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCB6iOvGuI5eQ9IrGysXTNnkq3YBe2udWGKsX2aTHgeh
+#EXTINF:0 tvg-id="PL: Polsat Sport Premium PPV 5(Event Only)" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/2090.png"  timeshift="0", PL: Polsat Sport Premium PPV 5(Event Only)
+http://3.troya.one:34000/ch2090/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKI-UETcIXtynq-jTDuVxdx6JLmi0NbKTOCs_IvgqeMIF
+#EXTINF:0 tvg-id="PL: Polsat Sport Premium PPV 6(Event Only)" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/2091.png"  timeshift="0", PL: Polsat Sport Premium PPV 6(Event Only)
+http://3.troya.one:34000/ch2091/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBD4n4BI-4bilNZQ17ui7S7Uelb-pu5b7TRzjD12BQTk
+#EXTINF:0 tvg-id="PL: Sport Klub HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/937.png"  timeshift="3", PL: Sport Klub HD
+http://3.troya.one:34000/ch937/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAlUSb1aHRRnCAp3sQa4B3_2QG_g26IVKvq9VqzL31oZ
+#EXTINF:0 tvg-id="PL: TVP Sport HD" group-title="17. Poland" tvg-logo="http://troya.one/images/chIcons/963.png"  timeshift="3", PL: TVP Sport HD
+http://3.troya.one:34000/ch963/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAE5WUI3TlYI0qFyU4itiW7uOjcQrPRgU6hJsSvv3NKv
+#EXTINF:0 tvg-id="ES: Dazn 1 HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2958.png"  timeshift="0", ES: Dazn 1 HD
+http://3.troya.one:34000/ch2958/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKP0c4e81XHyqjlILTnkaqv8EFMwQ-AmyVQeC09cH_tXj
+#EXTINF:0 tvg-id="ES: Dazn 2 HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2959.png"  timeshift="0", ES: Dazn 2 HD
+http://3.troya.one:34000/ch2959/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJ_Va3lRNlIWuxB8Qz6gHSpc2BsRVRN3QdVVqrg8RZxd
+#EXTINF:0 tvg-id="ES: Dazn F1 4K" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2525.png"  timeshift="0", ES: Dazn F1 4K
+http://3.troya.one:34000/ch2525/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKbqE9oXcOzYSS1m40VzmqafwGsUQd_5b5qhApJaZDGL
+#EXTINF:0 tvg-id="ES: DAZN F1 HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/765.png"  timeshift="0", ES: DAZN F1 HD
+http://3.troya.one:34000/ch765/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEzmDhInIFpSFppJDVDlp_i9pCbdrqqjJyDQL5x2Ahyy
+#EXTINF:0 tvg-id="ES: DAZN LaLiga HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2106.png"  timeshift="0", ES: DAZN LaLiga HD
+http://3.troya.one:34000/ch2106/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPwN7_zZsOtX6W5WAewKzDtAokqBwTUnPD5ZZpOivpAA
+#EXTINF:0 tvg-id="ES: DAZN LaLiga 2 HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2107.png"  timeshift="0", ES: DAZN LaLiga 2 HD
+http://3.troya.one:34000/ch2107/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKE6hT6Oq6FjAScHsuyiFP1zIWSNAylyrbPKZbuBOdv6Z
+#EXTINF:0 tvg-id="ES: Eurosport 1 HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2992.png"  timeshift="0", ES: Eurosport 1 HD
+http://3.troya.one:34000/ch2992/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLeMfIagn-nTTw3-5ZdXcs0sEAD1cMEVqDGi4iLXabya
+#EXTINF:0 tvg-id="ES: Eurosport 2 HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2993.png"  timeshift="0", ES: Eurosport 2 HD
+http://3.troya.one:34000/ch2993/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNgfEF5oo-BZ3iygnJG4vZqRkQsBFHzeET65s5WkNSOw
+#EXTINF:0 tvg-id="ES: Gol TV HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2220.png"  timeshift="0", ES: Gol TV HD
+http://3.troya.one:34000/ch2220/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKE77A1xDX7CC3KfH3N5w-Dlp8-J22xC1B51-zFmQsEzu
+#EXTINF:0 tvg-id="ES: LaLiga Hypermotion 1 HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2217.png"  timeshift="0", ES: LaLiga Hypermotion 1 HD
+http://3.troya.one:34000/ch2217/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDdKq_ZNqQ6mfl7aNJBGy_a9VtOwd6Lys3qIRBA60Pf2
+#EXTINF:0 tvg-id="ES: LaLiga Hypermotion 2 HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2218.png"  timeshift="0", ES: LaLiga Hypermotion 2 HD
+http://3.troya.one:34000/ch2218/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOX-pnZbAMljajyTrBlH1-hktBe3deXaqE4vod31TQXz
+#EXTINF:0 tvg-id="ES: M+ Liga de Campeones 4K" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2527.png"  timeshift="0", ES: M+ Liga de Campeones 4K
+http://3.troya.one:34000/ch2527/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKB1I7_NkelxgxhBa9CXFG77xflnTJz3hy0Q3__fHTjuC
+#EXTINF:0 tvg-id="ES: M+ Liga De Campeones HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2213.png"  timeshift="0", ES: M+ Liga De Campeones HD
+http://3.troya.one:34000/ch2213/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHQ8VU9KIkduRemdbnHv2cKetaDzV6J9suay7AHcaagr
+#EXTINF:0 tvg-id="ES: M+ Liga De Campeones 2 (Solo Eventos) HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2214.png"  timeshift="0", ES: M+ Liga De Campeones 2 (Solo Eventos) HD
+http://3.troya.one:34000/ch2214/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEvnk7oUVfhh4oRq8FMT8oQO1yUv4J9uYmWvORjpP787
+#EXTINF:0 tvg-id="ES: M+ Liga De Campeones 3 (Solo Eventos) HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2215.png"  timeshift="0", ES: M+ Liga De Campeones 3 (Solo Eventos) HD
+http://3.troya.one:34000/ch2215/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKF3toy25lgQ_VuAQNZ7BW3qSBl5fWJACtWTfpCNl9jKV
+#EXTINF:0 tvg-id="ES: Movistar LaLiga 4K" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2526.png"  timeshift="0", ES: Movistar LaLiga 4K
+http://3.troya.one:34000/ch2526/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKM_lQtg8cp6hOX5_hiaGDHu0e-Iktn8l_ovLn5I5vSH2
+#EXTINF:0 tvg-id="ES: Movistar LaLiga HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2216.png"  timeshift="0", ES: Movistar LaLiga HD
+http://3.troya.one:34000/ch2216/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEOmI8r37-_Nr1qYP2-ZzXyI9PIIgw-yFcV_LraApgku
+#EXTINF:0 tvg-id="ES: Movistar Accion HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2221.png"  timeshift="0", ES: Movistar Accion HD
+http://3.troya.one:34000/ch2221/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKM5QADYzxHj4tXezGbn0AaQV4bF6E4AsxMSb46N1CBY1
+#EXTINF:0 tvg-id="ES: Real Madrid TV HD" group-title="18. Spain" tvg-logo="http://troya.one/images/chIcons/2219.png"  timeshift="0", ES: Real Madrid TV HD
+http://3.troya.one:34000/ch2219/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBj-giyDayC5VTZnda7ydHtjkPVWbc6FbHHgISeEa4ME
+#EXTINF:0 tvg-id="IT: Dazn 01" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2957.png"  timeshift="0", IT: Dazn 01
+http://3.troya.one:34000/ch2957/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNW39b4Y7O-DzFad0riEKadW82H3GoVDyY5Kg1NDtsw7
+#EXTINF:0 tvg-id="IT: Eurosport HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2403.png"  timeshift="0", IT: Eurosport HD
+http://3.troya.one:34000/ch2403/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGITiljkKScCVB-K0P8549IR1IUgtaXRJ9KWaWClekrx
+#EXTINF:0 tvg-id="IT: Eurosport 2 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2406.png"  timeshift="0", IT: Eurosport 2 HD
+http://3.troya.one:34000/ch2406/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMl6o6uddvrUJqJBUjisx1YpqdO6Bcd4-E5WdCO6sD_K
+#EXTINF:0 tvg-id="IT: Rai Sport HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2388.png"  timeshift="0", IT: Rai Sport HD
+http://3.troya.one:34000/ch2388/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJ4S16Ws_GI6S-dMLRiroebVqrOerj-MB7vkJJeBuuJD
+#EXTINF:0 tvg-id="IT: Serie A Tim Femminile 1 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2411.png"  timeshift="0", IT: Serie A Tim Femminile 1 HD
+http://3.troya.one:34000/ch2411/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAS23vz_EFtB9kTEYdI68wvpvGyH-HAEzywqiaVaOWKt
+#EXTINF:0 tvg-id="IT: Serie A Tim Femminile 2 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2412.png"  timeshift="0", IT: Serie A Tim Femminile 2 HD
+http://3.troya.one:34000/ch2412/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMBN2Ras2ZSFGapsUrAfBAyO8nodBPnhIt7Yn85jCcf8
+#EXTINF:0 tvg-id="IT: Serie A Tim Femminile 3 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2413.png"  timeshift="0", IT: Serie A Tim Femminile 3 HD
+http://3.troya.one:34000/ch2413/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAIz-Aumz3ePJKkdu5uyvgi1LTQmINhugY69x0sGr01K
+#EXTINF:0 tvg-id="IT: Serie A Tim Femminile 4 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2414.png"  timeshift="0", IT: Serie A Tim Femminile 4 HD
+http://3.troya.one:34000/ch2414/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBiQCYIFTxGmTmMXal5kOu77jmnkoSC5AmW0c_iknU1V
+#EXTINF:0 tvg-id="IT: Serie A Tim Femminile 5 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2415.png"  timeshift="0", IT: Serie A Tim Femminile 5 HD
+http://3.troya.one:34000/ch2415/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMbcNDocHiUHLKDuOkeix23ZiIz6jKMUKMKCqDDI2mX_
+#EXTINF:0 tvg-id="IT: Serie A Tim Femminile 6 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2416.png"  timeshift="0", IT: Serie A Tim Femminile 6 HD
+http://3.troya.one:34000/ch2416/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKDjBRk1n9Td5js8iyt4rr_D3IbnvXdYZyU5MIHa-A38
+#EXTINF:0 tvg-id="IT: Sky Sport Arena HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2417.png"  timeshift="3", IT: Sky Sport Arena HD
+http://3.troya.one:34000/ch2417/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEZSEH2zp0SOz2KXfUB2u6s_Nkx6WZsztsrJjtLt8fGu
+#EXTINF:0 tvg-id="IT: Sky Sport Calcio HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2418.png"  timeshift="3", IT: Sky Sport Calcio HD
+http://3.troya.one:34000/ch2418/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGvjyTvnTknFE2JnbCcmyMBfb7BXJrYLjqLvIs9OgHV6
+#EXTINF:0 tvg-id="IT: Sky Sport F1 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2419.png"  timeshift="3", IT: Sky Sport F1 HD
+http://3.troya.one:34000/ch2419/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBkzvppr8ZLazQgjAvyBX2u605vfOEaa2Vi107Jn5NmI
+#EXTINF:0 tvg-id="IT: Sky Sport Golf HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2421.png"  timeshift="3", IT: Sky Sport Golf HD
+http://3.troya.one:34000/ch2421/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNC1jc_Y14gYNIQ2XTBU2kITghvpSejaSAThaZFiadMC
+#EXTINF:0 tvg-id="IT: Sky Sport MotoGP HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2422.png"  timeshift="3", IT: Sky Sport MotoGP HD
+http://3.troya.one:34000/ch2422/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKONKDOXLURyc7MZNyqvdC8MQK1GIiDUiBYY18hp0RpRq
+#EXTINF:0 tvg-id="IT: Sky Sport NBA HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2423.png"  timeshift="3", IT: Sky Sport NBA HD
+http://3.troya.one:34000/ch2423/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDllfotN-uoVBl-fqp6TXmeUX201JlLVjfYdP5WZLhWc
+#EXTINF:0 tvg-id="IT: Sky Sport Tennis HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2424.png"  timeshift="3", IT: Sky Sport Tennis HD
+http://3.troya.one:34000/ch2424/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKt1iQetRwmO10rCVllR1nF49SwXaD3yejvq2z-QyxSy
+#EXTINF:0 tvg-id="IT: Sky Sport Uno HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2425.png"  timeshift="3", IT: Sky Sport Uno HD
+http://3.troya.one:34000/ch2425/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKN4ohgNOjqhcSWEW-UQCMK0ZNRpZrTkKW0R8jJ8gTNSA
+#EXTINF:0 tvg-id="IT: Sky Sport24 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2426.png"  timeshift="3", IT: Sky Sport24 HD
+http://3.troya.one:34000/ch2426/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMdshaHkvvseizDdjpzI5rKJiahaFbOp2lxf3G5HTC7G
+#EXTINF:0 tvg-id="IT: Sky Sport 251 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2427.png"  timeshift="0", IT: Sky Sport 251 HD
+http://3.troya.one:34000/ch2427/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKA0pmyHuTUgcfPqVngYNVjolzKOMFtg-40yUprRRdeym
+#EXTINF:0 tvg-id="IT: Sky Sport 252 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2428.png"  timeshift="0", IT: Sky Sport 252 HD
+http://3.troya.one:34000/ch2428/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBewFD0uBqZYb4QFHqQDT7u2SOTs_6I5yKmmuDzMoDEH
+#EXTINF:0 tvg-id="IT: Sky Sport 253 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2429.png"  timeshift="0", IT: Sky Sport 253 HD
+http://3.troya.one:34000/ch2429/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKO2tRJFXqbC6n21oPShcxPrmG0a6W0YT5JLSUrhLP_SX
+#EXTINF:0 tvg-id="IT: Sky Sport 254 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2430.png"  timeshift="0", IT: Sky Sport 254 HD
+http://3.troya.one:34000/ch2430/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLb8Hey5duVfKZjXmx827psGfkdGF-IZ-ESwqkCZC8Si
+#EXTINF:0 tvg-id="IT: Sky Sport 255 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2431.png"  timeshift="0", IT: Sky Sport 255 HD
+http://3.troya.one:34000/ch2431/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNRTNBAw38rRruapfivOlUtnab7a9mOHJ7AjsQUGYrJs
+#EXTINF:0 tvg-id="IT: Sky Sport 256 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2432.png"  timeshift="0", IT: Sky Sport 256 HD
+http://3.troya.one:34000/ch2432/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHVS8QeNaJ9UbsM5WRJdEoMTHnDmvvx37Cbka-VeRuZ-
+#EXTINF:0 tvg-id="IT: Sky Sport 257 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2433.png"  timeshift="0", IT: Sky Sport 257 HD
+http://3.troya.one:34000/ch2433/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNa6S_sU3GC6xG7mh2wS1Eks7dkb2Jyq--mrttN6xQbl
+#EXTINF:0 tvg-id="IT: Sky Sport 258 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2434.png"  timeshift="0", IT: Sky Sport 258 HD
+http://3.troya.one:34000/ch2434/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEf8CTJ2nhaEVOkePvqr3YJtw4nHwIMmLI0Sz1J5S8rs
+#EXTINF:0 tvg-id="IT: Sky Sport 259 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2435.png"  timeshift="0", IT: Sky Sport 259 HD
+http://3.troya.one:34000/ch2435/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLJketrnklLvsyIkQ-TnVr0JRYOmxSG2I6HL_PuwDz4Y
+#EXTINF:0 tvg-id="IT: Sky Sport 260 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2436.png"  timeshift="0", IT: Sky Sport 260 HD
+http://3.troya.one:34000/ch2436/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEp6fhmI7aG30vqajnQNEZIFiLPzkXOiwXjyn420XbUT
+#EXTINF:0 tvg-id="IT: Sky Sport 261 HD" group-title="19. Italy" tvg-logo="http://troya.one/images/chIcons/2437.png"  timeshift="0", IT: Sky Sport 261 HD
+http://3.troya.one:34000/ch2437/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKYRq_IrdBgSvMZlqZO--XDWcnXhcs_trib4VTKXKwD5
+#EXTINF:0 tvg-id="IE: Premier Sports 1 HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2440.png"  timeshift="6", IE: Premier Sports 1 HD 50fps
+http://3.troya.one:34000/ch2440/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPUh4-ulpqGDY53m_Wu2SrjYN-RkNLHDjW0DMd6Cj-y1
+#EXTINF:0 tvg-id="IE: Premier Sports 2 HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2441.png"  timeshift="6", IE: Premier Sports 2 HD 50fps
+http://3.troya.one:34000/ch2441/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEDASpSSaF9FOOI6sIn1b-0QNYKKdTnQXscQ-Jl0dxYJ
+#EXTINF:0 tvg-id="UK: Sky Sports Premier League HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2451.png"  timeshift="6", UK: Sky Sports Premier League HD 50fps
+http://3.troya.one:34000/ch2451/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKN6r0Ol51bAZ--zqazMPhv5SI_jNywicJDphwaRav3XV
+#EXTINF:0 tvg-id="UK: Sky Sports Premier League HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/1554.png"  timeshift="6", UK: Sky Sports Premier League HD
+http://3.troya.one:34000/ch1554/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKhK0fJSXLpK4P5AaJyVz2O2tW_ug9u5xJvw4sWLG0y9
+#EXTINF:0 tvg-id="UK: Sky Sports News HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2450.png"  timeshift="6", UK: Sky Sports News HD 50fps
+http://3.troya.one:34000/ch2450/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDE0CxuOTxhn8yU63UXZoMzdjgJfwKwSgY0Jy9UtRwBm
+#EXTINF:0 tvg-id="UK: Sky Sports News HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/1061.png"  timeshift="6", UK: Sky Sports News HD
+http://3.troya.one:34000/ch1061/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMVg5GTe2XEnpKCzNSOrJF-ANIudWTkHNFeBwn8kkSXS
+#EXTINF:0 tvg-id="UK: Sky Sports Football HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2446.png"  timeshift="6", UK: Sky Sports Football HD 50fps
+http://3.troya.one:34000/ch2446/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDImEmSV3fwEVls2gc6utRVYfHEpdntddGDZpKJZjPX7
+#EXTINF:0 tvg-id="UK: Sky Sports Football HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/314.png"  timeshift="6", UK: Sky Sports Football HD
+http://3.troya.one:34000/ch314/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGxMrXaUvdofkYdWpsLw92Y3PWpjlmdgMrvIRUe9oH8b
+#EXTINF:0 tvg-id="UK: Sky Sports Mix HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2449.png"  timeshift="6", UK: Sky Sports Mix HD 50fps
+http://3.troya.one:34000/ch2449/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHCtiHdYodfiOWf8RptJxbk8jOtz4dL-gzMCBSEgHxF5
+#EXTINF:0 tvg-id="UK: Sky Sports Mix HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/234.png"  timeshift="6", UK: Sky Sports Mix HD
+http://3.troya.one:34000/ch234/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEx-IMKt7WDslttGakfATeWo5ToleQy_aoEjkfM8ZhG8
+#EXTINF:0 tvg-id="UK: Sky Sports Cricket HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2444.png"  timeshift="6", UK: Sky Sports Cricket HD 50fps
+http://3.troya.one:34000/ch2444/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKA0Bor_mcghIs7BugRRnQOVRIX3RCIfFzJzmrUJzQIbo
+#EXTINF:0 tvg-id="UK: Sky Sports Cricket HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/235.png"  timeshift="6", UK: Sky Sports Cricket HD
+http://3.troya.one:34000/ch235/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKAODzK7gQo4Qjhs6y9yMirWjOWRXfYbRCM6si_zsYtD
+#EXTINF:0 tvg-id="Sky UK: Sports Main Event HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2448.png"  timeshift="6", Sky UK: Sports Main Event HD 50fps
+http://3.troya.one:34000/ch2448/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLQBXjO0Or_d2ubeE8jz9zJSyd2p7p68LOqnWg-jB2HU
+#EXTINF:0 tvg-id="UK: Sky Sports Main Event HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/335.png"  timeshift="6", UK: Sky Sports Main Event HD
+http://3.troya.one:34000/ch335/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPHt-tr4aZxRSsr9ANeNjI6ZjrgKBJ-u1AoIUdi9XD0C
+#EXTINF:0 tvg-id="UK: Sky Sports Golf HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2447.png"  timeshift="6", UK: Sky Sports Golf HD 50fps
+http://3.troya.one:34000/ch2447/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAa0FbmV7_Ab07PMQIx5JNT7wNncu1j6yUZBQCByX6oy
+#EXTINF:0 tvg-id="UK: Sky Sports Golf HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/306.png"  timeshift="6", UK: Sky Sports Golf HD
+http://3.troya.one:34000/ch306/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKK-3uiscOYV6A36URM0UDBmLbq0Qof5VlUJjaMjMHJwW
+#EXTINF:0 tvg-id="UK: Sky Sports Racing HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2452.png"  timeshift="6", UK: Sky Sports Racing HD 50fps
+http://3.troya.one:34000/ch2452/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAShxAn8lh60bN5H_eWW1-lvC_emj0rblaIo979WZlgN
+#EXTINF:0 tvg-id="UK: Sky Sports Racing HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/1100.png"  timeshift="6", UK: Sky Sports Racing HD
+http://3.troya.one:34000/ch1100/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOIYyI3HJHGl55wLGYEZUSbkXk0Rm3c7_-UPXp778Xn0
+#EXTINF:0 tvg-id="UK: Sky Sports Action HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2442.png"  timeshift="6", UK: Sky Sports Action HD 50fps
+http://3.troya.one:34000/ch2442/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPXmqPP5iK1uEGi1VuOkaENlSHt-zW6yEGFXKnvixxpw
+#EXTINF:0 tvg-id="UK: Sky Sports Action HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2105.png"  timeshift="6", UK: Sky Sports Action HD
+http://3.troya.one:34000/ch2105/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEzOxfXlERmWAVRQMp3f9qSKfZ958abusY15I3yol1bx
+#EXTINF:0 tvg-id="UK: Sky Sports Plus HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2443.png"  timeshift="6", UK: Sky Sports Plus HD 50fps
+http://3.troya.one:34000/ch2443/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCI9RHpnbKlhiQNm7MZw13gwvW-GdqdHoWWqCdL-5Cv3
+#EXTINF:0 tvg-id="UK: Sky Sports Plus HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/74.png"  timeshift="6", UK: Sky Sports Plus HD
+http://3.troya.one:34000/ch074/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIXTde-SVba5UKIVDyQKq2U3jPTIScyx8mp0gMqadIIV
+#EXTINF:0 tvg-id="UK: Sky Sports F1 HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2445.png"  timeshift="6", UK: Sky Sports F1 HD 50fps
+http://3.troya.one:34000/ch2445/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNIL2TIBHYJQCJBVSmiDWVAMWzu5mmJwls_pK7FjT2Tx
+#EXTINF:0 tvg-id="UK: Sky Sports F1 HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/513.png"  timeshift="6", UK: Sky Sports F1 HD
+http://3.troya.one:34000/ch513/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLtRmirWIAVfeVX2mv1p3Ut8yzrTaOPocy7D0lxPs-XQ
+#EXTINF:0 tvg-id="UK: Sky Sports Tennis HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/1498.png"  timeshift="6", UK: Sky Sports Tennis HD
+http://3.troya.one:34000/ch1498/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHK0P0OV-GjWkuIeBWR99t8xx9tA2uspxXygGdhDVIHL
+#EXTINF:0 tvg-id="UK: TNT Sport 1 HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2207.png"  timeshift="3", UK: TNT Sport 1 HD 50fps
+http://3.troya.one:34000/ch2207/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBaeCfa71gc8rW5jAKXdmk6wP6nb7xQ6ivpUnUVC7TJN
+#EXTINF:0 tvg-id="UK: TNT Sport 1 HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/236.png"  timeshift="6", UK: TNT Sport 1 HD
+http://3.troya.one:34000/ch236/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOOC7HDEiDBSC5SUZeVDk28jjAt2eR9H8L5RemNE0Ns8
+#EXTINF:0 tvg-id="UK: TNT Sport 2 HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2208.png"  timeshift="3", UK: TNT Sport 2 HD 50fps
+http://3.troya.one:34000/ch2208/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKC9zkYmsOMOBYZaI4ym82zP6pFlgIamv9Wz0jW0kH0JD
+#EXTINF:0 tvg-id="UK: TNT Sport 2 HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/334.png"  timeshift="6", UK: TNT Sport 2 HD
+http://3.troya.one:34000/ch334/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNU6-s5zEUnvuWWQuMDNDrvRGxcyQXL1nJzzmT7aML84
+#EXTINF:0 tvg-id="UK: TNT Sport 3 HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2209.png"  timeshift="3", UK: TNT Sport 3 HD 50fps
+http://3.troya.one:34000/ch2209/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNtoi5bPLRXe19mBGWtPa5MkF18uDlIFFBupNc92bbqS
+#EXTINF:0 tvg-id="UK: TNT Sport 3 HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/233.png"  timeshift="6", UK: TNT Sport 3 HD
+http://3.troya.one:34000/ch233/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKPo6KSxlJsNq8BE6EssIiBm2dVhWsNiXNMAeDZH2xOW
+#EXTINF:0 tvg-id="UK: TNT Sport 4 HD 50fps" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2210.png"  timeshift="3", UK: TNT Sport 4 HD 50fps
+http://3.troya.one:34000/ch2210/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEFxY6KB8pPBc3GgDbIGBlZk5jr4PlwAz5MC8R_iP6rm
+#EXTINF:0 tvg-id="UK: TNT Sport 4 HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2002.png"  timeshift="6", UK: TNT Sport 4 HD
+http://3.troya.one:34000/ch2002/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNfP0mGGJ0lIQE6kmtWTtwjF8Ji52XLYdQDHGAu1y1dX
+#EXTINF:0 tvg-id="UK: TNT Sport 5 (Event Only)" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2081.png"  timeshift="0", UK: TNT Sport 5 (Event Only)
+http://3.troya.one:34000/ch2081/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOm71ojSy5mQqFpLrEBM6lIhHBmtcx-AghkM9z1Okrdc
+#EXTINF:0 tvg-id="UK: TNT Sport 6 (Event Only)" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2082.png"  timeshift="0", UK: TNT Sport 6 (Event Only)
+http://3.troya.one:34000/ch2082/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCfxZIiJ6miCqDvC91PxECD_jWSpPzbRV0UjZZPCfQRC
+#EXTINF:0 tvg-id="UK: TNT Sport 7 (Event Only)" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2083.png"  timeshift="0", UK: TNT Sport 7 (Event Only)
+http://3.troya.one:34000/ch2083/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHrcVesvaI2qJIeUuqM0JVECURc6BBsDrO1lLFzNHi5C
+#EXTINF:0 tvg-id="UK: TNT Sport 8 (Event Only)" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2084.png"  timeshift="0", UK: TNT Sport 8 (Event Only)
+http://3.troya.one:34000/ch2084/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKF1icQ4idCul6fswbmGS0WfXypYCalMYMOZgo3DW6aqX
+#EXTINF:0 tvg-id="UK: TNT Sport 9 (Event Only)" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/2085.png"  timeshift="0", UK: TNT Sport 9 (Event Only)
+http://3.troya.one:34000/ch2085/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKC9jfGiezQaATzRKS_L_BYxTUtU8w3LxEHIXJVS-2uH0
+#EXTINF:0 tvg-id="UK: Viaplay Sports 1 HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/1718.png"  timeshift="0", UK: Viaplay Sports 1 HD
+http://3.troya.one:34000/ch1718/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLmar1yMM4K3N25MxuHtPFu996eRxA3ehqY2wgnsvbqy
+#EXTINF:0 tvg-id="UK: Viaplay Sports 2 HD" group-title="20. United Kingdom" tvg-logo="http://troya.one/images/chIcons/1719.png"  timeshift="0", UK: Viaplay Sports 2 HD
+http://3.troya.one:34000/ch1719/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKA5lftp2uIksVzIwIZ8ddHml4A4A_o33f0yG9GWaD-5Q
+#EXTINF:0 tvg-id="BY: Беларусь 5 HD" group-title="21. Belarus" tvg-logo="http://troya.one/images/chIcons/473.png"  timeshift="3", BY: Беларусь 5 HD
+http://3.troya.one:34000/ch473/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHNnbj9TfJN1rzTKIXWB2gj766De3VioC9YimCMHBeRq
+#EXTINF:0 tvg-id="KZ: InSport HD" group-title="22. Kazakhstan" tvg-logo="http://troya.one/images/chIcons/1088.png"  timeshift="6", KZ: InSport HD
+http://3.troya.one:34000/ch1088/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDa348HrXWqeb5-F9dRGztHd4sAN-l-x-T4OqEJronmH
+#EXTINF:0 tvg-id="KZ: InHockey HD" group-title="22. Kazakhstan" tvg-logo="http://troya.one/images/chIcons/2036.png"  timeshift="0", KZ: InHockey HD
+http://3.troya.one:34000/ch2036/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKsY7MHHKNA_6F7MC2ZL0tURd_GuPH8eDzGr-91nPnNO
+#EXTINF:0 tvg-id="KZ: QazSport HD" group-title="22. Kazakhstan" tvg-logo="http://troya.one/images/chIcons/474.png"  timeshift="6", KZ: QazSport HD
+http://3.troya.one:34000/ch474/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJLvN01PLHAHQcwRat-obH880OfAhAiDDA5zz6cu7CS4
+#EXTINF:0 tvg-id="KZ: Q Sport HD" group-title="22. Kazakhstan" tvg-logo="http://troya.one/images/chIcons/1091.png"  timeshift="6", KZ: Q Sport HD
+http://3.troya.one:34000/ch1091/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMDnyjpIFBWtkw8UaEDSrWtTLaR99-Yf3mvf9cukt-UV
+#EXTINF:0 tvg-id="KZ: Q Sport League HD" group-title="22. Kazakhstan" tvg-logo="http://troya.one/images/chIcons/1092.png"  timeshift="6", KZ: Q Sport League HD
+http://3.troya.one:34000/ch1092/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJY2Kf3qC99rKRLfQpD8PgqneBxiD1a5xerrBxQulB8Y
+#EXTINF:0 tvg-id="KZ: Setanta Qazaqstan HD" group-title="22. Kazakhstan" tvg-logo="http://troya.one/images/chIcons/639.png"  timeshift="6", KZ: Setanta Qazaqstan HD
+http://3.troya.one:34000/ch639/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHrfiFP7PHx1A8rRsvvqqgxuQclsW1KeUrM0KfYa_Hmg
+#EXTINF:0 tvg-id="KZ: Setanta Qazaqstan HD RU" group-title="22. Kazakhstan" tvg-logo="http://troya.one/images/chIcons/2514.png"  timeshift="0", KZ: Setanta Qazaqstan HD RU
+http://3.troya.one:34000/ch2514/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKI4RflkRdff1-yJTB0LPHlrxcNCBMPXjpM9wu75Geo1l
+#EXTINF:0 tvg-id="KZ: Setanta Sports 1 HD" group-title="22. Kazakhstan" tvg-logo="http://troya.one/images/chIcons/2034.png"  timeshift="6", KZ: Setanta Sports 1 HD
+http://3.troya.one:34000/ch2034/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPnvaDaw3IKuzwZ6JhEWBMO5b_c5COgFOj8TYwuXEi6P
+#EXTINF:0 tvg-id="KZ: Setanta Sports 2 HD" group-title="22. Kazakhstan" tvg-logo="http://troya.one/images/chIcons/2035.png"  timeshift="6", KZ: Setanta Sports 2 HD
+http://3.troya.one:34000/ch2035/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKK-wWd3rYbgCzFeDWlI3PPxcw9KaMe0o5njEl92auPaF
+#EXTINF:0 tvg-id="LT: Go3 Sport 1 HD" group-title="23. Lietuva" tvg-logo="http://troya.one/images/chIcons/137.png"  timeshift="3", LT: Go3 Sport 1 HD
+http://3.troya.one:34000/ch137/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPIW5kC0p8M57ve0O7SrGK2HNtKhqH3BunSTRsimyDZy
+#EXTINF:0 tvg-id="LT: Go3 Sport 2 HD" group-title="23. Lietuva" tvg-logo="http://troya.one/images/chIcons/622.png"  timeshift="3", LT: Go3 Sport 2 HD
+http://3.troya.one:34000/ch622/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCBbnifA9wXOCQCbeQaZ6fhj5NuoX0qKI_0ZPT1cFgvZ
+#EXTINF:0 tvg-id="LT: Go3 Sport 3 HD" group-title="23. Lietuva" tvg-logo="http://troya.one/images/chIcons/1629.png"  timeshift="3", LT: Go3 Sport 3 HD
+http://3.troya.one:34000/ch1629/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMD10WSRw7b4yWFumhdK0d8KYIvNdN6yQUsV2KJa3fsG
+#EXTINF:0 tvg-id="LT: Go3 Sport Open HD" group-title="23. Lietuva" tvg-logo="http://troya.one/images/chIcons/458.png"  timeshift="3", LT: Go3 Sport Open HD
+http://3.troya.one:34000/ch458/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKP4PYd_d_sync81MGywbtnSzQscg4ZX1OUDEYQUadu9
+#EXTINF:0 tvg-id="LT: Sport 1 HD" group-title="23. Lietuva" tvg-logo="http://troya.one/images/chIcons/676.png"  timeshift="3", LT: Sport 1 HD
+http://3.troya.one:34000/ch676/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCaFL0hHHr9gT9gwdYwdqYr7okUWwkYrDhKadQVQNKvv
+#EXTINF:0 tvg-id="LV: Go3 Sport 1 HD" group-title="24. Latvija" tvg-logo="http://troya.one/images/chIcons/1645.png"  timeshift="6", LV: Go3 Sport 1 HD
+http://3.troya.one:34000/ch1645/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKU0QPcQ_BeSKL6XIqUpiYGsiD_z7p6cmxtivlXb4Sp0
+#EXTINF:0 tvg-id="LV: Go3 Sport 2 HD" group-title="24. Latvija" tvg-logo="http://troya.one/images/chIcons/1646.png"  timeshift="6", LV: Go3 Sport 2 HD
+http://3.troya.one:34000/ch1646/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMC4IOL5LnyGGDe3n4bK3qUPWFxd5aRj_LrlrJp_7oTC
+#EXTINF:0 tvg-id="LV: Go3 Sport 3 HD" group-title="24. Latvija" tvg-logo="http://troya.one/images/chIcons/1647.png"  timeshift="6", LV: Go3 Sport 3 HD
+http://3.troya.one:34000/ch1647/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJyBVVEhkdxYTmvS_l7iu6r7W0xPNcnr-cF6kdSxJ_BJ
+#EXTINF:0 tvg-id="LV: Go3 Sport Open HD" group-title="24. Latvija" tvg-logo="http://troya.one/images/chIcons/1665.png"  timeshift="6", LV: Go3 Sport Open HD
+http://3.troya.one:34000/ch1665/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHq82vEHcaNXoPuO6m6TesO2UHHppbbPXq70v32T5iJW
+#EXTINF:0 tvg-id="EE: Go3 Sport 1 HD" group-title="25. Estonia" tvg-logo="http://troya.one/images/chIcons/1638.png"  timeshift="6", EE: Go3 Sport 1 HD
+http://3.troya.one:34000/ch1638/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOURCtJ9WcC171ejQWmzIvXnpt33iVRGf7_mR71-NPfm
+#EXTINF:0 tvg-id="EE: Go3 Sport 2 HD" group-title="25. Estonia" tvg-logo="http://troya.one/images/chIcons/1639.png"  timeshift="6", EE: Go3 Sport 2 HD
+http://3.troya.one:34000/ch1639/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKA2ijd5gD5Om7NStVi2qKAT0iyuSqbYkYho2YZ5Kr9cj
+#EXTINF:0 tvg-id="EE: Setanta Sports 1 HD" group-title="25. Estonia" tvg-logo="http://troya.one/images/chIcons/2121.png"  timeshift="6", EE: Setanta Sports 1 HD
+http://3.troya.one:34000/ch2121/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKI3oNnD4EFsTfK87Sj69G-c-9rJ_DpSmtrr5WfljrG0P
+#EXTINF:0 tvg-id="MD: Setanta Sports HD" group-title="26. Moldova" tvg-logo="http://troya.one/images/chIcons/1296.png"  timeshift="0", MD: Setanta Sports HD
+http://3.troya.one:34000/ch1296/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMVhy-Jx8IAorbnBEEW5yv_2xdJbMp89Mt0tj0rlpVYJ
+#EXTINF:0 tvg-id="RO: Digi Sport 1 HD" group-title="27. Romania" tvg-logo="http://troya.one/images/chIcons/1108.png"  timeshift="0", RO: Digi Sport 1 HD
+http://3.troya.one:34000/ch1108/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCzYPs8JGmEuXDt0SQz1sdCyJN001g_-laSbMNE_gOjA
+#EXTINF:0 tvg-id="RO: Digi Sport 2 HD" group-title="27. Romania" tvg-logo="http://troya.one/images/chIcons/1112.png"  timeshift="0", RO: Digi Sport 2 HD
+http://3.troya.one:34000/ch1112/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPATz-UN4gP8KNGnsCvV-EuQYbcOC9kP7ofy2MFqYA79
+#EXTINF:0 tvg-id="RO: Digi Sport 3 HD" group-title="27. Romania" tvg-logo="http://troya.one/images/chIcons/1113.png"  timeshift="0", RO: Digi Sport 3 HD
+http://3.troya.one:34000/ch1113/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNzB92Te7sdLGcPsI-7TQibq0K3QMEe7EvzoorHpHvhh
+#EXTINF:0 tvg-id="RO: Digi Sport 4 HD" group-title="27. Romania" tvg-logo="http://troya.one/images/chIcons/1117.png"  timeshift="0", RO: Digi Sport 4 HD
+http://3.troya.one:34000/ch1117/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKM-pTnG4k3Duc1nrLtPydZ-O4IWU7mpVj3gSFoaCa2_v
+#EXTINF:0 tvg-id="RO: Eurosport 1 HD" group-title="27. Romania" tvg-logo="http://troya.one/images/chIcons/1832.png"  timeshift="0", RO: Eurosport 1 HD
+http://3.troya.one:34000/ch1832/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHx3GOvDhHdb7gTCO-3TdXjifSTHjqMgvuNe341j_bQJ
+#EXTINF:0 tvg-id="RO: Eurosport 2 HD" group-title="27. Romania" tvg-logo="http://troya.one/images/chIcons/1831.png"  timeshift="0", RO: Eurosport 2 HD
+http://3.troya.one:34000/ch1831/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEJgHdqO1KllGErO1_tZA_v0LfPyLF6gsMwW83bST1JY
+#EXTINF:0 tvg-id="RO: Prima Sport 1 HD" group-title="27. Romania" tvg-logo="http://troya.one/images/chIcons/1844.png"  timeshift="0", RO: Prima Sport 1 HD
+http://3.troya.one:34000/ch1844/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEgCUnLMAsvdOre9qP5EUAlo5QVIk2oRv0M8ACmNqdYM
+#EXTINF:0 tvg-id="RO: Prima Sport 2 HD" group-title="27. Romania" tvg-logo="http://troya.one/images/chIcons/1847.png"  timeshift="0", RO: Prima Sport 2 HD
+http://3.troya.one:34000/ch1847/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPJb_cMzB0wOF9GaV0DRwRQv35mYQKzJk8ok8M7BbynM
+#EXTINF:0 tvg-id="RO: Prima Sport 3 HD" group-title="27. Romania" tvg-logo="http://troya.one/images/chIcons/1845.png"  timeshift="0", RO: Prima Sport 3 HD
+http://3.troya.one:34000/ch1845/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMHevuXH9O0GaiLigUUjI011bxw0kRi6dFNLKRyxivvC
+#EXTINF:0 tvg-id="RO: Prima Sport 4 HD" group-title="27. Romania" tvg-logo="http://troya.one/images/chIcons/1846.png"  timeshift="0", RO: Prima Sport 4 HD
+http://3.troya.one:34000/ch1846/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCCgLkhBonRgJSCewOPKjRR96mG0wAbobSZWET2FDHkh
+#EXTINF:0 tvg-id="AM: FastSports" group-title="28. Armenia" tvg-logo="http://troya.one/images/chIcons/1492.png"  timeshift="3", AM: FastSports
+http://3.troya.one:34000/ch1492/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLJ2NK9zV2nR7uTODCgcle4ofLp6r772PSQe3ZUxrYPB
+#EXTINF:0 tvg-id="AM: FastSports 1" group-title="28. Armenia" tvg-logo="http://troya.one/images/chIcons/2587.png"  timeshift="0", AM: FastSports 1
+http://3.troya.one:34000/ch2587/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKG7NqLUU4civcP3Zu-W3HgWYYZBt0-kts__Rf6ZHZgeg
+#EXTINF:0 tvg-id="AM: FastSports 2" group-title="28. Armenia" tvg-logo="http://troya.one/images/chIcons/2588.png"  timeshift="0", AM: FastSports 2
+http://3.troya.one:34000/ch2588/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPUUK6Ri997EPILf8_P_Cp7W8k9zVMNTFwwhMSFVBR61
+#EXTINF:0 tvg-id="GE: Setanta Sports 1 Georgia HD" group-title="29. Georgia" tvg-logo="http://troya.one/images/chIcons/1199.png"  timeshift="3", GE: Setanta Sports 1 Georgia HD
+http://3.troya.one:34000/ch1199/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLqKZLLal9nLNtCfonAr7AzALy_fhtE2dr2cGvsGb67i
+#EXTINF:0 tvg-id="GE: Setanta Sports 2 Georgia HD" group-title="29. Georgia" tvg-logo="http://troya.one/images/chIcons/1206.png"  timeshift="3", GE: Setanta Sports 2 Georgia HD
+http://3.troya.one:34000/ch1206/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLf62KQPPZX89TVebtbYYIpWREZY4NjGxZ-7jzcU5Dnu
+#EXTINF:0 tvg-id="GE: Setanta Sports 3 Georgia HD" group-title="29. Georgia" tvg-logo="http://troya.one/images/chIcons/2060.png"  timeshift="3", GE: Setanta Sports 3 Georgia HD
+http://3.troya.one:34000/ch2060/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKK381UKjRTMy2PVAmvLRIr8qqEKd4ZLcXbseM_PKRLJT
+#EXTINF:0 tvg-id="GE: Silk Sport 1 HD" group-title="29. Georgia" tvg-logo="http://troya.one/images/chIcons/1603.png"  timeshift="3", GE: Silk Sport 1 HD
+http://3.troya.one:34000/ch1603/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLaihUqf9T8rHE_vQIb7PND4DvzDTYnXx177gimPrPpG
+#EXTINF:0 tvg-id="GE: Silk Sport 2 HD" group-title="29. Georgia" tvg-logo="http://troya.one/images/chIcons/1604.png"  timeshift="3", GE: Silk Sport 2 HD
+http://3.troya.one:34000/ch1604/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCWAWRew8Io1e9wGiC0cv5rCBodFDd8X0M9bUVrlhrCP
+#EXTINF:0 tvg-id="GE: Silk Sport 3 HD" group-title="29. Georgia" tvg-logo="http://troya.one/images/chIcons/1605.png"  timeshift="3", GE: Silk Sport 3 HD
+http://3.troya.one:34000/ch1605/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFRuNwpC3IWhgntufZIzbfjuSfyo1UzpzYCsY6QEaurv
+#EXTINF:0 tvg-id="TR: Bein Sports 1 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1424.png"  timeshift="0", TR: Bein Sports 1 HD
+http://3.troya.one:34000/ch1424/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMZfzkU5v06mzkFo-H7ZQTGhiSYFa6gg7a1Y5K6sM3vL
+#EXTINF:0 tvg-id="TR: Bein Sports 2 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1425.png"  timeshift="0", TR: Bein Sports 2 HD
+http://3.troya.one:34000/ch1425/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLi5m2xBsJ4FvbTrlrXJ6voVSBoZapBqhUDEgZrYOLBO
+#EXTINF:0 tvg-id="TR: Bein Sports 3 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1426.png"  timeshift="0", TR: Bein Sports 3 HD
+http://3.troya.one:34000/ch1426/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKA3Efd5JEXicpePhgNP0FBpQQiAzITIjESULCdzUfCp3
+#EXTINF:0 tvg-id="TR: Bein Sports 4 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1448.png"  timeshift="0", TR: Bein Sports 4 HD
+http://3.troya.one:34000/ch1448/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCUoBCQ6rm6X7X_sjI38CgpwpOW5Basty2j1ClwZXT3j
+#EXTINF:0 tvg-id="TR: Bein Sports MAX 1 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1449.png"  timeshift="0", TR: Bein Sports MAX 1 HD
+http://3.troya.one:34000/ch1449/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPf_GGfzA6jcgxOZ3kIwjyQ_y5deU21teMhDe245epO0
+#EXTINF:0 tvg-id="TR: Bein Sports MAX 2 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1450.png"  timeshift="0", TR: Bein Sports MAX 2 HD
+http://3.troya.one:34000/ch1450/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIkrl3XY3Xd7Dn77MLbb2gxJJvLSHC7nBF_Mx9DPv2UO
+#EXTINF:0 tvg-id="TR: Eurosport 1 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/2481.png"  timeshift="0", TR: Eurosport 1 HD
+http://3.troya.one:34000/ch2481/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLhez8U2pIkX1u4A4hBnstJ3lwKFQBYtdIUqG00Yttlo
+#EXTINF:0 tvg-id="TR: Eurosport 2 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/2482.png"  timeshift="0", TR: Eurosport 2 HD
+http://3.troya.one:34000/ch2482/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPtoXJF7kSWV6TIJo6E3GrjLtHIwq5Becgv8021bWPkL
+#EXTINF:0 tvg-id="TR: S Sport HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1397.png"  timeshift="0", TR: S Sport HD
+http://3.troya.one:34000/ch1397/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEeIGrWtZHJoEkwU_6X3fynacz88b4ZHv6A8PeeBl6EH
+#EXTINF:0 tvg-id="TR: S Sport 2 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1398.png"  timeshift="0", TR: S Sport 2 HD
+http://3.troya.one:34000/ch1398/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHl6PZMKBU_PDX1-iPQVyQsaGkp4AJL6vA9hxmj6y3kS
+#EXTINF:0 tvg-id="TR: Spor Smart HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1408.png"  timeshift="0", TR: Spor Smart HD
+http://3.troya.one:34000/ch1408/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFEOwL60AAe8jlr40dZkH5H6Y7xZKFKKJbIEcB6VbzX6
+#EXTINF:0 tvg-id="TR: Spor Smart 2 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1784.png"  timeshift="0", TR: Spor Smart 2 HD
+http://3.troya.one:34000/ch1784/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKH89zDJGZTGWdMxHEbzz9HJVb3HWljZcMXXYilLPSs-H
+#EXTINF:0 tvg-id="TR: TRT Spor HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1416.png"  timeshift="0", TR: TRT Spor HD
+http://3.troya.one:34000/ch1416/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHbc5HE_MDeXLrp8aURZGVTxvbcdhM-_3FJSoPBVBnZY
+#EXTINF:0 tvg-id="TR: Tivibu Spor 1 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1451.png"  timeshift="0", TR: Tivibu Spor 1 HD
+http://3.troya.one:34000/ch1451/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLyd91LwTrFB_Jtrhizm8tI0L2ztbQyCmmPUlpB0IGcJ
+#EXTINF:0 tvg-id="TR: Tivibu Spor 2 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1452.png"  timeshift="0", TR: Tivibu Spor 2 HD
+http://3.troya.one:34000/ch1452/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOdb3xUhN5zplJ2xokGvKIOFsyQpFCPJIdemSSgiT7-P
+#EXTINF:0 tvg-id="TR: Tivibu Spor 3 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1453.png"  timeshift="0", TR: Tivibu Spor 3 HD
+http://3.troya.one:34000/ch1453/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBJ0kGDU8ghlOvlUsLfqdPXr0kh-LhH2ovmmkD5qLTIP
+#EXTINF:0 tvg-id="TR: Exxen 1 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1994.png"  timeshift="0", TR: Exxen 1 HD
+http://3.troya.one:34000/ch1994/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNXG6I8kcFZaO1TDZhb_ttP17CbwcCIejaHmpWnjF9aQ
+#EXTINF:0 tvg-id="TR: Exxen 2 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1995.png"  timeshift="0", TR: Exxen 2 HD
+http://3.troya.one:34000/ch1995/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBETk3U1wEGCQ92mkT-2WXa6lK4s4aREq8p8cJvx1N8z
+#EXTINF:0 tvg-id="TR: Exxen 3 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1996.png"  timeshift="0", TR: Exxen 3 HD
+http://3.troya.one:34000/ch1996/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJXpVSoCRSEa7VUc49HSpZKjOa202aeCoadwwUKL3fuP
+#EXTINF:0 tvg-id="TR: Exxen 4 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1997.png"  timeshift="0", TR: Exxen 4 HD
+http://3.troya.one:34000/ch1997/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHBsc37VWPIDOMCSbqpapO00WCpGTyLFoP-EeN673q_X
+#EXTINF:0 tvg-id="TR: Exxen 5 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1998.png"  timeshift="0", TR: Exxen 5 HD
+http://3.troya.one:34000/ch1998/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKILCBRCULJIxKM2TMLW_fQh8Yj4DOAHI2GPBokUneo2r
+#EXTINF:0 tvg-id="TR: Exxen 6 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/1999.png"  timeshift="0", TR: Exxen 6 HD
+http://3.troya.one:34000/ch1999/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBJHU6c3dkOnsVdI1z5M1rTMqeXvJ7tS_2gafSWFMXr_
+#EXTINF:0 tvg-id="TR: Exxen 7 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/2000.png"  timeshift="0", TR: Exxen 7 HD
+http://3.troya.one:34000/ch2000/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKP--xncM6aynMSulsen87cLt54lyzPqCP3pGwhiMuKIq
+#EXTINF:0 tvg-id="TR: Exxen 8 HD" group-title="30. Türkiye" tvg-logo="http://troya.one/images/chIcons/2001.png"  timeshift="0", TR: Exxen 8 HD
+http://3.troya.one:34000/ch2001/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKD7_YzmXiRJHCcGy7GZ4gVkjhaW4fhLqttONJwLIff1v
+#EXTINF:0 tvg-id="UZ: Sport" group-title="32. Uzbekistan" tvg-logo="http://troya.one/images/chIcons/1788.png"  timeshift="0", UZ: Sport
+http://3.troya.one:34000/ch1788/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAmIB-O6H7z8i03teUkcLPtzmKi7EAXkF-mHZy-ARHSy
