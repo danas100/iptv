@@ -1,1 +1,48 @@
+#EXTM3U generation-date="2024.09.27 14:34:22 MSK"
+#EXTINF:0 tvg-id="IL: Channel 11" group-title="עידן פלוס" tvg-logo="http://troya.one/images/chIcons/428.png"  timeshift="6",1080 ערוץ 11
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+
+#EXTINF:0 tvg-id="IL: Channel 12" group-title="עידן פלוס" tvg-logo="http://troya.one/images/chIcons/429.png"  timeshift="6", 720 ערוץ 12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1
+
+#EXTINF:0 tvg-id="IL: Channel 13" group-title="עידן פלוס" tvg-logo="http://troya.one/images/chIcons/430.png"  timeshift="6", 1080 ערוץ 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+
+#EXTINF:0 tvg-id="IL: Channel 14" group-title="עידן פלוס" tvg-logo="http://troya.one/images/chIcons/1119.png"  timeshift="6", 720 ערוץ 14
+https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8?player.cust_params=dxseg%3DmqZmzXw7%26permutive%3Dnull#EXTINF:0 tvg-id="IL: i24 News" group-title="עידן פלוס" tvg-logo="http://troya.one/images/chIcons/2824.png"  timeshift="0", 720 חדשות i24
+
+#EXTINF:0 tvg-id="IL: i24 News" group-title="עידן פלוס" tvg-logo="http://troya.one/images/chIcons/2824.png"  timeshift="0",1080 חדשות i24
+http://stremioaddon.vercel.app/i24
+
+#EXTINF:-1 timeshift="3" tvg-id="Walla +" tvg-name="וואלה+" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6529.png?60923" group-title="ISRAEL - עידן פלוס", 1080p וואלה+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ערוץ הידברות" tvg-name="הידברות" tvg-logo="http://mliveproil.com:80/images/af0ed91fb67c676adbf2fd6189884c3a.png" group-title="ISRAEL - עידן פלוס", 720 הידברות
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+
+#EXTINF:-1 tvg-id=", לעם" tvg-name="ערוץ 66 - ה," tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9747.jpg?87864" group-title="ISRAEL - עידן פלוס",קבלה לעם 504
+https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ערוץ הכנסת" tvg-logo="http://mliveproil.com:80/images/DKYueHFeJzBfLzl6HxqvQ-Sp-iyus5nGHSHcEMGkHRJvC00f1sYgePPBy-nLoULk.png" group-title="ISRAEL - HD גיבוי",720 ערוץ הכנסת
+https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
+
+#EXTINF:0 tvg-id="IL: Channel 24" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1142.png"  timeshift="6",  1080 ערוץ 24
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
+
+
+#EXTINF:-1 tvg-id="RelevantTV.il",רלוונט TV (1080p)
+https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8 
+
+#EXTINF:0 tvg-id="IL: Channel 9" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/427.png"  timeshift="6", ערוץ 9 רוסית
+http://11.troya.one:34000/ch427/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLnP-LZXAJmkitlnPp-GjK5ZxZyWyJO_yWUlZiHlquw8
+
+#EXTINF:-1 tvg-id="KanEducational.il" group-title="עידן פלוס",כאן חינוכית 1080
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:-1 tvg-id="ShelanuTV.il",שלנו TV (720p)
+https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ערוץ האח הגדול" tvg-name="Big Brother HD" tvg-logo="http://mliveproil.com:80/images/3885fce064682b12043b7290e7c6cf94.png" group-title="ISRAEL - HD גיבוי",האח הגדול 1080
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+
 
