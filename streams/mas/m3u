@@ -140,20 +140,6 @@ http://11.troya.one:34000/ch2613/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAK
 http://11.troya.one:34000/ch2614/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKC_wLAFxUT6ETP7If4Cn5g-4P-QsrqpsWUwwVTN8eRqG
 #EXTINF:0 tvg-id="IL: HOT HBO HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1175.png"  timeshift="6", HOT HBO HD
 http://11.troya.one:34000/ch1175/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKOYo3WGqxjnVDTq9Kwk8hXl5NIEecgnrbOtqxaPIksPS
-#EXTINF:0 tvg-id="IL: Channel 9" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/427.png"  timeshift="6", ערוץ 9 רוסית
-http://11.troya.one:34000/ch427/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLnP-LZXAJmkitlnPp-GjK5ZxZyWyJO_yWUlZiHlquw8
-#EXTINF:0 tvg-id="IL: Cellcom Rus" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2494.png"  timeshift="6", סלקום רוסית
-http://11.troya.one:34000/ch2494/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCqlBJ5frOJZLHsmJfxBQTbzgtRHW3RAT60E07PeAIgc
-#EXTINF:0 tvg-id="IL: HOT Zone HD (ru)" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2638.png"  timeshift="6", הוט Zone HD (ru)
-http://11.troya.one:34000/ch2638/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKA6_IHFZed8dTZKa56VKhfqpRWxwhinbGho-S88nrG5Z
-#EXTINF:0 tvg-id="IL: HOT Cinema 1 HD (ru)" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2633.png"  timeshift="6", הוט Cinema 1 HD (ru)
-http://11.troya.one:34000/ch2633/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKE8ziCqPOjsdmF0bhILRRX1BwcgAHq4yFSObkjI6LLdU
-#EXTINF:0 tvg-id="IL: HOT Cinema 2 HD (ru)" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2634.png"  timeshift="6", הוט Cinema 2 HD (ru)
-http://11.troya.one:34000/ch2634/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPIvsF17fsWjAqmUfyKmZgL3IpLEkMSoqxn3R_ezCQ7N
-#EXTINF:0 tvg-id="IL: HOT Cinema 3 HD (ru)" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2635.png"  timeshift="6", הוט Cinema 3 HD (ru)
-http://11.troya.one:34000/ch2635/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLffeggzIDpNdE64xqp0cJqBr3MQrXmuG-QbOg-K_ZqW
-#EXTINF:0 tvg-id="IL: HOT Cinema 4 HD (ru)" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2636.png"  timeshift="6", הוט Cinema 4 HD (ru)
-http://11.troya.one:34000/ch2636/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCwfkM_ZF6PBo3AwFDiuLvfrW4ImuhjEGjqB0PJxFK6-
 #EXTINF:0 tvg-id="IL: Home Plus" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2631.png"  timeshift="6", בית פלוס
 http://11.troya.one:34000/ch2631/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBBOrVWTt3qe9lWfH_tJ_uE0cYXz32gqXBjGdGnF6WVz
 #EXTINF:0 tvg-id="IL: Jim Jam" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2645.png"  timeshift="6", Jim Jam
@@ -230,22 +216,25 @@ http://11.troya.one:34000/ch1146/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAK
 http://11.troya.one:34000/ch1188/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGCbGIRbISW9ZpdBt2K5_odOjBh_6IFK_vGxf4XDHsFA
 #EXTINF:0 tvg-id="IL: Vamos HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2641.png"  timeshift="6", Vamos HD
 http://11.troya.one:34000/ch2641/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKPaVSfysPWdPDbEhughK6h4gjPrB05I8JlJX0OxG9EZD
-#EXTINF:0 tvg-id="IL: YES Movies Action HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1148.png"  timeshift="6", YES Movies Action HD
-http://11.troya.one:34000/ch1148/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKF597Qbr-xsasu_l4_0-vpWqJoxjT0J-B58yBoQ3-rTY
-#EXTINF:0 tvg-id="IL: YES Movies Comedy HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1149.png"  timeshift="6", YES Movies Comedy HD
-http://11.troya.one:34000/ch1149/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDjb2d3Ujbg4BgPhHrF77yV9x6JADO4o8xsk6QQh8AFY
-#EXTINF:0 tvg-id="IL: YES Movies Drama HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1150.png"  timeshift="6", YES Movies Drama HD
-http://11.troya.one:34000/ch1150/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIMknt02X4XKVoJqEZX5cqJTVirPV6R9PTWdxK2o0lwc
-#EXTINF:0 tvg-id="IL: YES Movies Kids HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1151.png"  timeshift="6", YES Movies Kids HD
-http://11.troya.one:34000/ch1151/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKIoGm1snapbQK4o7I4xRDqGCG2Kjm2rXGQgXSYaPsSjE
-#EXTINF:0 tvg-id="IL: YES TV Comedy HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1159.png"  timeshift="6", YES TV Comedy HD
-http://11.troya.one:34000/ch1159/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKFqXROYBzjOWLOqh05LMObxoah98NGqwMKl7Sd5CKoDC
-#EXTINF:0 tvg-id="IL: YES TV Action HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1158.png"  timeshift="6", YES TV Action HD
-http://11.troya.one:34000/ch1158/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJ1pkLft_tyzu8AbCFli6EUIZoZTtSiyywy_7Wa0_Fqc
-#EXTINF:0 tvg-id="IL: YES TV Drama HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1160.png"  timeshift="6", YES TV Drama HD
-http://11.troya.one:34000/ch1160/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGknA2piioDzlDrgoOjgCVcDAYh2sArmIRocssVEFl_Q
-#EXTINF:0 tvg-id="IL: YES Docu HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1137.png"  timeshift="6", YES Docu HD
-http://11.troya.one:34000/ch1137/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMB50lpdoOOVk9fi0NXQPPV_4ikeu-UIneiAp3pFs7F2
+#EXTINF:-1 timeshift="3" tvg-id="yes MOVIES ACTION" tvg-name="Yes Movies Action" tvg-logo="http://mliveproil.com:80/images/f2de5c639a7f0af830bb819c13481b36.png" group-title="ISRAEL - YES",Yes Movies Action
+http://mliveproil.com:80/nCRY9FSFKg/aWkMG9n2uK/34.ts
+#EXTINF:-1 tvg-id="yes MOVIES ACTION" tvg-name="Yes Movies Action - סרטי אקשן" tvg-logo="http://mliveproil.com:80/images/f2de5c639a7f0af830bb819c13481b36.png" group-title="ISRAEL - HD גיבוי",Yes Movies Action - סרטי אקשן
+http://mliveproil.com:80/nCRY9FSFKg/aWkMG9n2uK/112843.ts
+#EXTINF:-1 tvg-id="IL: YES Movies Action HD" tvg-name="YES Movies Action HD" tvg-logo="http://mliveproil.com:80/images/f2de5c639a7f0af830bb819c13481b36.png" group-title="ISRAEL - HD גיבוי",YES Movies Action HD
+http://mliveproil.com:80/nCRY9FSFKg/aWkMG9n2uK/112767.ts
+#EXTINF:-1 timeshift="3" tvg-id="yes MOVIES COMEDY" tvg-name="Yes Movies Comedy" tvg-logo="http://mliveproil.com:80/images/3e273d6b3815a93f47128193436df75a.png" group-title="ISRAEL - YES",Yes Movies Comedy
+http://mliveproil.com:80/nCRY9FSFKg/aWkMG9n2uK/35.ts
+#EXTINF:-1 tvg-id="yes MOVIES COMEDY" tvg-name="Yes Movies Comedy - סרטי קומדיה" tvg-logo="http://mliveproil.com:80/images/3e273d6b3815a93f47128193436df75a.png" group-title="ISRAEL - HD גיבוי",Yes Movies Comedy - סרטי קומדיה
+http://mliveproil.com:80/nCRY9FSFKg/aWkMG9n2uK/112844.ts
+#EXTINF:-1 tvg-id="yes MOVIES COMEDY" tvg-name="Yes Movies Comedy HD" tvg-logo="http://mliveproil.com:80/images/3e273d6b3815a93f47128193436df75a.png" group-title="ISRAEL - HD גיבוי",Yes Movies Comedy HD
+http://mliveproil.com:80/nCRY9FSFKg/aWkMG9n2uK/112775.ts
+#EXTINF:-1 timeshift="3" tvg-id="yes MOVIES DRAMA" tvg-name="Yes Movies Drama" tvg-logo="http://mliveproil.com:80/images/578af8e3fbafa7cf4b98b11b8dd7bfb9.png" group-title="ISRAEL - YES",Yes Movies Drama
+http://mliveproil.com:80/nCRY9FSFKg/aWkMG9n2uK/187.ts
+#EXTINF:-1 tvg-id="yes MOVIES DRAMA" tvg-name="Yes Movies Drama - סרטי דרמה" tvg-logo="http://mliveproil.com:80/images/578af8e3fbafa7cf4b98b11b8dd7bfb9.png" group-title="ISRAEL - HD גיבוי",Yes Movies Drama - סרטי דרמה
+http://mliveproil.com:80/nCRY9FSFKg/aWkMG9n2uK/112845.ts
+#EXTINF:-1 tvg-id="yes MOVIES DRAMA" tvg-name="Yes Movies Drama HD" tvg-logo="http://mliveproil.com:80/images/578af8e3fbafa7cf4b98b11b8dd7bfb9.png" group-title="ISRAEL - HD גיבוי",Yes Movies Drama HD
+http://mliveproil.com:80/nCRY9FSFKg/aWkMG9n2uK/112776.ts
+
 #EXTINF:0 tvg-id="IL: YES Israeli Cinema HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2030.png"  timeshift="6", YES Israeli Cinema HD
 http://11.troya.one:34000/ch2030/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKHYz8qu2yN80XVS8ihO5XsYDhy3OMDWS10juog_zs4Im
 #EXTINF:0 tvg-id="IL: Yes Plus Diamonds HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/3030.png"  timeshift="0", Yes Plus Diamonds HD
@@ -260,40 +249,6 @@ http://11.troya.one:34000/ch1164/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAK
 http://11.troya.one:34000/ch2500/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKCsgC_z57ReiRNFG64KnpcMKGtyCa2h2QDMQAHRnHysl
 #EXTINF:0 tvg-id="IL: Yam Tihoni Plus" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1152.png"  timeshift="6", Yam Tihoni Plus
 http://11.troya.one:34000/ch1152/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKG6gP04ufWgoVVECQ8JSUOiu7Ou8d8WSUB2oSvYrGkqK
-#EXTINF:0 tvg-id="IL: Cellcom Yeladim" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1194.png"  timeshift="6", Cellcom Yeladim
-http://11.troya.one:34000/ch1194/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKI2RmSVhvYnejfG3fjowpXn39zMAMn360w-LR3_9v3m
-#EXTINF:0 tvg-id="IL: YoYo" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2625.png"  timeshift="6", YoYo
-http://11.troya.one:34000/ch2625/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGcfvt-jg3gtiKjfyPtrtKAvZiECJuwuxtMiJLlUHlHt
-#EXTINF:0 tvg-id="IL: Yalduti" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2646.png"  timeshift="6", Yalduti
-http://11.troya.one:34000/ch2646/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKK67HcBNxsMfLfdF3TD_U_akw-I8mm2BG1NJXKbnvAIb
-#EXTINF:0 tvg-id="IL: Wiz" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2031.png"  timeshift="6", Wiz
-http://11.troya.one:34000/ch2031/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJrm5VWdKNIPnZU4eW1leM3UuKO9PFVbjqlzh6HLI_mX
-#EXTINF:0 tvg-id="IL: Zoom" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2643.png"  timeshift="6", Zoom
-http://11.troya.one:34000/ch2643/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBziOLz-f-vUQyVB7EXii6E0Sc7cKCpNwcERldsDNDH0
-#EXTINF:0 tvg-id="IL: Disney Channel HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1121.png"  timeshift="6", Disney Channel HD
-http://11.troya.one:34000/ch1121/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDyzZFypgSbXulqJVmxypt4fKpZJHkormfVttjiFaLCE
-#EXTINF:0 tvg-id="IL: Disney Jr." group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1162.png"  timeshift="6", Disney Jr.
-http://11.troya.one:34000/ch1162/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKLWMpbc0kMHQIWrgZs1J2NuL84n7AjRys0Id9eWfe_7o
-#EXTINF:0 tvg-id="IL: Baby TV" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1118.png"  timeshift="6", Baby TV
-http://11.troya.one:34000/ch1118/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKKVZzu3Ao399blYM6ZWojotqt9WLACFOypZ2rG7EP8QN
-#EXTINF:0 tvg-id="IL: Zoom Toon HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2644.png"  timeshift="6", Zoom Toon HD
-http://11.troya.one:34000/ch2644/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNkOqN3TjhwmYZbmm5cH_qycpSMMUzy_JKnU8FE13Nqm
-#EXTINF:0 tvg-id="IL: Partner Yladim" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2608.png"  timeshift="6", Partner Yladim
-http://11.troya.one:34000/ch2608/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKMjQL9jnkavTIc3w3tALGAaJGi1TokJnZAOdT1q9CneR
-#EXTINF:0 tvg-id="IL: Nick HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1185.png"  timeshift="6", Nick HD
-http://11.troya.one:34000/ch1185/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKJMjAUYNzVU8VMp-vhMpqDCUOtwnPIE4APTKRvDQT09m
-#EXTINF:0 tvg-id="IL: Luli" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1170.png"  timeshift="6", Luli
-http://11.troya.one:34000/ch1170/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKBiNQYqyJ3fcnj2TuVjN4fSoR33dzNgfcvV5qGadMbhw
-#EXTINF:0 tvg-id="IL: Logi" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2626.png"  timeshift="6", Logi
-http://11.troya.one:34000/ch2626/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKGzpMmVKsuw89tSNBxpO4vD2dVViYE8FiwTV4Hak0eH5
-#EXTINF:0 tvg-id="IL: Nick Jr HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2637.png"  timeshift="6", Nick Jr HD
-http://11.troya.one:34000/ch2637/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDyAI7KuBcWj9Jde21JhhdzAtnkeAB8AGTXT6FjUD7-I
-#EXTINF:0 tvg-id="IL: Junior" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1184.png"  timeshift="6", Junior
-http://11.troya.one:34000/ch1184/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKEzfBClyerO2SqvYibq1LEOPwfn5WLQ6WzZF4sCsr8Gq
-#EXTINF:0 tvg-id="IL: Hop" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1154.png"  timeshift="6", Hop
-http://11.troya.one:34000/ch1154/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDzvirr2ah4if_KS1WkaBogvWqWOA9BcKnE8rVZVb_pe
-#EXTINF:0 tvg-id="IL: Hop Pele HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2003.png"  timeshift="3", Hop Pele HD
-http://11.troya.one:34000/ch2003/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKB2rlntOI_pRZNWYFnr1hLJ-7hMovwJWWOV87vf00FKZ
 
 #EXTINF:-1 tvg-id="" tvg-name="ערוץ הכנסת" tvg-logo="http://mliveproil.com:80/images/DKYueHFeJzBfLzl6HxqvQ-Sp-iyus5nGHSHcEMGkHRJvC00f1sYgePPBy-nLoULk.png" group-title="ISRAEL - HD גיבוי",720 ערוץ הכנסת
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
