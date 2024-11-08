@@ -104,8 +104,7 @@ http://11.troya.one:34000/ch2627/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAK
 http://11.troya.one:34000/ch2642/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKDShRZR2xuBA9s4SH1rkLQkCbqNUBUFPLnmGXgDk0ggh
 #EXTINF:0 tvg-id="IL: Good Life TV HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1141.png"  timeshift="6", החיים הטובים TV HD
 http://11.troya.one:34000/ch1141/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKAkEPi0Ta5UhAZ8vEsYXBEiPz-CBcbqAd0eEdS97ZMlf
-#EXTINF:0 tvg-id="IL: Hop Israeli Childhood" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/2138.png"  timeshift="0", Hop Israeli Childhood
-http://11.troya.one:34000/ch2138/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKG2hNElBtvxE2I1ScNGtx3pYVIUhlFwLX2FnppNPIC1D
+
 #EXTINF:0 tvg-id="IL: Health Channel HD" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1176.png"  timeshift="6", ערוץ הבריאות HD
 http://11.troya.one:34000/ch1176/mono.m3u8?token=danyasraf.u5sfK__SQZcSEFoYtAGAKNWVV576Gz-QQ4Rs4yzFJfM0DYEYRK1PZ8W1lxgvR7Xh
 #EXTINF:0 tvg-id="IL: Humor Channel" group-title="20. Israel" tvg-logo="http://troya.one/images/chIcons/1178.png"  timeshift="6", ערוץ ההומור
