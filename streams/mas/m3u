@@ -17,6 +17,9 @@ http://stremioaddon.vercel.app/i24
 #EXTINF:-1 timeshift="3" tvg-id="Walla +" tvg-name="וואלה+" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6529.png?60923" group-title="ISRAEL - עידן פלוס", 1080p וואלה+
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ערוץ הכנסת" tvg-logo="http://mliveproil.com:80/images/DKYueHFeJzBfLzl6HxqvQ-Sp-iyus5nGHSHcEMGkHRJvC00f1sYgePPBy-nLoULk.png" group-title="ISRAEL - HD גיבוי",720 ערוץ הכנסת
+https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
+
 #EXTINF:-1 tvg-id="ערוץ הידברות" tvg-name="הידברות" tvg-logo="http://mliveproil.com:80/images/af0ed91fb67c676adbf2fd6189884c3a.png" group-title="ISRAEL - עידן פלוס", 720 הידברות
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 
